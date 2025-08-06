@@ -1,0 +1,1682 @@
+{
+    "CTASection": {
+        "title": "Sẵn sàng bắt đầu kiếm tiền?",
+        "description": "Tham gia cộng đồng đặt cọc đang phát triển của chúng tôi và bắt đầu kiếm thu nhập thụ động ngay hôm nay",
+        "button": "Bắt đầu đặt cọc"
+    },
+    "HeroSection": {
+        "badge": "Thu nhập tới 18% hàng tháng",
+        "title": "Đặt cọc thông minh",
+        "titleHighlight": "Được hỗ trợ bởi AI",
+        "description": "Tham gia cùng hàng nghìn người dùng kiếm thu nhập thụ động thông qua nền tảng đặt cọc thông minh của chúng tôi",
+        "startStaking": "Bắt đầu đặt cọc",
+        "stats": {
+            "TotalStaked": "Tổng số đã đặt cọc",
+            "exchanges": "Sàn giao dịch",
+            "avgReturn": "Lợi nhuận trung bình",
+            "totalUsers": "Tổng số người dùng"
+        },
+        "calculator": {
+            "title": "Máy tính lợi nhuận",
+            "description": "Tính toán lợi nhuận tiềm năng dựa trên số tiền đặt cọc",
+            "stakeAmount": "Số tiền đặt cọc ($)",
+            "monthly": "Lợi nhuận hàng tháng",
+            "daily": "Lợi nhuận hàng ngày",
+            "max": "Lợi nhuận tối đa",
+            "monthlyAPY": "hàng tháng",
+            "startEarning": "Bắt đầu kiếm tiền ngay"
+        }
+    },
+    "FeaturesSection": {
+        "title": "Tại sao chọn nền tảng của chúng tôi?",
+        "description": "Chúng tôi cung cấp trải nghiệm đặt cọc an toàn, linh hoạt và bổ ích được hỗ trợ bởi công nghệ AI",
+        "features": {
+            "monthlyReturns": {
+                "title": "Lợi nhuận hàng tháng",
+                "description": "Kiếm phần thưởng hàng tháng với MPY lên đến 18% dựa trên số tiền đặt cọc của bạn"
+            },
+            "aiPowered": {
+                "title": "Giao dịch được hỗ trợ bởi AI",
+                "description": "Bot AI của chúng tôi tự động giao dịch trên hàng trăm sàn giao dịch tiền điện tử"
+            },
+            "secure": {
+                "title": "Nền tảng an toàn",
+                "description": "Ví đa chữ ký và giám sát thời gian thực đảm bảo tài sản của bạn luôn an toàn"
+            },
+            "referral": {
+                "title": "Phần thưởng giới thiệu",
+                "description": "Kiếm thêm thu nhập thông qua chương trình giới thiệu của chúng tôi"
+            }
+        }
+    },
+    "HowItWorksSection": {
+        "title": "Cách thức hoạt động",
+        "description": "Bắt đầu kiếm phần thưởng chỉ với vài bước đơn giản",
+        "step": "Bước",
+        "steps": {
+            "connectWallet": {
+                "title": "Kết nối ví của bạn",
+                "description": "Kết nối ví tiền điện tử của bạn với nền tảng một cách an toàn (Khuyến nghị sử dụng ví Trust)"
+            },
+            "chooseStake": {
+                "title": "Chọn số tiền đặt cọc",
+                "description": "Chọn token và số tiền đặt cọc ưa thích của bạn"
+            },
+            "startEarning": {
+                "title": "Bắt đầu kiếm tiền",
+                "description": "Kiếm phần thưởng hàng tháng với tỷ lệ cạnh tranh"
+            },
+            "claimRewards": {
+                "title": "Nhận phần thưởng",
+                "description": "Rút lợi nhuận hàng ngày cho đến khi đạt lợi nhuận 400%"
+            }
+        }
+    },
+    "StakingPlanSection": {
+        "title": "Các gói đặt cọc",
+        "description": "Đặt cọc càng nhiều, lợi nhuận càng cao - tìm gói phù hợp nhất với bạn",
+        "plans": {
+            "starter": {
+                "name": "Khởi đầu",
+                "min": "Tối thiểu",
+                "max": "Tối đa",
+                "apy": "APY",
+                "startStaking": "Bắt đầu đặt cọc",
+                "description": "Kiếm 9% MPY cho đến khi đạt 400% so với số tiền đầu tư ban đầu"
+            },
+            "bronze": {
+                "name": "Đồng",
+                "min": "Tối thiểu",
+                "max": "Tối đa",
+                "apy": "APY",
+                "startStaking": "Bắt đầu đặt cọc",
+                "description": "Kiếm 11% MPY cho đến khi đạt 400% so với số tiền đầu tư ban đầu"
+            },
+            "silver": {
+                "name": "Bạc",
+                "min": "Tối thiểu",
+                "max": "Tối đa",
+                "apy": "APY",
+                "startStaking": "Bắt đầu đặt cọc",
+                "description": "Kiếm 13% MPY cho đến khi đạt 400% so với số tiền đầu tư ban đầu"
+            },
+            "gold": {
+                "name": "Vàng",
+                "min": "Tối thiểu",
+                "max": "Tối đa",
+                "apy": "APY",
+                "startStaking": "Bắt đầu đặt cọc",
+                "description": "Kiếm 15% MPY cho đến khi đạt 400% so với số tiền đầu tư ban đầu"
+            },
+            "diamond": {
+                "name": "Kim cương",
+                "min": "Tối thiểu",
+                "max": "Tối đa",
+                "apy": "APY",
+                "startStaking": "Bắt đầu đặt cọc",
+                "description": "Kiếm 18% MPY cho đến khi đạt 400% so với số tiền đầu tư ban đầu"
+            }
+        }
+    },
+    "PartnersSection": {
+        "badge": "Đối tác tin cậy",
+        "title": "Đối tác chiến lược của chúng tôi",
+        "description": "Chúng tôi hợp tác với các nhà lãnh đạo ngành để cung cấp trải nghiệm đặt cọc an toàn và đáng tin cậy nhất"
+    },
+    "PartnerProgramSection": {
+        "badge": "Chương Trình Đối Tác",
+        "title": "Hệ Thống Hoa Hồng Toàn Diện",
+        "description": "Kiếm nhiều nguồn thu nhập thông qua chương trình đối tác toàn diện của chúng tôi",
+        "directCommission": {
+            "title": "Hoa Hồng Giới Thiệu Trực Tiếp",
+            "description": "Kiếm hoa hồng ngay lập tức từ người được giới thiệu trực tiếp và mạng lưới của họ",
+            "level": "Cấp {level}",
+            "commission": "Hoa hồng trực tiếp từ {level} người được giới thiệu"
+        },
+        "profitSharing": {
+            "title": "Hoa Hồng Chia Sẻ Lợi Nhuận",
+            "description": "Kiếm phần chia sẻ lợi nhuận của nền tảng thông qua cấu trúc mạng lưới 10 cấp của chúng tôi",
+            "requirement": "Mỗi khi tuyến dưới của bạn nhận thưởng, bạn sẽ nhận được phần trăm hoa hồng từ số lãi của họ tùy theo cấp bậc của bạn",
+            "level": "Cấp"
+        },
+        "leaderBonus": {
+            "title": "Thưởng Hiệu Suất Lãnh Đạo",
+            "description": "Đạt cấp bậc cao hơn và kiếm thêm thưởng dựa trên hiệu suất doanh số của đội nhóm",
+            "ranks": {
+                "silver": "Bạc",
+                "gold": "Vàng",
+                "platinum": "Bạch Kim",
+                "diamond": "Kim Cương",
+                "royal": "Hoàng Gia"
+            },
+            "f1Volume": "Doanh số F1",
+            "teamVolume": "Tổng Doanh Số",
+            "extraCommission": "Hoa Hồng Thưởng"
+        },
+        "network": {
+            "title": "Xây Dựng Mạng Lưới",
+            "description": "Bắt đầu xây dựng mạng lưới ngay hôm nay và kiếm nhiều nguồn thu nhập thông qua chương trình đối tác toàn diện của chúng tôi",
+            "button": "Trở Thành Đối Tác"
+        }
+    },
+    "TradingActivitySection": {
+        "badge": "Giao Dịch Trực Tuyến",
+        "title": "Hoạt Động Bot Giao Dịch AI",
+        "description": "Xem bot AI của chúng tôi thực hiện giao dịch theo thời gian thực trên nhiều sàn giao dịch",
+        "stats": {
+            "totalTrades": {
+                "title": "Tổng Số Giao Dịch Hôm Nay",
+                "description": "Trên {count} sàn giao dịch"
+            },
+            "successRate": {
+                "title": "Tỷ Lệ Thành Công",
+                "description": "Tỷ lệ giao dịch có lãi"
+            },
+            "avgProfit": {
+                "title": "Lợi Nhuận Trung Bình",
+                "description": "Mỗi giao dịch"
+            },
+            "realtimeProfit": {
+                "title": "Lợi Nhuận Thời Gian Thực",
+                "description": "2 giây trước"
+            }
+        },
+        "performance": {
+            "title": "Hiệu Suất Giao Dịch",
+            "tooltip": {
+                "profit": "Lợi Nhuận"
+            }
+        },
+        "recentTrades": {
+            "title": "Giao Dịch Gần Đây"
+        }
+    },
+    "FAQSection": {
+        "badge": "Câu Hỏi Thường Gặp",
+        "title": "Câu Hỏi Thường Gặp",
+        "description": "Tìm câu trả lời cho các câu hỏi phổ biến về nền tảng của chúng tôi",
+        "categories": {
+            "general": {
+                "title": "Tổng Quan",
+                "questions": {
+                    "aiStaking": {
+                        "question": "Staking tích hợp AI là gì?",
+                        "answer": "Nền tảng staking tích hợp AI của chúng tôi kết hợp staking truyền thống với các thuật toán giao dịch trí tuệ nhân tạo tiên tiến. Bot AI giao dịch trên nhiều sàn 24/7 để tạo ra lợi nhuận tối ưu cho người staking."
+                    },
+                    "returns": {
+                        "question": "Lợi nhuận được tạo ra như thế nào?",
+                        "answer": "Lợi nhuận được tạo ra thông qua sự kết hợp giữa phần thưởng staking và lợi nhuận từ giao dịch AI. Hệ thống của chúng tôi tự động thực hiện giao dịch trên nhiều sàn giao dịch tiền điện tử khác nhau để tối đa hóa lợi nhuận trong khi vẫn duy trì các giao thức quản lý rủi ro nghiêm ngặt."
+                    },
+                    "lockup": {
+                        "question": "Có thời gian khóa không?",
+                        "answer": "Không, không có thời gian khóa. Bạn có thể rút lợi nhuận hàng ngày. Tuy nhiên, mỗi lần stake sẽ tự động dừng khi đạt 400% số tiền đầu tư ban đầu."
+                    }
+                }
+            },
+            "staking": {
+                "title": "Đặt Cọc",
+                "questions": {
+                    "amounts": {
+                        "question": "Số tiền đặt cọc tối thiểu và tối đa là bao nhiêu?",
+                        "answer": "Số tiền đặt cọc tối thiểu là $100. Số tiền tối đa thay đổi theo các gói: Khởi đầu ($100-$999), Đồng ($1,000-$4,999), Bạc ($5,000-$9,999), Vàng ($10,000-$19,999), và Kim cương ($20,000+)."
+                    },
+                    "tokens": {
+                        "question": "Tôi có thể đặt cọc những token nào?",
+                        "answer": "Hiện tại, chúng tôi hỗ trợ đặt cọc USDT, FIL, LINK và BNB. Chúng tôi thường xuyên đánh giá và có thể thêm nhiều token hơn dựa trên điều kiện thị trường và nhu cầu của cộng đồng."
+                    },
+                    "rewards": {
+                        "question": "Tôi có thể nhận phần thưởng bao lâu một lần?",
+                        "answer": "Phần thưởng có thể được nhận hàng ngày. MPY hàng tháng dao động từ 9% đến 18% tùy thuộc vào cấp độ đặt cọc của bạn, và bạn có thể tiếp tục kiếm lợi nhuận cho đến khi đạt 400% so với số tiền đặt cọc ban đầu."
+                    }
+                }
+            },
+            "partner": {
+                "title": "Chương Trình Đối Tác",
+                "questions": {
+                    "referral": {
+                        "question": "Chương trình giới thiệu hoạt động như thế nào?",
+                        "answer": "Chương trình đối tác của chúng tôi cung cấp ba loại hoa hồng: Giới thiệu trực tiếp (6% cho F1, 1% cho F2 và F3), Chia sẻ lợi nhuận qua 10 cấp (1-10%), và Thưởng hiệu suất lãnh đạo (thêm tới 3% hoa hồng)."
+                    },
+                    "requirements": {
+                        "question": "Yêu cầu cho mỗi cấp bậc lãnh đạo là gì?",
+                        "answer": "Cấp bậc lãnh đạo dựa trên doanh số đội nhóm: Bạc ($100K), Vàng ($500K), Bạch Kim ($1M), Kim Cương ($5M), và Hoàng Gia ($10M). Mỗi cấp bậc đi kèm với tỷ lệ hoa hồng và lợi ích tăng lên."
+                    },
+                    "commissions": {
+                        "question": "Hoa hồng được tính toán và thanh toán như thế nào?",
+                        "answer": "Hoa hồng được tính toán dựa trên số tiền đặt cọc và lợi nhuận của người được giới thiệu. Chúng được thanh toán bằng cùng loại token với đặt cọc ban đầu và có thể được nhận hàng ngày."
+                    }
+                }
+            },
+            "security": {
+                "title": "Bảo Mật",
+                "questions": {
+                    "platform": {
+                        "question": "Nền tảng có an toàn không?",
+                        "answer": "Chúng tôi triển khai nhiều biện pháp bảo mật bao gồm ví đa chữ ký, hệ thống giám sát thời gian thực và kiểm toán bảo mật định kỳ. Hệ thống giao dịch AI của chúng tôi cũng bao gồm các giao thức quản lý rủi ro để bảo vệ quỹ của người dùng."
+                    },
+                    "losses": {
+                        "question": "Điều gì xảy ra nếu bot AI thua lỗ?",
+                        "answer": "Hệ thống AI của chúng tôi được thiết kế với các giao thức quản lý rủi ro nghiêm ngặt. Mặc dù giao dịch có rủi ro tiềm ẩn, chúng tôi duy trì quỹ dự trữ để đảm bảo phần thưởng đặt cọc nhất quán bất kể điều kiện thị trường."
+                    },
+                    "audits": {
+                        "question": "Các hợp đồng thông minh có được kiểm toán không?",
+                        "answer": "Có, tất cả các hợp đồng thông minh của chúng tôi đều được kiểm toán bởi các công ty bảo mật blockchain hàng đầu. Báo cáo kiểm toán được công khai và chúng tôi thường xuyên trải qua các đánh giá bảo mật."
+                    }
+                }
+            },
+            "smartContract": {
+                "title": "Hợp Đồng Thông Minh",
+                "questions": {
+                    "blockchain": {
+                        "question": "Nền tảng sử dụng blockchain nào?",
+                        "answer": "Nền tảng của chúng tôi hoạt động trên Binance Smart Chain (BSC), cung cấp giao dịch nhanh và phí thấp, lý tưởng cho các hoạt động staking."
+                    },
+                    "audit": {
+                        "question": "Hợp đồng thông minh có được kiểm toán không?",
+                        "answer": "Có, hợp đồng thông minh của chúng tôi đã được kiểm toán bởi CertiK và PeckShield, hai công ty bảo mật blockchain hàng đầu. Báo cáo kiểm toán có sẵn công khai trên trang web của chúng tôi trong phần 'Bảo Mật'."
+                    },
+                    "rewards": {
+                        "question": "Hợp đồng thông minh xử lý phân phối phần thưởng như thế nào?",
+                        "answer": "Hợp đồng thông minh tự động tính toán phần thưởng dựa trên cấp độ và thời gian staking của bạn. Phần thưởng được phân phối hàng ngày và có thể được nhận bất cứ lúc nào. Hợp đồng sử dụng trung bình có trọng số thời gian để đảm bảo phân phối công bằng."
+                    },
+                    "congestion": {
+                        "question": "Điều gì xảy ra nếu mạng bị tắc nghẽn?",
+                        "answer": "Hợp đồng thông minh của chúng tôi được thiết kế để xử lý tắc nghẽn mạng hiệu quả. Trong trường hợp lưu lượng mạng cao, hợp đồng sẽ xếp hàng các giao dịch và xử lý chúng theo thứ tự khi mạng ổn định, đảm bảo không có phần thưởng nào bị mất."
+                    },
+                    "interaction": {
+                        "question": "Tôi có thể tương tác trực tiếp với hợp đồng thông minh không?",
+                        "answer": "Có, người dùng nâng cao có thể tương tác trực tiếp với hợp đồng thông minh của chúng tôi bằng cách sử dụng trình khám phá blockchain hoặc giao diện ví. Tuy nhiên, chúng tôi khuyến nghị sử dụng giao diện nền tảng của chúng tôi để có trải nghiệm tốt nhất và tránh các lỗi tiềm ẩn."
+                    },
+                    "address": {
+                        "question": "Địa chỉ hợp đồng là gì?",
+                        "answer": "Địa chỉ hợp đồng staking chính của chúng tôi là 0xc2d8434B6875394637e5a943c2103639E22D26D5. Luôn xác minh địa chỉ này trên trang web chính thức của chúng tôi để tránh lừa đảo."
+                    }
+                }
+            }
+        }
+    },
+    "StakingPage": {
+        "title": "Đặt Cọc Token Của Bạn",
+        "description": "Kiếm thu nhập thụ động với các tùy chọn đặt cọc linh hoạt của chúng tôi",
+        "balance": {
+            "title": "Số Dư Của Bạn",
+            "loading": "Đang tải..."
+        },
+        "stake": {
+            "title": "Đặt Cọc Token",
+            "description": "Nhập số tiền và chọn gói đặt cọc",
+            "amount": {
+                "label": "Số Tiền",
+                "min": "Tối Thiểu",
+                "placeholder": "0.00"
+            },
+            "plans": {
+                "title": "Các Gói Đặt Cọc",
+                "plan": {
+                    "title": "Gói",
+                    "mpy": "MPY",
+                    "investmentRange": "Phạm Vi Đầu Tư",
+                    "description": "Mô Tả",
+                    "mpyNote": "* MPY: Tỷ Lệ Lợi Nhuận Hàng Tháng",
+                    "earn": "Kiếm",
+                    "mpyUntil": "MPY cho đến khi đạt 400% so với số tiền đầu tư ban đầu",
+                    "names": {
+                        "starter": "Khởi Đầu",
+                        "bronze": "Đồng",
+                        "silver": "Bạc",
+                        "gold": "Vàng",
+                        "diamond": "Kim Cương"
+                    }
+                }
+            }
+        },
+        "rules": {
+            "title": "Quy Định Đặt Cọc",
+            "terms": {
+                "title": "Điều Khoản Đặt Cọc",
+                "items": {
+                    "0": "Bạn cần một ít BNB để trả phí giao dịch",
+                    "1": "Phần thưởng đặt cọc được tính toán và phân phối hàng ngày",
+                    "2": "Đặt cọc dừng lại ở mức 400% so với số tiền đầu tư ban đầu",
+                    "3": "Số tiền đặt cọc tối thiểu tương đương $100",
+                    "4": "Tỷ lệ MPY được cố định trong quá trình đặt cọc"
+                }
+            },
+            "howItWorks": {
+                "title": "Cách Thức Hoạt Động",
+                "items": {
+                    "0": "Chọn token của bạn",
+                    "1": "Nhập số tiền (tối thiểu tương đương $100)",
+                    "2": "Gói và tỷ lệ MPY được chọn tự động",
+                    "3": "Xác nhận giao dịch",
+                    "4": "Bắt đầu kiếm phần thưởng ngay lập tức",
+                    "5": "Nhận phần thưởng mỗi 24 giờ (70% Token Đặt Cọc + 30% AZC)",
+                    "6": "Đặt cọc dừng lại ở mức lợi nhuận 400%"
+                }
+            }
+        },
+        "summary": {
+            "title": "Tóm Tắt Đặt Cọc",
+            "token": "Token",
+            "amount": "Số Tiền",
+            "plan": "Gói",
+            "mpy": "MPY",
+            "returnCap": "Giới Hạn Lợi Nhuận",
+            "sponsor": "Được giới thiệu bởi",
+            "upline": "Người giới thiệu",
+            "estimatedReturns": {
+                "title": "Lợi Nhuận Ước Tính",
+                "daily": "Hàng Ngày",
+                "monthly": "Hàng Tháng",
+                "yearly": "Hàng Năm",
+                "total": "Tổng (giới hạn 400%)"
+            }
+        },
+        "buttons": {
+            "max": "TỐI ĐA",
+            "start": "Bắt Đầu",
+            "approve": "Phê Duyệt",
+            "stakeNow": "Đặt Cọc Ngay",
+            "staking": "Đang Đặt Cọc...",
+            "addingUpline": "Đang Thêm Người Giới Thiệu...",
+            "approving": "Đang Phê Duyệt...",
+            "preparing": "Chuẩn Bị Đặt Cọc...",
+            "staked": "Đặt Cọc Thành Công",
+            "stakeFailed": "Đặt Cọc Thất Bại, Thử Lại"
+        },
+        "errors": {
+            "connectWallet": "Vui lòng kết nối ví của bạn",
+            "insufficientBalance": "Số dư {token} không đủ",
+            "maxAmount": "Số tiền tối đa là ${amount}",
+            "fillAllFields": "Vui lòng kết nối ví và điền đầy đủ thông tin"
+        }
+    },
+    "DashboardPage": {
+        "title": "Tổng Quan",
+        "description": "Tổng quan nhanh về đặt cọc và thu nhập của bạn",
+        "stats": {
+            "totalValueStaked": "Tổng Giá Trị Đã Đặt Cọc",
+            "totalEarnings": "Tổng Thu Nhập",
+            "earnedFromStaking": "Kiếm được từ đặt cọc",
+            "maxOut": "Đạt Giới Hạn",
+            "f1Volume": "Doanh Số F1"
+        },
+        "quickActions": {
+            "title": "Thao Tác Nhanh",
+            "description": "Quản lý đặt cọc và giới thiệu của bạn",
+            "stake": "Đặt Cọc",
+            "referralLink": "Liên Kết Giới Thiệu",
+            "copied": "Đã Sao Chép",
+            "referralAlert": "Kiếm tới 12% hoa hồng từ phần thưởng đặt cọc của người được giới thiệu"
+        },
+        "latestUpdates": {
+            "title": "Cập Nhật Mới Nhất",
+            "description": "Cập nhật thông tin về nền tảng và tin tức mới",
+            "news": {
+                "swapFeature": {
+                "title": "Tính năng Hoán đổi Hiện đang ở Giai đoạn Beta",
+                "description": "Chúng tôi rất hào hứng thông báo rằng tính năng Hoán đổi của chúng tôi hiện đã có mặt trong giai đoạn beta! Người dùng giờ đây có thể trao đổi token trực tiếp trên nền tảng OptiFund với tỷ giá cạnh tranh và phí giao dịch thấp. Tính năng này tích hợp với bộ tổng hợp của KyberSwap để đảm bảo tỷ giá tốt nhất trên nhiều sàn DEX. Hãy thử và chia sẻ ý kiến phản hồi của bạn khi chúng tôi tiếp tục tối ưu hóa trải nghiệm.",
+                "date": "03-05-2025"
+            },
+                "stakingPlans": {
+                    "title": "Ra Mắt Gói Đặt Cọc Mới",
+                    "description": "Chúng tôi vui mừng thông báo về hệ thống gói đặt cọc mới với tỷ lệ MPY được nâng cao từ 9% đến 18%. Người đặt cọc dài hạn sẽ được hưởng thêm phần thưởng bao gồm giảm phí, hỗ trợ ưu tiên và quyền truy cập độc quyền vào các tính năng mới. Hệ thống mới được thiết kế để khen thưởng sự cam kết và khuyến khích tăng trưởng bền vững trong hệ sinh thái của chúng tôi.",
+                    "date": "12-02-2025"
+                },
+                "securityUpdate": {
+                    "title": "Cập Nhật Bảo Mật Nền Tảng",
+                    "description": "Bản cập nhật bảo mật mới nhất của chúng tôi triển khai các biện pháp bảo vệ hàng đầu ngành bao gồm ví đa chữ ký, giao thức mã hóa nâng cao và hệ thống giám sát thời gian thực. Chúng tôi cũng đã hợp tác với các công ty bảo mật blockchain hàng đầu để thực hiện kiểm toán và thử nghiệm thâm nhập định kỳ, đảm bảo tài sản của bạn luôn được bảo vệ.",
+                    "date": "11-02-2025"
+                }
+            }
+        }
+    },
+    "MyStakePage": {
+        "title": "Đặt Cọc Của Tôi",
+        "description": "Theo dõi và quản lý các khoản đặt cọc đang hoạt động",
+        "summary": {
+            "totalStakedValue": "Tổng Giá Trị Đã Đặt Cọc",
+            "totalClaimedValue": "Tổng Thưởng Đã Nhận",
+            "maxOutRemaining": "Thu Nhập Còn Lại",
+            "leaderBadge": "Lãnh Đạo"
+        },
+        "plans": {
+            "0": "Khởi đầu",
+            "1": "Đồng",
+            "2": "Bạc",
+            "3": "Vàng",
+            "4": "Kim cương"
+        },
+        "filters": {
+            "all": "Tất Cả",
+            "claimable": "Có Thể Nhận",
+            "notClaimable": "Chưa Thể Nhận"
+        },
+        "stakingCard": {
+            "title": "Đặt Cọc",
+            "monthly": "tháng",
+            "days": "ngày",
+            "hours": "giờ",
+            "minutes": "phút",
+            "rewardDistribution": "Phân Phối Phần Thưởng",
+            "nextReward": "Phần Thưởng Tiếp Theo (24h)",
+            "expectedRewards": "Phần Thưởng Dự Kiến",
+            "stakedAmount": "Số Tiền Đã Đặt Cọc",
+            "claimedAmount": "Số Tiền Đã Nhận",
+            "progressTo400": "Tiến Độ Đến 400%",
+            "remaining": "Thời Gian Còn Lại",
+            "remainingMaxout": "Thu Nhập Còn Lại",
+            "reservedTime": "Thời gian dự trữ",
+            "nextClaim": "Thời gian này sẽ được lưu cho lần nhận tiếp theo",
+            "rewardsNote": "Phần thưởng được tính toán dựa trên giá trị đầu tư USD ban đầu của bạn ({apy}% hàng tháng). Điều này đảm bảo lợi nhuận của bạn ổn định bất kể biến động giá token."
+        },
+        "errors": {
+            "loading": "Lỗi khi tải dữ liệu đặt cọc",
+            "connectWallet": "Vui lòng kết nối ví để xem các khoản đặt cọc",
+            "loadingError": "Lỗi khi tải dữ liệu đặt cọc. Vui lòng thử lại sau.",
+            "noStakes": "Bạn chưa có khoản đặt cọc nào đang hoạt động.",
+            "noMatchingStakes": "Không tìm thấy khoản đặt cọc nào phù hợp với bộ lọc đã chọn."
+        },
+        "buttons": {
+            "claimRewards": "Nhận Thưởng",
+            "claiming": "Đang Nhận...",
+            "claimSuccess": "Nhận Thành Công"
+        }
+    },
+    "PartnerPage": {
+        "title": "Đối Tác",
+        "description": "Theo dõi hiệu suất đối tác và mạng lưới tuyến dưới",
+        "referralLink": {
+            "title": "Liên Kết Giới Thiệu Của Bạn",
+            "description": "Chia sẻ liên kết này để kiếm hoa hồng từ người được giới thiệu",
+            "connectWallet": "Kết nối ví để tạo liên kết giới thiệu",
+            "copy": "Sao chép liên kết",
+            "copied": "Đã sao chép!"
+        },
+        "upline": {
+            "title": "Người Giới Thiệu Của Tôi",
+            "description": "Thông tin người giới thiệu trực tiếp",
+            "noUpline": "Chưa có người giới thiệu",
+            "viewOnBscScan": "Xem trên BSCScan",
+            "addUpline": "Thêm Người Giới Thiệu",
+            "confirming": "Đang xác nhận...",
+            "addedSuccess": "Thêm thành công",
+            "failedToAdd": "Thêm thất bại",
+            "cantSetYourself": "Không thể tự đặt làm người giới thiệu",
+            "insufficientBNB": "Số dư BNB không đủ",
+            "needBNB": "Bạn cần một ít BNB để thêm người giới thiệu"
+        },
+        "maxoutCommission": {
+            "title": "Hoa Hồng Tối Đa",
+            "description": "Giới Hạn Hoa Hồng Của Bạn",
+            "unlimited": "Không Giới Hạn",
+            "leader": "Lãnh Đạo"
+        },
+        "stats": {
+            "totalCommission": {
+                "title": "Tổng Hoa Hồng",
+                "trend": "tăng"
+            },
+            "f1Commission": {
+                "title": "Hoa Hồng F1",
+                "description": "Số F1: {count}"
+            },
+            "systemVolume": {
+                "title": "Tổng Doanh Số",
+                "trend": "tăng"
+            },
+            "f1Volume": {
+                "title": "Doanh Số F1",
+                "trend": "tăng"
+            }
+        },
+        "leaderPerformance": {
+            "title": "Hiệu Suất Lãnh Đạo",
+            "description": "Cấp độ thành tích hiện tại và tiến độ của bạn",
+            "nextLevel": "Cấp Tiếp Theo: {level}",
+            "level": "Cấp",
+            "bonus": "Hoa Hồng",
+            "f1VolumeProgress": "Tiến Độ Doanh Số F1",
+            "networkVolumeProgress": "Tiến Độ Tổng Doanh số",
+            "reachSilver": "Đạt $3,000 doanh số F1 và $30,000 Tổng Doanh Số để đạt cấp Bạc"
+        },
+        "levelDistribution": {
+            "title": "Phân Bố Cấp Độ",
+            "description": "Phân bố đối tác theo cấp độ",
+            "f1Partners": "Đối Tác F1",
+            "totalNetwork": "Tổng Mạng Lưới",
+            "averageLevel": "Cấp Độ Trung Bình"
+        },
+        "downlineNetwork": {
+            "title": "Mạng Lưới Tuyến Dưới",
+            "description": "Danh sách tuyến dưới và thông tin đầu tư của họ",
+            "searchPlaceholder": "Tìm kiếm theo địa chỉ ví...",
+            "filters": {
+                "level": {
+                    "title": "Lọc theo cấp độ",
+                    "all": "Tất Cả Cấp Độ",
+                    "direct": "Trực Tiếp (F1)",
+                    "f2": "F2",
+                    "f3": "F3"
+                },
+                "staked": {
+                    "title": "Lọc theo đặt cọc",
+                    "all": "Tất Cả",
+                    "staked": "Đã Đặt Cọc",
+                    "notStaked": "Chưa Đặt Cọc"
+                }
+            },
+            "table": {
+                "walletAddress": "Địa Chỉ Ví",
+                "level": "Cấp Độ",
+                "staked": "Đã Đặt Cọc",
+                "status": "Trạng Thái",
+                "joinedAt": "Tham Gia",
+                "actions": "Thao Tác",
+                "viewNetwork": "Mạng Lưới",
+                "viewTreeNetwork": "Mạng Lưới Dạng Cây",
+                "loading": "Đang tải dữ liệu...",
+                "noData": "Không tìm thấy dữ liệu phù hợp",
+                "pagination": {
+                    "previous": "Trước",
+                    "next": "Tiếp",
+                    "page": "trang {current} / {total}",
+                    "displaying": "Hiển thị {displayed} trong tổng số {total} tuyến dưới"
+                }
+            }
+        }
+    },
+    "ReferralTreePage": {
+        "title": "Cây Giới Thiệu",
+        "description": "Xem cấu trúc mạng lưới giới thiệu đầy đủ của bạn",
+        "searchPlaceholder": "Tìm kiếm theo địa chỉ ví...",
+        "filters": {
+            "level": {
+                "title": "Lọc theo cấp độ",
+                "all": "Tất Cả Cấp Độ",
+                "direct": "Trực Tiếp (F1)",
+                "f2": "F2",
+                "f3": "F3"
+            }
+        },
+        "nodeInfo": {
+            "title": "Thông Tin Nút",
+            "walletAddress": "Địa Chỉ Ví",
+            "level": "Cấp",
+            "totalInvestment": "Tổng đặt cọc",
+            "copy": "Sao Chép",
+            "copied": "Đã Sao Chép!",
+            "viewOnBscScan": "Xem Trên BSCScan",
+            "close": "Đóng"
+        },
+        "loading": "Đang tải hình ảnh cây...",
+        "noData": "Không có dữ liệu",
+        "tip": "Mẹo: Nhấp vào các nút để mở rộng hoặc thu gọn nhánh. Sử dụng các nút điều khiển thu phóng để điều chỉnh góc nhìn."
+    },
+    "FAQPage": {
+        "title": "Câu Hỏi Thường Gặp",
+        "description": "Tìm câu trả lời cho các câu hỏi phổ biến về nền tảng của chúng tôi",
+        "search": {
+            "placeholder": "Tìm kiếm câu hỏi hoặc từ khóa..."
+        },
+        "categories": {
+            "all": "Tất Cả FAQ",
+            "general": "Tổng Quan",
+            "smartContract": "Hợp Đồng Thông Minh",
+            "staking": "Đặt Cọc",
+            "security": "Bảo Mật",
+            "partnerProgram": "Chương Trình Đối Tác"
+        },
+        "noResults": {
+            "title": "Không tìm thấy câu hỏi",
+            "description": "Hãy thử điều chỉnh từ khóa tìm kiếm hoặc duyệt qua các danh mục của chúng tôi."
+        },
+        "stillNeedHelp": {
+            "title": "Vẫn còn thắc mắc?",
+            "description": "Nếu bạn không tìm thấy câu trả lời cho câu hỏi của mình, vui lòng liên hệ với đội ngũ hỗ trợ của chúng tôi. Chúng tôi luôn sẵn sàng hỗ trợ 24/7.",
+            "contactSupport": "Liên Hệ Hỗ Trợ",
+            "joinTelegram": "Tham Gia Kênh Telegram"
+        },
+        "questions": {
+            "general": {
+                "aiStaking": {
+                    "question": "Staking tích hợp AI là gì?",
+                    "answer": "Nền tảng staking tích hợp AI của chúng tôi kết hợp staking truyền thống với các thuật toán giao dịch trí tuệ nhân tạo tiên tiến. Bot AI giao dịch trên nhiều sàn 24/7 để tạo ra lợi nhuận tối ưu cho người staking."
+                },
+                "whatIsAzcoin": {
+                    "question": "Azcoin là gì?",
+                    "answer": "Azcoin là nền tảng staking dựa trên blockchain cho phép người dùng kiếm lợi nhuận ổn định bằng cách staking các token như FIL, BNB và nhiều loại khác, với hệ thống hoa hồng đa cấp và cơ hội lợi nhuận hàng ngày"
+                },
+                "maxOutLimit": {
+                    "question": "Giới hạn Max out là gì?",
+                    "answer": "Giới hạn Max out giới hạn tổng hoa hồng kiếm được ở mức 4 lần số tiền đầu tư. Ví dụ, nếu bạn stake $100, tổng hoa hồng (từ giới thiệu và chia sẻ lợi nhuận) bị giới hạn ở $400."
+                },
+                "returns": {
+                    "question": "Lợi nhuận được tạo ra như thế nào?",
+                    "answer": "Lợi nhuận được tạo ra thông qua sự kết hợp giữa phần thưởng staking và lợi nhuận từ giao dịch AI. Hệ thống của chúng tôi tự động thực hiện giao dịch trên nhiều sàn giao dịch tiền điện tử khác nhau để tối đa hóa lợi nhuận trong khi vẫn duy trì các giao thức quản lý rủi ro nghiêm ngặt."
+                },
+                "lockup": {
+                    "question": "Có thời gian khóa không?",
+                    "answer": "Không, không có thời gian khóa. Bạn có thể rút lợi nhuận hàng ngày. Tuy nhiên, mỗi lần stake sẽ tự động dừng khi đạt 400% số tiền đầu tư ban đầu."
+                },
+                "tokens": {
+                    "question": "Tôi có thể stake những token nào?",
+                    "answer": "Hiện tại, chúng tôi hỗ trợ staking USDT, FIL, LINK và BNB. Chúng tôi thường xuyên đánh giá và có thể thêm nhiều token hơn dựa trên điều kiện thị trường và nhu cầu của cộng đồng."
+                }
+            },
+            "smartContract": {
+                "blockchain": {
+                    "question": "Nền tảng sử dụng blockchain nào?",
+                    "answer": "Nền tảng của chúng tôi hoạt động trên Binance Smart Chain (BSC), cung cấp giao dịch nhanh và phí thấp, lý tưởng cho các hoạt động staking."
+                },
+                "audit": {
+                    "question": "Hợp đồng thông minh có được kiểm toán không?",
+                    "answer": "Có, hợp đồng thông minh của chúng tôi đã được kiểm toán bởi CertiK và PeckShield, hai công ty bảo mật blockchain hàng đầu. Báo cáo kiểm toán có sẵn công khai trên trang web của chúng tôi trong phần 'Bảo Mật'."
+                },
+                "rewards": {
+                    "question": "Hợp đồng thông minh xử lý phân phối phần thưởng như thế nào?",
+                    "answer": "Hợp đồng thông minh tự động tính toán phần thưởng dựa trên cấp độ và thời gian staking của bạn. Phần thưởng được phân phối hàng ngày và có thể được nhận bất cứ lúc nào. Hợp đồng sử dụng trung bình có trọng số thời gian để đảm bảo phân phối công bằng."
+                },
+                "congestion": {
+                    "question": "Điều gì xảy ra nếu mạng bị tắc nghẽn?",
+                    "answer": "Hợp đồng thông minh của chúng tôi được thiết kế để xử lý tắc nghẽn mạng hiệu quả. Trong trường hợp lưu lượng mạng cao, hợp đồng sẽ xếp hàng các giao dịch và xử lý chúng theo thứ tự khi mạng ổn định, đảm bảo không có phần thưởng nào bị mất."
+                },
+                "interaction": {
+                    "question": "Tôi có thể tương tác trực tiếp với hợp đồng thông minh không?",
+                    "answer": "Có, người dùng nâng cao có thể tương tác trực tiếp với hợp đồng thông minh của chúng tôi bằng cách sử dụng trình khám phá blockchain hoặc giao diện ví. Tuy nhiên, chúng tôi khuyến nghị sử dụng giao diện nền tảng của chúng tôi để có trải nghiệm tốt nhất và tránh các lỗi tiềm ẩn."
+                },
+                "address": {
+                    "question": "Địa chỉ hợp đồng là gì?",
+                    "answer": "Địa chỉ hợp đồng staking chính của chúng tôi là 0xc2d8434B6875394637e5a943c2103639E22D26D5. Luôn xác minh địa chỉ này trên trang web chính thức của chúng tôi để tránh lừa đảo."
+                }
+            },
+            "staking": {
+                "profitDistribution": {
+                    "question": "Lợi nhuận được phân phối như thế nào khi tôi nhận?",
+                    "answer": "Lợi nhuận được thanh toán bằng 70% token gốc đã stake và 30% bằng token AZC (1 AZC = 1 USDT, sẽ thêm thanh khoản sau). Ngoài ra, người giới thiệu nhận được hoa hồng chia sẻ lợi nhuận qua 10 cấp: 20-10-5-5-5-1-1-1-1-1%."
+                },
+                "amounts": {
+                    "question": "Số tiền stake tối thiểu và tối đa là bao nhiêu?",
+                    "answer": "Số tiền stake tối thiểu là $100. Số tiền tối đa thay đổi theo cấp độ: Khởi đầu ($100-$999), Đồng ($1,000-$4,999), Bạc ($5,000-$9,999), Vàng ($10,000-$19,999), và Kim cương ($20,000+)."
+                },
+                "rewards": {
+                    "question": "Tôi có thể nhận phần thưởng bao lâu một lần?",
+                    "answer": "Phần thưởng có thể được nhận hàng ngày. MPY hàng tháng dao động từ 9% đến 18% tùy thuộc vào cấp độ stake của bạn, và bạn có thể tiếp tục kiếm lợi nhuận cho đến khi đạt 400% so với số tiền stake ban đầu."
+                },
+                "maxReturn": {
+                    "question": "Điều gì xảy ra khi tôi đạt 400% lợi nhuận?",
+                    "answer": "Khi stake của bạn đạt 400% lợi nhuận (bao gồm số tiền stake ban đầu), quá trình staking sẽ tự động dừng lại."
+                },
+                "addFunds": {
+                    "question": "Tôi có thể thêm tiền vào stake hiện có không?",
+                    "answer": "Không, mỗi stake được xử lý như một vị thế riêng biệt với tỷ lệ MPY và giới hạn 400% riêng. Nếu bạn muốn stake thêm, bạn cần tạo một vị thế staking mới."
+                },
+                "mpyRates": {
+                    "question": "Tỷ lệ MPY được xác định như thế nào?",
+                    "answer": "Tỷ lệ MPY được xác định bởi gói staking của bạn, dựa trên số tiền bạn stake. Cấp độ cao hơn nhận được tỷ lệ MPY cao hơn: Khởi đầu (9%), Đồng (11%), Bạc (13%), Vàng (15%), và Kim cương (18%)."
+                },
+                "missClaim": {
+                    "question": "Điều gì xảy ra nếu tôi bỏ lỡ việc nhận lợi nhuận hàng ngày?",
+                    "answer": "Bạn có thể nhận lợi nhuận bất cứ lúc nào sau 24 giờ, nhưng chỉ được phép nhận một lần mỗi chu kỳ. Thời gian thừa sẽ được chuyển sang lần nhận tiếp theo (ví dụ: nhận sau 30 giờ sẽ tính 6 giờ cho chu kỳ tiếp theo)."
+                }
+            },
+            "security": {
+                "platform": {
+                    "question": "Nền tảng có an toàn không?",
+                    "answer": "Chúng tôi triển khai nhiều biện pháp bảo mật bao gồm ví đa chữ ký, hệ thống giám sát thời gian thực và kiểm toán bảo mật định kỳ. Hệ thống giao dịch AI của chúng tôi cũng bao gồm các giao thức quản lý rủi ro để bảo vệ quỹ của người dùng."
+                },
+                "losses": {
+                    "question": "Điều gì xảy ra nếu bot AI thua lỗ?",
+                    "answer": "Hệ thống AI của chúng tôi được thiết kế với các giao thức quản lý rủi ro nghiêm ngặt. Mặc dù giao dịch có rủi ro tiềm ẩn, chúng tôi duy trì quỹ dự trữ để đảm bảo phần thưởng staking nhất quán bất kể điều kiện thị trường."
+                },
+                "userData": {
+                    "question": "Bạn bảo vệ dữ liệu người dùng như thế nào?",
+                    "answer": "Chúng tôi sử dụng mã hóa tiêu chuẩn ngành cho tất cả dữ liệu và giao tiếp của người dùng. Chúng tôi cũng tuân thủ các chính sách bảo vệ dữ liệu nghiêm ngặt và không bao giờ chia sẻ thông tin của bạn với bên thứ ba mà không có sự đồng ý của bạn."
+                },
+                "twoFactor": {
+                    "question": "Có xác thực hai yếu tố (2FA) không?",
+                    "answer": "Không, người dùng kết nối với nền tảng bằng địa chỉ ví của họ."
+                }
+            },
+            "partnerProgram": {
+                "referral": {
+                    "question": "Chương trình giới thiệu hoạt động như thế nào?",
+                    "answer": "Chương trình đối tác của chúng tôi cung cấp ba loại hoa hồng: Giới thiệu trực tiếp (6% cho F1, 1% cho F2 và F3), Chia sẻ lợi nhuận qua 10 cấp (1-10%), và Thưởng hiệu suất lãnh đạo (thêm tới 11% hoa hồng)."
+                },
+                "requirements": {
+                    "question": "Yêu cầu cho mỗi cấp bậc lãnh đạo là gì?",
+                    "answer": "Cấp bậc lãnh đạo dựa trên doanh số đội nhóm: Bạc +3% ($30k Đội - $3k F1), Vàng +5% ($100k Đội - $5k F1), Bạch Kim +7% ($200k Đội - $10k F1), Kim Cương +9% ($350k Đội - $15k F1), và Hoàng Gia +11% ($500k Đội - $20k F1). Mỗi cấp bậc đi kèm với tỷ lệ hoa hồng và lợi ích tăng lên."
+                },
+                "commissions": {
+                    "question": "Hoa hồng được tính toán và thanh toán như thế nào?",
+                    "answer": "Hoa hồng được tính toán dựa trên số tiền stake và lợi nhuận của người được giới thiệu. Chúng được thanh toán bằng cùng loại token với stake ban đầu và có thể được nhận hàng ngày."
+                },
+                "referralLimit": {
+                    "question": "Có giới hạn số người tôi có thể giới thiệu không?",
+                    "answer": "Không, không có giới hạn số người bạn có thể giới thiệu trực tiếp. Bạn càng giới thiệu nhiều người, tiềm năng thu nhập từ chương trình đối tác càng cao."
+                }
+            }
+        }
+    },
+    "TokenPage": {
+        "title": "AZ Coin (AZC)",
+        "description": "Thúc đẩy tương lai của staking phi tập trung và giao dịch AI",
+        "metrics": {
+            "totalSupply": {
+                "title": "Tổng Cung",
+                "value": "21,000,000",
+                "unit": "AZC Tokens"
+            },
+            "targetPrice": {
+                "title": "Giá Mục Tiêu",
+                "value": "$10 - $15",
+                "unit": "mỗi AZC"
+            },
+            "tokenType": {
+                "title": "Loại Token",
+                "value": "BEP-20",
+                "unit": "Binance Smart Chain"
+            }
+        },
+        "allocation": {
+            "title": "Phân Bổ Token",
+            "description": "AZC tokens được phân bổ chiến lược để đảm bảo tăng trưởng bền vững và phát triển hệ sinh thái",
+            "totalSupply": "Tổng cung: 21,000,000 AZC",
+            "distribution": "Phân Phối",
+            "breakdown": "Chi Tiết Phân Bổ",
+            "breakdownDescription": "Chi tiết phân bổ token theo danh mục",
+            "chart": {
+                "pie": "Biểu Đồ Tròn",
+                "bar": "Biểu Đồ Cột"
+            }
+        },
+        "releaseSchedule": {
+            "title": "Lịch Trình Phát Hành Token",
+            "description": "Phát hành token chiến lược để đảm bảo tăng trưởng bền vững và ổn định thị trường",
+            "timeline": "Lịch Trình Phát Hành",
+            "timelineDescription": "Kế hoạch phân phối token theo quý",
+            "breakdown": "Chi Tiết Phát Hành",
+            "breakdownDescription": "Tổng số token đã phát hành",
+            "released": "Đã Phát Hành"
+        },
+        "utility": {
+            "title": "Tiện Ích Token",
+            "description": "AZC token cung cấp năng lượng cho hệ sinh thái của chúng tôi với nhiều trường hợp sử dụng và lợi ích",
+            "features": {
+                "stakingrewards": {
+                    "title": "Phần Thưởng Staking",
+                    "description": "Kiếm thu nhập thụ động bằng cách staking AZC tokens với tỷ lệ APY cạnh tranh"
+                },
+                "platformgovernance": {
+                    "title": "Quản Trị Nền Tảng",
+                    "description": "Bỏ phiếu cho các quyết định quan trọng của nền tảng và định hình tương lai của hệ sinh thái"
+                },
+                "transactionfeediscounts": {
+                    "title": "Giảm Phí Giao Dịch",
+                    "description": "Tận hưởng mức phí giảm khi sử dụng AZC cho các giao dịch trên nền tảng"
+                },
+                "gamingrewards": {
+                    "title": "Phần Thưởng Game",
+                    "description": "Kiếm và sử dụng AZC tokens trong hệ sinh thái game tích hợp"
+                },
+                "exclusiveaccess": {
+                    "title": "Truy Cập Độc Quyền",
+                    "description": "Mở khóa các tính năng cao cấp và truy cập sớm vào các khả năng mới của nền tảng"
+                },
+                "globalpayments": {
+                    "title": "Thanh Toán Toàn Cầu",
+                    "description": "Sử dụng AZC cho các giao dịch nhanh chóng, an toàn trên mạng lưới đối tác"
+                }
+            }
+        },
+        "details": {
+            "title": "Chi Tiết Token",
+            "description": "Thông số kỹ thuật và thông tin hợp đồng",
+            "name": "Tên token",
+            "symbol": "Ký hiệu",
+            "totalSupply": "Tổng cung",
+            "targetPrice": "Giá mục tiêu",
+            "blockchain": "Mạng",
+            "tokenType": "Loại token",
+            "contractAddress": "Địa Chỉ Hợp Đồng",
+            "copySuccess": "Đã sao chép địa chỉ hợp đồng"
+        },
+        "getToken": {
+            "title": "Cách Để Có AZC",
+            "description": "Nhiều cách để sở hữu AZ Coin và tham gia hệ sinh thái của chúng tôi",
+            "exchanges": {
+                "title": "Mua Trên Sàn Giao Dịch",
+                "description": "Mua AZC tokens trên các sàn giao dịch đối tác với tỷ giá cạnh tranh",
+                "button": "Sắp Ra Mắt"
+            },
+            "staking": {
+                "title": "Phần Thưởng Staking",
+                "description": "Kiếm AZC tokens làm phần thưởng khi bạn stake các loại tiền điện tử được hỗ trợ",
+                "button": "Bắt Đầu Staking"
+            },
+            "referral": {
+                "title": "Chương Trình Giới Thiệu",
+                "description": "Kiếm hoa hồng AZC tokens bằng cách giới thiệu người dùng mới đến nền tảng",
+                "button": "Tham Gia Chương Trình Đối Tác"
+            }
+        },
+        "burn": {
+        "title": "Lịch trình đốt AZC",
+        "desc": "Mỗi Chủ nhật, bắt đầu từ {date}, {amount} AZC sẽ được đốt hàng tuần trong 2 năm.",
+        "card": {
+            "totalWeeks": "Tổng số tuần",
+            "totalToBurn": "Tổng số sẽ đốt",
+            "startDate": "Ngày bắt đầu",
+            "weeklyAmount": "Số lượng đốt mỗi tuần",
+            "alreadyBurned": "Đã đốt"
+        },
+        "purpose": "Mục đích đốt AZC là giảm nguồn cung lưu hành, tăng giá trị cho nhà đầu tư và đảm bảo sự phát triển bền vững của hệ sinh thái."
+        },
+        "cta": {
+            "title": "Sẵn Sàng Tham Gia Hệ Sinh Thái AZC?",
+            "description": "Bắt đầu hành trình của bạn với AZ Coin và mở khóa tương lai của tài chính phi tập trung",
+            "staking": "Bắt Đầu Staking",
+            "roadmap": "Lộ Trình Của Chúng Tôi"
+        }
+    },
+    "AboutPage": {
+        "hero": {
+            "badge": "Về Chúng Tôi",
+            "title": "Cách Mạng Hóa Tài Chính với AI",
+            "description": "Xây dựng tương lai của tài chính phi tập trung thông qua trí tuệ nhân tạo và công nghệ blockchain",
+            "content": {
+                "paragraph1": "AZ Coin (AZC) đang đi đầu trong sự hội tụ giữa trí tuệ nhân tạo và công nghệ blockchain. Sứ mệnh của chúng tôi là dân chủ hóa việc tiếp cận các chiến lược giao dịch và công cụ tài chính tinh vi mà trước đây chỉ dành cho các nhà đầu tư tổ chức.",
+                "paragraph2": "Thông qua hệ sinh thái sáng tạo của chúng tôi về staking đa chuỗi, giao dịch dựa trên AI và trò chơi tương tác, chúng tôi đang tạo ra cơ hội mới cho người dùng phát triển tài sản kỹ thuật số của họ trong khi đóng góp vào một cộng đồng sôi động.",
+                "buttons": {
+                    "explore": "Khám Phá AZC",
+                    "roadmap": "Xem Lộ Trình"
+                }
+            }
+        },
+        "mission": {
+            "title": "Sứ Mệnh & Tầm Nhìn",
+            "description": "Được dẫn dắt bởi các nguyên tắc rõ ràng và mục tiêu đầy tham vọng",
+            "mission": {
+                "title": "Sứ Mệnh",
+                "content": "Dân chủ hóa việc tiếp cận các công cụ tài chính tinh vi bằng cách kết hợp sức mạnh của trí tuệ nhân tạo với công nghệ blockchain, tạo cơ hội cho mọi người tham gia vào tương lai của tài chính.",
+                "points": {
+                    "1": "Làm cho giao dịch dựa trên AI trở nên dễ tiếp cận với mọi người",
+                    "2": "Tạo cơ hội sinh lợi bền vững trên nhiều blockchain",
+                    "3": "Xây dựng một cộng đồng gắn kết thông qua các tính năng chơi game và xã hội sáng tạo"
+                }
+            },
+            "vision": {
+                "title": "Tầm Nhìn",
+                "content": "Trở thành nền tảng hàng đầu nơi trí tuệ nhân tạo và blockchain hội tụ, tạo ra một mô hình mới cho sự bao gồm tài chính, tạo ra của cải và đổi mới công nghệ.",
+                "points": {
+                    "1": "Tiên phong trong việc tích hợp các mô hình AI tiên tiến vào tài chính phi tập trung",
+                    "2": "Đạt 1 triệu người dùng hoạt động trên hệ sinh thái của chúng tôi vào năm 2026",
+                    "3": "Thiết lập AZC trở thành token tiện ích hàng đầu trong không gian AI-blockchain"
+                }
+            }
+        },
+        "ecosystem": {
+            "badge": "Hệ Sinh Thái",
+            "title": "Hệ Sinh Thái AZC",
+            "description": "Một bộ sản phẩm và dịch vụ toàn diện được cung cấp bởi token AZC",
+            "components": {
+                "multichainStaking": {
+                    "title": "Staking Đa Chuỗi",
+                    "description": "Staking trên nhiều blockchain bao gồm Ethereum, BSC, Solana và hơn thế nữa với phần thưởng thống nhất bằng token AZC."
+                },
+                "aiTrading": {
+                    "title": "Giao Dịch Dựa Trên AI",
+                    "description": "Các mô hình AI tiên tiến phân tích các mẫu thị trường trên các sàn giao dịch lớn để thực hiện các giao dịch có lợi nhuận tự động."
+                },
+                "telegramGaming": {
+                    "title": "Trò Chơi Telegram",
+                    "description": "Các trò chơi play-to-earn hấp dẫn có thể truy cập trực tiếp thông qua Telegram, với phần thưởng token AZC và các tính năng xã hội."
+                },
+                "crossExchange": {
+                    "title": "Chênh Lệch Giá Đa Sàn",
+                    "description": "Hệ thống tự động xác định và tận dụng sự chênh lệch giá trên các sàn giao dịch như Hyperliquid, Binance, Bybit và các sàn khác."
+                },
+                "aiBots": {
+                    "title": "Bot Giao Dịch AI",
+                    "description": "Bot giao dịch có thể tùy chỉnh được cung cấp bởi các mô hình AI độc quyền của chúng tôi, có sẵn cho chủ sở hữu token AZC."
+                },
+                "wallet": {
+                    "title": "Ví Phi Tập Trung",
+                    "description": "Ví đa chuỗi an toàn với các tính năng staking, giao dịch và chơi game tích hợp để trải nghiệm liền mạch."
+                }
+            },
+            "growth": {
+                "title": "Tăng Trưởng Hệ Sinh Thái",
+                "description": "Sự chấp nhận của người dùng theo thời gian",
+                "activeUsers": "Người Dùng Hoạt Động"
+            },
+            "distribution": {
+                "title": "Phân Phối Hệ Sinh Thái",
+                "description": "Phân tích hoạt động nền tảng",
+                "activity": "Hoạt Động"
+            }
+        },
+        "aiTechnology": {
+            "badge": "Công Nghệ",
+            "title": "Công Nghệ AI Của Chúng Tôi",
+            "description": "Trí tuệ nhân tạo tiên tiến cung cấp năng lượng cho hệ thống giao dịch của chúng tôi",
+            "features": {
+                "multiModel": {
+                    "title": "Tích Hợp Đa Mô Hình",
+                    "description": "Hệ thống của chúng tôi kết hợp nhiều mô hình AI chuyên biệt, mỗi mô hình được tối ưu hóa cho các điều kiện thị trường và chiến lược giao dịch khác nhau."
+                },
+                "patternRecognition": {
+                    "title": "Nhận Dạng Mẫu Thời Gian Thực",
+                    "description": "Mạng nơ-ron tiên tiến xác định các mẫu phức tạp trên nhiều khung thời gian mà các nhà giao dịch con người có thể bỏ lỡ."
+                },
+                "sentimentAnalysis": {
+                    "title": "Phân Tích Tâm Lý",
+                    "description": "Các mô hình xử lý ngôn ngữ tự nhiên phân tích tin tức, mạng xã hội và tâm lý thị trường để dự đoán biến động giá."
+                },
+                "riskManagement": {
+                    "title": "Thuật Toán Quản Lý Rủi Ro",
+                    "description": "Các thuật toán tinh vi điều chỉnh động kích thước vị thế và đòn bẩy dựa trên biến động thị trường và đánh giá rủi ro."
+                },
+                "crossExchange": {
+                    "title": "Tối Ưu Hóa Đa Sàn",
+                    "description": "Hệ thống AI giám sát thanh khoản và sổ lệnh trên các sàn giao dịch để thực hiện giao dịch ở mức giá tối ưu và trượt giá tối thiểu."
+                },
+                "continuousLearning": {
+                    "title": "Học Liên Tục",
+                    "description": "Các mô hình của chúng tôi liên tục cải thiện thông qua học tăng cường, thích ứng với các điều kiện thị trường thay đổi."
+                }
+            },
+            "power": {
+                "title": "Sức Mạnh Của Tích Hợp AI",
+                "description": "Hệ thống độc quyền của chúng tôi kết hợp nhiều mô hình AI chuyên biệt, mỗi mô hình được đào tạo trên các điều kiện thị trường và chiến lược giao dịch cụ thể. Bằng cách tích hợp các mô hình này và liên tục tối ưu hóa hiệu suất của chúng, chúng tôi có thể xác định các cơ hội giao dịch có lợi nhuận trên các sàn giao dịch lớn như Hyperliquid, Binance và Bybit với độ chính xác chưa từng có."
+            }
+        },
+        "team": {
+            "badge": "Đội Ngũ Của Chúng Tôi",
+            "title": "Gặp Gỡ Đội Ngũ",
+            "description": "Các chuyên gia về AI, blockchain và thị trường tài chính cùng nhau xây dựng tương lai",
+            "testimonials": {
+                "passa": {
+                    "quote": "Tốt nghiệp MIT Finance. 12 năm kinh nghiệm tài chính, 6 năm blockchain. Cựu quản lí cấp cao Goldman Sachs và Coinbase. Người tiên phong trong DeFi",
+                    "name": "Passa Rodriguez",
+                    "designation": "Giám Đốc Điều Hành"
+                },
+                "dmitri": {
+                    "quote": "Tiến sĩ Khoa học Máy tính. Đóng góp cho Ethereum Foundation. Xây dựng các dự án DeFi với TVL hơn 3 tỷ USD. Chuyên gia hợp đồng thông minh.",
+                    "name": "Dmitri Volkov",
+                    "designation": "Giám Đốc Công Nghệ tại InnovateSphere"
+                },
+                "jessica": {
+                    "quote": "Chiến lược gia marketing với kinh nghiệm tại Binance. Dẫn dắt các chiến dịch tiếp cận hơn 10 triệu người dùng. Vận động blockchain từ năm 2017.",
+                    "name": "Jessica Wang",
+                    "designation": "Giám Đốc Marketing"
+                },
+                "james": {
+                    "quote": "Chuyên gia an ninh mạng với nền tảng từ Google. Hacker đạo đức. Bảo mật nhiều giao thức DeFi trị giá hơn 500 triệu USD.",
+                    "name": "James Kim",
+                    "designation": "Giám Đốc An Ninh"
+                },
+                "michael": {
+                    "quote": "Cựu trưởng phòng vận hành tại Aave. Triển khai tại 20+ thị trường. MBA từ Wharton. Tối ưu hóa hiệu suất nền tảng.",
+                    "name": "Michael Rodriguez",
+                    "designation": "Giám Đốc Vận Hành"
+                }
+            }
+        },
+        "cta": {
+            "title": "Tham Gia Cuộc Cách Mạng AZC",
+            "description": "Trở thành một phần của tương lai nơi AI và blockchain hội tụ để tạo ra những cơ hội chưa từng có",
+            "buttons": {
+                "staking": "Bắt Đầu Staking",
+                "token": "Tìm Hiểu Về Token AZC"
+            }
+        }
+    },
+    "RoadmapPage": {
+        "hero": {
+            "badge": "Hành Trình Của Chúng Tôi",
+            "title": "Lộ Trình Dự Án",
+            "description": "Khám phá hành trình đầy tham vọng của chúng tôi từ ý tưởng đến toàn cầu, với những cột mốc và thành tựu quan trọng trên đường đi."
+        },
+        "filters": {
+            "all": "Tất Cả Giai Đoạn",
+            "completed": "Đã Hoàn Thành",
+            "inProgress": "Đang Thực Hiện",
+            "upcoming": "Sắp Tới"
+        },
+        "emptyState": {
+            "title": "Không tìm thấy giai đoạn nào",
+            "description": "Không có giai đoạn nào trong lộ trình phù hợp với bộ lọc hiện tại. Vui lòng thử chọn một tùy chọn lọc khác.",
+            "viewAll": "Xem Tất Cả Giai Đoạn"
+        },
+        "phases": {
+            "phase1": {
+                "phase": "Giai Đoạn 1",
+                "title": "Ra Mắt Dự Án",
+                "date": "Quý 1 - 2025",
+                "status": "completed",
+                "description": "Xây dựng nền tảng và hiện diện thị trường ban đầu",
+                "details": "Ra mắt chính thức Nền tảng Staking OptiFund, mở rộng hệ thống giới thiệu, phát triển cộng đồng và marketing, phát triển GameFi, và chương trình staking ban đầu.",
+                "achievements": {
+                    "staking": "Ra mắt staking",
+                    "team": "Tập hợp đội ngũ cốt cán",
+                    "funding": "Đảm bảo nguồn vốn ban đầu",
+                    "community": "Thiết lập kênh cộng đồng"
+                }
+            },
+            "phase2": {
+                "phase": "Giai Đoạn 2",
+                "title": "Phát Triển Nền Tảng",
+                "date": "Quý 2 - 2025",
+                "status": "in-progress",
+                "description": "Chúng tôi tập trung xây dựng nền tảng an toàn với việc phát triển hợp đồng thông minh nghiêm ngặt và nhiều cuộc kiểm toán bảo mật, đồng thời thiết kế trải nghiệm người dùng trực quan.",
+                "details": "Hoàn thành kiểm toán bảo mật, hoàn thiện thiết kế UI/UX, Thử nghiệm Alpha với người dùng cốt cán",
+                "achievements": {
+                    "swap": "Token Swap",
+                    "security": "Hoàn thành kiểm toán bảo mật",
+                    "design": "Hoàn thiện thiết kế UI/UX",
+                    "testing": "Thử nghiệm Alpha với người dùng cốt cán"
+                }
+            },
+            "phase3": {
+                "phase": "Giai Đoạn 3",
+                "title": "Quảng Bá Dự Án",
+                "date": "Quý 3-4 2025",
+                "status": "in-progress",
+                "description": "Trọng tâm hiện tại của chúng tôi là đưa nền tảng ra thị trường với việc ra mắt token, niêm yết trên các sàn giao dịch chiến lược, và mở rộng cơ sở người dùng thông qua marketing mục tiêu.",
+                "details": "Mục tiêu giá sẽ là 10-15$",
+                "achievements": {
+                    "listings": "Niêm yết (DEX, CEX)",
+                    "audit": "Kiểm toán hợp đồng thông minh",
+                    "generation": "Sự kiện phát hành OptiFund",
+                    "marketing": "Khởi động chiến dịch marketing"
+                }
+            },
+            "phase4": {
+                "phase": "Giai Đoạn 4",
+                "title": "Mở Rộng Hệ Sinh Thái",
+                "date": "Quý 1-2 2026",
+                "status": "in-progress",
+                "description": "Chúng tôi đang mở rộng hệ sinh thái với các ứng dụng di động, đối tác chiến lược, và giới thiệu chương trình staking để thưởng cho các thành viên cộng đồng.",
+                "achievements": {
+                    "mobile": "Phát triển ứng dụng di động",
+                    "gamefi": "GameFi trên Telegram",
+                    "partnerships": "Công bố đối tác",
+                    "governance": "Triển khai quản trị cộng đồng"
+                }
+            },
+            "phase5": {
+                "phase": "Giai Đoạn 5",
+                "title": "Tính Năng Nâng Cao",
+                "date": "Quý 3-4 2026",
+                "status": "upcoming",
+                "description": "Lộ trình của chúng tôi bao gồm các tính năng tiên tiến như khả năng cross-chain, phân tích dựa trên AI, và công cụ chuyên biệt cho người dùng tổ chức.",
+                "achievements": {
+                    "crossChain": "Tích hợp cross-chain",
+                    "trading": "Tính năng giao dịch nâng cao",
+                    "analytics": "Phân tích dựa trên AI",
+                    "institutional": "Đối tác tổ chức"
+                }
+            },
+            "phase6": {
+                "phase": "Giai Đoạn 6",
+                "title": "Mở Rộng Toàn Cầu",
+                "date": "2027",
+                "status": "upcoming",
+                "description": "Giai đoạn cuối của lộ trình hiện tại tập trung vào việc mở rộng toàn cầu, tuân thủ quy định trên các khu vực pháp lý, và xây dựng hệ sinh thái bền vững thông qua chương trình tài trợ.",
+                "achievements": {
+                    "marketing": "Chiến dịch marketing quốc tế",
+                    "compliance": "Mở rộng tuân thủ quy định",
+                    "enterprise": "Ra mắt giải pháp doanh nghiệp",
+                    "grants": "Chương trình tài trợ hệ sinh thái"
+                }
+            },
+            "phase7": {
+                "phase": "Giai Đoạn 7",
+                "title": "Tương Lai",
+                "date": "2028+",
+                "status": "upcoming",
+                "description": "Nền tảng cho vay và đi vay on-chain, thẻ ghi nợ Web3 và tích hợp thương gia",
+                "achievements": {
+                    "defi": "Ngân hàng DeFi OptiFund",
+                    "cards": "Thẻ ghi nợ Web3"
+                }
+            }
+        },
+        "status": {
+            "completed": "Đã Hoàn Thành",
+            "inProgress": "Đang Thực Hiện",
+            "upcoming": "Sắp Tới",
+            "currentlyInDevelopment": "Đang Phát Triển",
+            "comingSoon": "Sắp Ra Mắt"
+        },
+        "cta": {
+            "title": "Tham Gia Hành Trình Của Chúng Tôi",
+            "description": "Hãy là một phần của lộ trình thú vị khi chúng tôi cách mạng hóa ngành công nghiệp. Cập nhật những phát triển và thông báo mới nhất của chúng tôi.",
+            "button": "Tham Gia Cộng Đồng"
+        }
+    },
+    "MediaResourcePage": {
+        "title": "Tài Nguyên Truyền Thông",
+        "description": "Tải xuống logo, banner, tài liệu thuyết trình và hơn thế nữa",
+        "intro": {
+            "title": "Chào mừng đến với Trung tâm Truyền thông Azcoin",
+            "description": "Truy cập và tải xuống tài liệu nhận diện thương hiệu chính thức, tài sản tiếp thị và tài liệu thuyết trình của Azcoin bằng nhiều ngôn ngữ. Sử dụng các tài nguyên này để quảng bá Azcoin và đảm bảo thương hiệu nhất quán trong mọi nỗ lực tiếp thị của bạn.",
+            "downloadAll": "Tải Xuống Tất Cả Tài Nguyên",
+            "categories": {
+                "brandAssets": "Tài Sản Thương Hiệu",
+                "presentations": "Tài Liệu Thuyết Trình",
+                "marketing": "Tiếp Thị",
+                "multiLanguage": "Đa Ngôn Ngữ"
+            }
+        },
+        "collections": {
+            "title": "Bộ Sưu Tập Phổ Biến",
+            "brandKit": {
+                "title": "Bộ Nhận Diện Thương Hiệu",
+                "subtitle": "Gói nhận diện thương hiệu đầy đủ",
+                "description": "Tải xuống bộ nhận diện thương hiệu đầy đủ bao gồm logo, bảng màu, hướng dẫn typography và hơn thế nữa.",
+                "download": "Tải Xuống Bộ Nhận Diện"
+            },
+            "multiLanguage": {
+                "title": "Gói Đa Ngôn Ngữ",
+                "subtitle": "Tài nguyên bằng mọi ngôn ngữ",
+                "description": "Truy cập tài liệu thuyết trình và tài liệu bằng tất cả các ngôn ngữ được hỗ trợ cho các chiến dịch tiếp thị toàn cầu."
+            },
+            "presentation": {
+                "title": "Bộ Tài Liệu Thuyết Trình",
+                "subtitle": "Tất cả tài liệu thuyết trình",
+                "description": "Nhận tất cả các slide thuyết trình, ghi chú diễn giả và tài liệu hỗ trợ trong một gói tiện lợi.",
+                "download": "Tải Xuống Tài Liệu"
+            }
+        },
+        "customMaterials": {
+            "title": "Cần Tài Liệu Tùy Chỉnh?",
+            "description": "Nếu bạn cần tài liệu tiếp thị tùy chỉnh hoặc có yêu cầu cụ thể, đội ngũ thiết kế của chúng tôi luôn sẵn sàng hỗ trợ. Liên hệ với chúng tôi về nhu cầu của bạn và chúng tôi sẽ tạo tài nguyên phù hợp cho chiến dịch tiếp thị của bạn.",
+            "contactSupport": "Liên Hệ Hỗ Trợ"
+        }
+    },
+    "Navbar": {
+        "routes": {
+            "home": "Trang Chủ",
+            "dashboard": "Tổng Quan",
+            "staking": "Đặt Cọc",
+            "swap": "Hoán Đổi",
+            "mystake": "My Stake",
+            "partner": "Đối Tác",
+            "token": "Phân Bổ Token",
+            "about": "Giới Thiệu",
+            "roadmap": "Lộ Trình",
+            "mediaResource": "Tài Nguyên",
+            "faqs": "Câu Hỏi Thường Gặp"
+        },
+        "menu": {
+            "about": "Giới Thiệu",
+            "more": "Thêm",
+            "manager": "Quản Lý"
+        },
+        "descriptions": {
+            "tokenomics": "Phân phối tokenomics và thông tin AZC",
+            "about": "Tìm hiểu thêm về dự án và đội ngũ OptiFund",
+            "roadmap": "Lộ trình phát triển và kế hoạch tương lai của OptiFund",
+            "swap": "Hoán đổi token của bạn với OptiFund nhanh chóng và dễ dàng",
+            "resource": "Tài nguyên truyền thông và tài liệu báo chí",
+            "faqs": "Câu hỏi thường gặp về OptiFund",
+            "dashboard": "Xem thống kê và phân tích OptiFund của bạn",
+            "mystake": "Quản lý token OptiFund đã stake của bạn",
+            "partner": "Thông tin về đối tác của OptiFund"
+        },
+        "connect": {
+            "title": "Đăng nhập vào OptiFund",
+            "connecting": "Kết nối...",
+            "connect": "Kết Nối"
+        }
+    },
+    "SuccessModal": {
+        "title": "Đặt Cọc Thành Công!",
+        "description": "Token của bạn đã được stake thành công",
+        "details": {
+            "amountStaked": "Số lượng đã stake:",
+            "value": "Giá trị:",
+            "estimatedMPY": "MPY ước tính:",
+            "month": "Tháng"
+        },
+        "buttons": {
+            "close": "Đóng",
+            "viewStakes": "Xem Stake Của Tôi"
+        }
+       
+    },
+    "MobileBottom": {
+        "routes": {
+            "home": "Trang Chủ",
+            "stake": "Đặt Cọc",
+            "dashboard": "Tổng Quan",
+            "mystake": "My Stake",
+            "partner": "Đối Tác",
+            "about": "Giới Thiệu",
+            "faqs": "Câu Hỏi",
+            "more": "Thêm",
+            "token": "AZC Token",
+            "roadmap": "Lộ Trình",
+            "swap": "Hoán Đổi Token",
+            "resource": "Tài Nguyên",
+            "theme": "Giao Diện"
+        }
+    },
+    "WalletConnect": {
+        "title": "Chi Tiết Ví",
+        "description": "Xem số dư ví và quản lý tài sản tiền điện tử của bạn.",
+        "tokenBalances": "Số Dư Token",
+        "showLess": "Ẩn Bớt",
+        "showAll": "Xem Tất Cả",
+        "disconnect": "Ngắt Kết Nối",
+        "copy": {
+            "success": "Đã sao chép địa chỉ ví"
+        }
+    },
+    "Footer": {
+        "slogan": "Staking Thông Minh với Lợi Nhuận Được Hỗ Trợ bởi AI",
+        "sections": {
+            "products": {
+                "title": "Sản Phẩm",
+                "items": {
+                    "staking": "Đặt Cọc",
+                    "swap": "Hoán Đổi"
+                }
+            },
+            "azcToken": {
+                "title": "Token AZC",
+                "items": {
+                    "tokenomics": "Phân Bổ Token",
+                    "roadmap": "Lộ Trình",
+                    "mediaResource": "Tài Nguyên"
+                }
+            },
+            "company": {
+                "title": "Công Ty",
+                "items": {
+                    "about": "Về Chúng Tôi",
+                    "faqs": "Câu Hỏi Thường Gặp",
+                    "privacyPolicy": "Chính Sách Bảo Mật",
+                    "termsOfService": "Điều Khoản Dịch Vụ"
+                }
+            },
+            "connect": {
+                "title": "Kết Nối Với Chúng Tôi",
+                "items": {
+                    "email": "hello@optifund.app",
+                    "support": "Trò Chuyện với Hỗ Trợ"
+                },
+                "social": {
+                    "telegram": "Telegram",
+                    "twitter": "X.com",
+                    "youtube": "Youtube"
+                }
+            }
+        },
+        "copyright": "© 2025 optifund.app | Đã đăng ký bản quyền."
+    },
+    
+        "TermsOfService": {
+            "backToHome": "Quay lại Trang chủ",
+            "legalBadge": "Pháp lý",
+            "title": "Điều khoản Dịch vụ",
+            "lastUpdated": "Cập nhật lần cuối: 9 tháng 3, 2024",
+            "introduction": {
+                "title": "Giới thiệu",
+                "content": "Chào mừng bạn đến với Azcoin! Các Điều khoản Dịch vụ này ('Điều khoản') quy định việc bạn sử dụng nền tảng staking và các dịch vụ của chúng tôi. Bằng cách truy cập Azcoin, bạn đồng ý với các Điều khoản này. Nếu bạn không đồng ý, vui lòng không sử dụng nền tảng của chúng tôi."
+            },
+            "eligibility": {
+                "title": "Điều kiện Tham gia",
+                "items": {
+                    "age": "Bạn phải ít nhất 18 tuổi và có khả năng pháp lý để ký kết hợp đồng để sử dụng Azcoin.",
+                    "laws": "Bạn chịu trách nhiệm tuân thủ tất cả các luật hiện hành tại khu vực pháp lý của mình."
+                }
+            },
+            "account": {
+                "title": "Đăng ký Tài khoản",
+                "items": {
+                    "register": "Bạn phải đăng ký tài khoản với thông tin chính xác và đầy đủ để sử dụng Azcoin.",
+                    "responsibility": "Bạn chịu trách nhiệm giữ bí mật thông tin đăng nhập tài khoản và mọi hành động diễn ra dưới tài khoản của mình."
+                }
+            },
+            "staking": {
+                "title": "Staking và Lợi nhuận",
+                "mechanism": {
+                    "title": "Cơ chế Staking",
+                    "content": "Bằng cách staking token, bạn đồng ý với việc phân phối quỹ tự động được nêu trong hợp đồng staking của chúng tôi (ví dụ: phân bổ cho Phát triển, Tiếp thị, Lãnh đạo và Quỹ)."
+                },
+                "profitClaims": {
+                    "title": "Yêu cầu Lợi nhuận",
+                    "content": "Bạn có thể yêu cầu lợi nhuận mỗi 24 giờ, tối đa 400% số tiền đã stake (tính bằng USDT)."
+                },
+                "maxOutLimit": {
+                    "title": "Giới hạn Tối đa",
+                    "content": "Tổng thu nhập hoa hồng bị giới hạn ở mức 4 lần khoản đầu tư ban đầu của bạn."
+                }
+            },
+            "referral": {
+                "title": "Chương trình Giới thiệu",
+                "content": "Azcoin cung cấp hệ thống giới thiệu đa cấp. Hoa hồng phụ thuộc vào cấu trúc upline của bạn, như được định nghĩa trong Hợp đồng Thành viên.",
+                "details": "Chi tiết về giới thiệu và chia sẻ lợi nhuận có sẵn trong FAQ và tài liệu staking của chúng tôi.",
+                "commissionStructure": {
+                    "title": "Cấu trúc Hoa hồng",
+                    "f1": "Giới thiệu Trực tiếp (F1)",
+                    "f2": "Cấp 2 (F2)",
+                    "f3": "Cấp 3 (F3)",
+                    "f1Rate": "6%",
+                    "f2Rate": "1%",
+                    "f3Rate": "1%"
+                }
+            },
+            "tokenUsage": {
+                "title": "Sử dụng Token và Token AZC",
+                "swap": "Token đã stake được hoán đổi sang USDT qua Uniswap để tính toán lợi nhuận.",
+                "distribution": "Lợi nhuận được phân phối với 70% bằng token ban đầu và 30% bằng token AZC, với giá trị AZC được định giá 1 USDT.",
+                "profitDistribution": {
+                    "title": "Phân phối Lợi nhuận",
+                    "originalToken": "Token Ban đầu",
+                    "azcToken": "Token AZC",
+                    "originalTokenRate": "70%",
+                    "azcTokenRate": "30%"
+                }
+            },
+            "responsibilities": {
+                "title": "Trách nhiệm của Người dùng",
+                "items": {
+                    "taxes": "Bạn chịu trách nhiệm đối với bất kỳ khoản thuế hoặc nghĩa vụ pháp lý nào liên quan đến hoạt động staking và thu nhập của mình.",
+                    "fraud": "Bạn không được tham gia vào các hành vi gian lận, chẳng hạn như thao túng giới thiệu hoặc khai thác lỗ hổng của nền tảng."
+                }
+            },
+            "intellectualProperty": {
+                "title": "Sở hữu Trí tuệ",
+                "content": "Tất cả nội dung, logo và tài liệu trên Azcoin thuộc về Azcoin hoặc các bên cấp phép của chúng tôi và được bảo vệ bởi luật sở hữu trí tuệ.",
+                "permission": "Bạn không được sử dụng hoặc tái tạo nội dung của chúng tôi mà không có sự cho phép bằng văn bản."
+            },
+            "liability": {
+                "title": "Giới hạn Trách nhiệm",
+                "warranty": "Azcoin được cung cấp 'nguyên trạng' mà không có bảo đảm. Chúng tôi không đảm bảo quyền truy cập liên tục, tính chính xác hoặc bảo mật hoàn toàn.",
+                "damages": "Chúng tôi không chịu trách nhiệm đối với bất kỳ thiệt hại trực tiếp, gián tiếp hoặc hậu quả nào từ việc bạn sử dụng nền tảng."
+            },
+            "termination": {
+                "title": "Chấm dứt",
+                "content": "Chúng tôi có thể tạm ngưng hoặc chấm dứt tài khoản của bạn nếu vi phạm các Điều khoản này hoặc tham gia vào các hoạt động bị cấm.",
+                "effect": "Khi chấm dứt, quyền truy cập của bạn vào Azcoin sẽ kết thúc, mặc dù một số điều khoản (ví dụ: giải quyết tranh chấp) vẫn có hiệu lực.",
+                "prohibitedActivities": {
+                    "title": "Các Hoạt động Bị Cấm",
+                    "items": {
+                        "multipleAccounts": "Tạo nhiều tài khoản để thao túng hệ thống giới thiệu",
+                        "hacking": "Cố gắng hack, làm gián đoạn hoặc gây thiệt hại cho nền tảng",
+                        "illegal": "Sử dụng nền tảng cho các hoạt động bất hợp pháp hoặc rửa tiền",
+                        "misinformation": "Chia sẻ thông tin sai lệch hoặc gây hiểu lầm về nền tảng"
+                    }
+                }
+            },
+            "disputeResolution": {
+                "title": "Giải quyết Tranh chấp",
+                "arbitration": "Các tranh chấp sẽ được giải quyết thông qua trọng tài ràng buộc tại Singapore, theo Quy tắc của Trung tâm Trọng tài Quốc tế Singapore (SIAC).",
+                "classAction": "Bạn từ bỏ quyền tham gia các vụ kiện tập thể hoặc trọng tài tập thể.",
+                "arbitrationProcess": {
+                    "title": "Quy trình Trọng tài",
+                    "steps": {
+                        "notice": "Thông báo bằng văn bản về tranh chấp phải được gửi đến Azcoin",
+                        "negotiation": "Giai đoạn thương lượng thiện chí trong 30 ngày",
+                        "language": "Nếu không giải quyết được, trọng tài sẽ được tiến hành bằng tiếng Anh",
+                        "decision": "Quyết định của trọng tài sẽ là cuối cùng và có tính ràng buộc",
+                        "fees": "Mỗi bên chịu chi phí pháp lý và chi phí của riêng mình"
+                    }
+                }
+            },
+            "changes": {
+                "title": "Thay đổi Điều khoản",
+                "content": "Chúng tôi có thể sửa đổi các Điều khoản này định kỳ. Các cập nhật sẽ được đăng tại đây, và việc tiếp tục sử dụng Azcoin thể hiện sự chấp nhận của bạn.",
+                "notificationProcess": {
+                    "title": "Quy trình Thông báo",
+                    "description": "Khi chúng tôi thực hiện các thay đổi quan trọng đối với các Điều khoản này, chúng tôi sẽ thông báo cho bạn thông qua:",
+                    "methods": {
+                        "email": "Thông báo qua email (nếu bạn đã cung cấp email)",
+                        "website": "Thông báo trên trang web của chúng tôi",
+                        "inApp": "Thông báo trong ứng dụng"
+                    }
+                }
+            },
+            "contact": {
+                "title": "Liên Hệ",
+                "content": "Đối với câu hỏi về các Điều Khoản này, vui lòng liên hệ với chúng tôi tại:",
+                "email": "Email: hello@azcoin.com",
+                "address": "Địa chỉ: Azcoin Headquarters, 20 Prince Well Rd, North Yarmouth, Maine(ME)",
+                "response": "Thời Gian Phản Hồi",
+                "responseTime": "Chúng tôi nỗ lực trả lời tất cả các yêu cầu trong vòng 48 giờ và giải quyết mọi mối quan tâm trong vòng 14 ngày."
+            },
+            "additionalTerms": {
+                "title": "Điều khoản Bổ sung",
+                "forceMajeure": {
+                    "title": "Bất khả kháng",
+                    "content": "Azcoin không chịu trách nhiệm đối với bất kỳ sự thất bại hoặc chậm trễ nào trong việc thực hiện do các tình huống ngoài tầm kiểm soát hợp lý của chúng tôi, bao gồm nhưng không giới hạn ở thiên tai, chiến tranh, khủng bố, bạo loạn, cấm vận, hành động của chính quyền dân sự hoặc quân sự, hỏa hoạn, lũ lụt, tai nạn, sự cố hạ tầng mạng, đình công hoặc thiếu hụt phương tiện vận chuyển, nhiên liệu, năng lượng, lao động hoặc nguyên liệu."
+                },
+                "severability": {
+                    "title": "Tính Tách rời",
+                    "content": "Nếu bất kỳ điều khoản nào trong các Điều khoản này được coi là không thể thực thi hoặc không hợp lệ, điều khoản đó sẽ được giới hạn hoặc loại bỏ ở mức tối thiểu cần thiết để các Điều khoản còn lại vẫn có hiệu lực đầy đủ và có thể thực thi."
+                },
+                "assignment": {
+                    "title": "Chuyển nhượng",
+                    "content": "Bạn không được chuyển nhượng hoặc chuyển giao các Điều khoản này, theo luật hoặc cách khác, mà không có sự đồng ý trước bằng văn bản của Azcoin. Bất kỳ nỗ lực nào của bạn để chuyển nhượng hoặc chuyển giao các Điều khoản này mà không có sự đồng ý đó sẽ bị vô hiệu. Azcoin có thể tự do chuyển nhượng hoặc chuyển giao các Điều khoản này mà không bị hạn chế."
+                },
+                "entireAgreement": {
+                    "title": "Toàn bộ Thỏa thuận",
+                    "content": "Các Điều khoản này cấu thành toàn bộ thỏa thuận giữa bạn và Azcoin liên quan đến việc sử dụng nền tảng và thay thế tất cả các thỏa thuận, đề xuất hoặc đại diện trước đó và đồng thời, bằng văn bản hoặc miệng, liên quan đến chủ đề của nó."
+                }
+            },
+            "acceptance": "Bằng cách sử dụng các dịch vụ của Azcoin, bạn xác nhận rằng bạn đã đọc, hiểu và đồng ý bị ràng buộc bởi các Điều khoản Dịch vụ này.",
+            "privacyPolicy": "Chính sách Bảo mật",
+            "startStaking": "Bắt đầu Staking"
+        },
+        "PrivacyPolicy": {
+            "backToHome": "Quay lại Trang chủ",
+            "legalBadge": "Pháp lý",
+            "title": "Chính sách Bảo mật",
+            "lastUpdated": "Cập nhật lần cuối: 9 tháng 3, 2024",
+            "introduction": {
+                "title": "Giới thiệu",
+                "content": "Tại Azcoin, chúng tôi coi trọng quyền riêng tư của bạn và cam kết bảo vệ thông tin cá nhân của bạn. Chính sách Bảo mật này giải thích cách chúng tôi thu thập, sử dụng và bảo vệ dữ liệu của bạn khi bạn tương tác với nền tảng staking và các dịch vụ của chúng tôi."
+            },
+            "informationCollection": {
+                "title": "Thông tin Chúng tôi Thu thập",
+                "personalInfo": {
+                    "title": "Thông tin Cá nhân",
+                    "content": "Khi bạn đăng ký hoặc sử dụng nền tảng của chúng tôi, chúng tôi có thể thu thập tên, địa chỉ email, địa chỉ ví và các chi tiết liên hệ khác của bạn."
+                },
+                "transactionData": {
+                    "title": "Dữ liệu Giao dịch",
+                    "content": "Chúng tôi thu thập thông tin chi tiết về các hoạt động staking của bạn, chẳng hạn như gửi token, yêu cầu lợi nhuận và hoa hồng giới thiệu."
+                },
+                "technicalData": {
+                    "title": "Dữ liệu Kỹ thuật",
+                    "content": "Chúng tôi có thể thu thập địa chỉ IP, loại trình duyệt, thông tin thiết bị và dữ liệu sử dụng của bạn để tăng cường bảo mật và cải thiện dịch vụ của chúng tôi."
+                }
+            },
+            "informationUsage": {
+                "title": "Cách Chúng tôi Sử dụng Thông tin của Bạn",
+                "serviceProvision": {
+                    "title": "Cung cấp Dịch vụ",
+                    "content": "Để quản lý staking của bạn, xử lý giao dịch và cung cấp hỗ trợ khách hàng."
+                },
+                "communication": {
+                    "title": "Giao tiếp",
+                    "content": "Để gửi cho bạn các cập nhật, thông báo và ưu đãi khuyến mãi về Azcoin."
+                },
+                "security": {
+                    "title": "Bảo mật",
+                    "content": "Để phát hiện và ngăn chặn gian lận, truy cập trái phép hoặc các hoạt động bất hợp pháp."
+                },
+                "analytics": {
+                    "title": "Phân tích",
+                    "content": "Để nghiên cứu xu hướng sử dụng và tối ưu hóa hiệu suất cũng như trải nghiệm người dùng của nền tảng."
+                }
+            },
+            "dataSharing": {
+                "title": "Chia sẻ và Tiết lộ Dữ liệu",
+                "thirdParty": {
+                    "title": "Đối tác Bên thứ ba",
+                    "content": "Chúng tôi có thể chia sẻ dữ liệu của bạn với các nhà cung cấp dịch vụ đáng tin cậy (ví dụ: bộ xử lý thanh toán, công cụ phân tích) giúp chúng tôi vận hành nền tảng."
+                },
+                "legalRequirements": {
+                    "title": "Yêu cầu Pháp lý",
+                    "content": "Chúng tôi có thể tiết lộ thông tin của bạn nếu được yêu cầu bởi pháp luật hoặc để bảo vệ quyền lợi và sự an toàn của người dùng."
+                },
+                "blockchainTransparency": {
+                    "title": "Tính Minh bạch của Blockchain",
+                    "content": "Lưu ý rằng các giao dịch trên blockchain là công khai. Địa chỉ ví và chi tiết giao dịch của bạn có thể được nhìn thấy trên mạng blockchain."
+                }
+            },
+            "dataSecurity": {
+                "title": "Bảo mật Dữ liệu",
+                "content": "Chúng tôi sử dụng các biện pháp tiêu chuẩn ngành như mã hóa, máy chủ bảo mật và kiểm tra định kỳ để bảo vệ dữ liệu của bạn. Tuy nhiên, không hệ thống nào an toàn tuyệt đối, và chúng tôi không thể đảm bảo bảo vệ hoàn toàn.",
+                "securityMeasures": {
+                    "servers": "Máy chủ bảo mật, mã hóa với các bản cập nhật bảo mật định kỳ",
+                    "encryption": "Mã hóa đầu cuối cho việc truyền dữ liệu nhạy cảm",
+                    "audits": "Kiểm tra bảo mật định kỳ và đánh giá lỗ hổng"
+                }
+            },
+            "userRights": {
+                "title": "Quyền của Bạn",
+                "access": {
+                    "title": "Truy cập và Sửa chữa",
+                    "content": "Bạn có thể yêu cầu truy cập vào dữ liệu của mình hoặc sửa chữa bất kỳ sai sót nào."
+                },
+                "deletion": {
+                    "title": "Xóa",
+                    "content": "Bạn có thể yêu cầu xóa dữ liệu, tùy thuộc vào các nghĩa vụ pháp lý hoặc hợp đồng."
+                },
+                "optOut": {
+                    "title": "Từ chối",
+                    "content": "Bạn có thể hủy đăng ký nhận email khuyến mãi bất kỳ lúc nào."
+                }
+            },
+            "cookies": {
+                "title": "Cookies và Theo dõi",
+                "description": "Chúng tôi sử dụng cookies và các công nghệ tương tự để cải thiện trải nghiệm của bạn, phân tích việc sử dụng và cung cấp nội dung tùy chỉnh. Bạn có thể điều chỉnh cài đặt cookie trong trình duyệt của mình.",
+                "types": {
+                    "essential": {
+                        "title": "Cookies Thiết yếu",
+                        "badge": "Bắt buộc",
+                        "description": "Cần thiết để trang web hoạt động bình thường"
+                    },
+                    "functional": {
+                        "title": "Cookies Chức năng",
+                        "badge": "Tùy chọn",
+                        "description": "Ghi nhớ sở thích và cài đặt của bạn"
+                    },
+                    "analytics": {
+                        "title": "Cookies Phân tích",
+                        "badge": "Tùy chọn",
+                        "description": "Giúp chúng tôi hiểu cách khách truy cập tương tác với trang web của mình"
+                    }
+                }
+            },
+            "policyChanges": {
+                "title": "Thay đổi Chính sách",
+                "content": "Chúng tôi có thể cập nhật Chính sách Bảo mật này theo thời gian. Các thay đổi sẽ được đăng tại đây, và việc bạn tiếp tục sử dụng Azcoin thể hiện sự chấp nhận chính sách đã cập nhật.",
+                "updateProcess": {
+                    "title": "Quy trình Cập nhật Chính sách",
+                    "description": "Khi chúng tôi thực hiện các thay đổi quan trọng đối với chính sách này, chúng tôi sẽ thông báo cho bạn thông qua:",
+                    "methods": [
+                        "Thông báo qua email (nếu bạn đã cung cấp email)",
+                        "Thông báo trên trang web của chúng tôi",
+                        "Thông báo trong ứng dụng"
+                    ]
+                },
+                "previousVersions": {
+                    "title": "Các Phiên bản Trước",
+                    "content": "Bạn có thể yêu cầu truy cập vào các phiên bản trước của chính sách bảo mật của chúng tôi bằng cách liên hệ với chúng tôi."
+                }
+            },
+            "contact": {
+                "title": "Liên hệ",
+                "description": "Nếu có câu hỏi hoặc mối quan ngại về Chính sách Bảo mật này, vui lòng liên hệ với chúng tôi tại:",
+                "email": "Email: hello@optifund.app",
+                "address": "Địa chỉ: Trụ sở Azcoin, 20 Prince Well Rd, North Yarmouth, Maine (ME)",
+                "dpo": "Nhân viên Bảo vệ Dữ liệu: John Smith",
+                "responseTime": {
+                    "title": "Thời gian Phản hồi",
+                    "content": "Chúng tôi nỗ lực trả lời tất cả các thắc mắc liên quan đến quyền riêng tư trong vòng 48 giờ và giải quyết mọi vấn đề trong vòng 14 ngày."
+                }
+            },
+            "additionalInfo": {
+                "title": "Thông tin Bổ sung",
+                "internationalTransfers": {
+                    "title": "Chuyển Dữ liệu Quốc tế",
+                    "content": "Thông tin của bạn có thể được chuyển đến và xử lý ở các quốc gia khác với quốc gia bạn cư trú. Các quốc gia này có thể có luật bảo vệ dữ liệu khác. Khi chúng tôi chuyển dữ liệu của bạn, chúng tôi thực hiện các biện pháp bảo vệ thích hợp để đảm bảo dữ liệu được bảo vệ theo Chính sách Bảo mật này."
+                },
+                "dataRetention": {
+                    "title": "Lưu giữ Dữ liệu",
+                    "content": "Chúng tôi lưu giữ thông tin cá nhân của bạn trong thời gian cần thiết để thực hiện các mục đích được nêu trong Chính sách Bảo mật này, trừ khi luật pháp yêu cầu hoặc cho phép thời gian lưu giữ lâu hơn. Khi xác định thời gian lưu giữ dữ liệu, chúng tôi xem xét số lượng, bản chất và mức độ nhạy cảm của thông tin, rủi ro tiềm tàng từ việc sử dụng hoặc tiết lộ trái phép, và các yêu cầu pháp lý áp dụng."
+                },
+                "childrenPrivacy": {
+                    "title": "Quyền riêng tư của Trẻ em",
+                    "content": "Dịch vụ của chúng tôi không dành cho cá nhân dưới 18 tuổi. Chúng tôi không cố ý thu thập thông tin cá nhân từ trẻ em. Nếu bạn tin rằng chúng tôi đã vô tình thu thập thông tin từ trẻ em, vui lòng liên hệ ngay với chúng tôi, và chúng tôi sẽ thực hiện các bước để xóa thông tin đó."
+                },
+                "thirdPartyLinks": {
+                    "title": "Liên kết Bên thứ ba",
+                    "content": "Nền tảng của chúng tôi có thể chứa liên kết đến các trang web hoặc dịch vụ của bên thứ ba. Chúng tôi không chịu trách nhiệm về các chính sách bảo mật hoặc nội dung của các bên thứ ba này. Chúng tôi khuyến khích bạn đọc chính sách bảo mật của bất kỳ trang web bên thứ ba nào bạn truy cập."
+                }
+            },
+            "acknowledgment": "Bằng cách sử dụng các dịch vụ của Azcoin, bạn xác nhận rằng bạn đã đọc và hiểu Chính sách Bảo mật này.",
+            "termsOfService": "Điều khoản Dịch vụ",
+            "startStaking": "Bắt đầu Staking"
+        },
+        "SwapPage": {
+    "title": "Hoán đổi Token",
+    "description": "Mua hoặc bán token ngay lập tức với giá tốt nhất",
+    "from": "Từ",
+    "to": "Đến",
+    "max": "Tối đa",
+    "balance": "Số dư",
+    "minimumReceived": "Số lượng nhận tối thiểu",
+    "router": "Bộ định tuyến",
+    "estimatedFees": "Phí ước tính",
+    "slippageTolerance": "Dung sai trượt giá",
+    "connectWallet": "Kết nối ví",
+    "insufficientBalance": "Số dư không đủ",
+    "enterAmount": "Nhập số lượng",
+    "approve": "Phê duyệt",
+    "approving": "Đang phê duyệt...",
+    "swap": "Hoán đổi",
+    "swapping": "Đang hoán đổi...",
+    "confirmSwap": "Xác nhận hoán đổi",
+    "settings": "Cài đặt",
+    "configureSwapSettings": "Cấu hình cài đặt hoán đổi",
+    "close": "Đóng",
+    "transactionDetails": "Chi tiết giao dịch",
+    "priceImpact": "Ảnh hưởng giá",
+    "amountInUSD": "Số tiền bằng USD",
+    "amountOutUSD": "Số tiền nhận bằng USD",
+    "tradingFee": "Phí giao dịch (USD)",
+    "warning": "Cảnh báo",
+    "highPriceImpact": "Ảnh hưởng giá cao có thể dẫn đến kết quả không mong muốn.",
+    "success": "Thành công",
+    "error": "Lỗi",
+    "info": "Thông tin",
+    "sendingTransaction": "Đang gửi giao dịch...",
+    "swapSent": "Đã gửi hoán đổi! Đang chờ xác nhận...",
+    "swapSuccessful": "Hoán đổi thành công!",
+    "swapFailed": "Hoán đổi thất bại. Vui lòng thử lại.",
+    "couldNotPrepareTransaction": "Không thể chuẩn bị giao dịch: {error}",
+    "youNeedToConnectWallet": "Bạn cần kết nối ví trước",
+    "swapSuccessfulTitle": "Hoán đổi thành công",
+    "swapSuccessfulDescription": "Hoán đổi của bạn đã được hoàn tất thành công. Bạn có thể xem chi tiết giao dịch dưới đây."
+},
+"TokenSelector": {
+    "selectToken": "Chọn token",
+    "searchByToken": "Tìm kiếm theo token hoặc dán địa chỉ",
+    "popularTokens": "Token phổ biến",
+    "token": "Token",
+    "balance": "Số dư",
+    "loadingTokens": "Đang tải token...",
+    "noTokensFound": "Không tìm thấy token. Thử một từ khóa tìm kiếm khác.",
+    "settings": "Cài đặt",
+    "slippageTolerance": "Dung sai trượt giá"
+}
+
+    }

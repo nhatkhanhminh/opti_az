@@ -1,0 +1,1675 @@
+{
+    "CTASection": {
+        "title": "Ready to Start Earning?",
+        "description": "Join our growing community of successful stakers and start earning passive income today",
+        "button": "Start Staking"
+    },
+    "HeroSection": {
+        "badge": "Earn up to 18% Monthly",
+        "title": "Smart Staking with",
+        "titleHighlight": "AI Trading",
+        "description": "Join thousands of users earning passive income through our intelligent staking platform",
+        "startStaking": "Start Staking",
+        "stats": {
+            "TotalStaked": "Total Staked",
+            "exchanges": "Exchanges",
+            "avgReturn": "Avg Return",
+            "totalUsers": "Total Users"
+        },
+        "calculator": {
+            "title": "Earnings Calculator",
+            "description": "Calculate your potential earnings based on stake amount",
+            "stakeAmount": "Stake Amount ($)",
+            "monthly": "Monthly Earnings",
+            "daily": "Daily Earnings",
+            "max": "Max Earnings",
+            "monthlyAPY": "% Monthly",
+            "startEarning": "Start Earning Now"
+        }
+    },
+    "FeaturesSection": {
+        "title": "Why Choose Our Platform?",
+        "description": "We provide a secure, flexible, and rewarding staking experience powered by AI technology",
+        "features": {
+            "monthlyReturns": {
+                "title": "Monthly Returns",
+                "description": "Earn monthly rewards with MPY up to 18% based on your stake amount"
+            },
+            "aiPowered": {
+                "title": "AI-Powered Trading",
+                "description": "Our AI bot trades automatically across hundreds of crypto exchanges"
+            },
+            "secure": {
+                "title": "Secure Platform",
+                "description": "Multi-signature wallets and real-time monitoring ensure your assets stay safe"
+            },
+            "referral": {
+                "title": "Referral Rewards",
+                "description": "Earn additional income through our referral program"
+            }
+        }
+    },
+    "HowItWorksSection": {
+        "title": "How It Works",
+        "description": "Start earning rewards in just a few simple steps",
+        "step": "Step",
+        "steps": {
+            "connectWallet": {
+                "title": "Connect Your Wallet",
+                "description": "Link your crypto wallet to our platform securely (Trust Wallet Recommended)"
+            },
+            "chooseStake": {
+                "title": "Choose Your Stake",
+                "description": "Select your preferred token and staking amount"
+            },
+            "startEarning": {
+                "title": "Start Earning",
+                "description": "Earn monthly rewards with our competitive rates"
+            },
+            "claimRewards": {
+                "title": "Claim Rewards",
+                "description": "Withdraw your earnings daily until reaching 400% return"
+            }
+        }
+    },
+    "StakingPlanSection": {
+        "title": "Staking Plans",
+        "description": "Higher stakes earn better rewards - find the plan that suits you best",
+        "plans": {
+            "starter": {
+                "name": "Starter",
+                "min": "Min",
+                "max": "Max",
+                "apy": "APY",
+                "startStaking": "Start Staking"
+            },
+            "bronze": {
+                "name": "Bronze",
+                "min": "Min",
+                "max": "Max",
+                "apy": "APY",
+                "startStaking": "Start Staking"
+            },
+            "silver": {
+                "name": "Silver",
+                "min": "Min",
+                "max": "Max",
+                "apy": "APY",
+                "startStaking": "Start Staking"
+            },
+            "gold": {
+                "name": "Gold",
+                "min": "Min",
+                "max": "Max",
+                "apy": "APY",
+                "startStaking": "Start Staking"
+            },
+            "diamond": {
+                "name": "Diamond",
+                "min": "Min",
+                "max": "Max",
+                "apy": "APY",
+                "startStaking": "Start Staking"
+            }
+        }
+    },
+    "PartnersSection": {
+        "badge": "Trusted Partners",
+        "title": "Our Strategic Partners",
+        "description": "We collaborate with industry leaders to provide the most secure and reliable staking experience"
+    },
+    "PartnerProgramSection": {
+        "badge": "Partner Program",
+        "title": "Three-Tier Commission Structure",
+        "description": "Earn multiple streams of income through our comprehensive partnership program",
+        "directCommission": {
+            "title": "Direct Referral Commission",
+            "description": "Earn immediate commissions from your direct referrals and their network",
+            "level": "Level {level}",
+            "commission": "Direct commission from {level} referrals"
+        },
+        "profitSharing": {
+            "title": "Profit Sharing Commission",
+            "description": "Earn a share of the platform's profits through our 10-level network structure",
+            "requirement": "Whenever your downline claims rewards, you'll receive a percentage of their earnings based on your level",
+            "level": "Level"
+        },
+        "leaderBonus": {
+            "title": "Leader Performance Bonus",
+            "description": "Achieve higher ranks and earn additional bonuses based on your team's performance",
+            "ranks": {
+                "silver": "Silver Leader",
+                "gold": "Gold Leader",
+                "platinum": "Platinum Leader",
+                "diamond": "Diamond Leader",
+                "royal": "Royal Leader"
+            },
+            "f1Volume": "F1 Volume",
+            "teamVolume": "Team Volume",
+            "extraCommission": "Extra Commission"
+        },
+        "network": {
+            "title": "Build Your Network",
+            "description": "Start building your network today and earn multiple streams of income through our comprehensive partnership program",
+            "button": "Become a Partner"
+        }
+    },
+    "TradingActivitySection": {
+        "badge": "Live Trading",
+        "title": "AI Trading Bot Activity",
+        "description": "Watch our AI bot execute trades in real-time across multiple exchanges",
+        "stats": {
+            "totalTrades": {
+                "title": "Total Trades Today",
+                "description": "Across {count} exchanges"
+            },
+            "successRate": {
+                "title": "Success Rate",
+                "description": "Profitable trades ratio"
+            },
+            "avgProfit": {
+                "title": "Average Profit",
+                "description": "Per trade"
+            },
+            "realtimeProfit": {
+                "title": "Realtime Profit",
+                "description": "last 2 seconds"
+            }
+        },
+        "performance": {
+            "title": "Trading Performance",
+            "tooltip": {
+                "profit": "Profit"
+            }
+        },
+        "recentTrades": {
+            "title": "Recent Trades"
+        }
+    },
+    "FAQSection": {
+        "badge": "FAQ",
+        "title": "Frequently Asked Questions",
+        "description": "Find answers to common questions about our platform",
+        "categories": {
+            "general": {
+                "title": "General",
+                "questions": {
+                    "aiStaking": {
+                        "question": "What is AI-powered staking?",
+                        "answer": "Our AI-powered staking platform combines traditional staking with advanced artificial intelligence trading algorithms. The AI bot trades across multiple exchanges 24/7 to generate optimal returns for our stakers."
+                    },
+                    "returns": {
+                        "question": "How are the returns generated?",
+                        "answer": "Returns are generated through a combination of staking rewards and AI trading profits. Our system automatically executes trades across various cryptocurrency exchanges to maximize profits while maintaining strict risk management protocols."
+                    },
+                    "lockup": {
+                        "question": "Is there a lock-up period?",
+                        "answer": "No, there is no lock-up period. You can withdraw your earnings daily. However, each stake will automatically stop once it reaches 400% of the initial investment."
+                    }
+                }
+            },
+            "staking": {
+                "title": "Staking",
+                "questions": {
+                    "amounts": {
+                        "question": "What are the minimum and maximum stake amounts?",
+                        "answer": "The minimum stake amount is $100. Maximum amounts vary by plans: Starter ($100-$999), Bronze ($1,000-$4,999), Silver ($5,000-$9,999), Gold ($10,000-$19,999), and Diamond ($20,000+)."
+                    },
+                    "tokens": {
+                        "question": "Which tokens can I stake?",
+                        "answer": "Currently, we support staking of USDT, FIL, LINK, and BNB. We regularly evaluate and may add more tokens based on market conditions and community demand."
+                    },
+                    "rewards": {
+                        "question": "How often can I claim rewards?",
+                        "answer": "Rewards can be claimed daily. The monthly MPY ranges from 9% to 18% depending on your staking tier, and you can continue earning until reaching 400% of your initial stake."
+                    }
+                }
+            },
+            "partner": {
+                "title": "Partner Program",
+                "questions": {
+                    "referral": {
+                        "question": "How does the referral program work?",
+                        "answer": "Our partner program offers three types of commissions: Direct Referral (6% for F1, 1% for F2 and F3), Profit Sharing across 10 levels (1-10%), and Leader Performance Bonus (up to 3% extra commission)."
+                    },
+                    "requirements": {
+                        "question": "What are the requirements for each leader rank?",
+                        "answer": "Leader ranks are based on team volume: Silver ($100K), Gold ($500K), Platinum ($1M), Diamond ($5M), and Royal ($10M). Each rank comes with increased commission rates and benefits."
+                    },
+                    "commissions": {
+                        "question": "How are commissions calculated and paid?",
+                        "answer": "Commissions are calculated based on your referrals' staking amounts and profits. They are paid in the same token as the original stake and can be claimed daily."
+                    }
+                }
+            },
+            "security": {
+                "title": "Security",
+                "questions": {
+                    "platform": {
+                        "question": "How secure is the platform?",
+                        "answer": "We implement multiple security measures including multi-signature wallets, real-time monitoring systems, and regular security audits. Our AI trading system also includes risk management protocols to protect user funds."
+                    },
+                    "losses": {
+                        "question": "What happens if the AI bot makes losses?",
+                        "answer": "Our AI system is designed with strict risk management protocols. While trading involves inherent risks, we maintain reserve funds to ensure consistent staking rewards regardless of market conditions."
+                    },
+                    "audits": {
+                        "question": "Are the smart contracts audited?",
+                        "answer": "Yes, all our smart contracts are audited by leading blockchain security firms. Audit reports are publicly available, and we regularly undergo security assessments."
+                    }
+                }
+            },
+            "smartContract": {
+                "title": "Smart Contract",
+                "questions": {
+                    "blockchain": {
+                        "question": "What blockchain does the platform use?",
+                        "answer": "Our platform operates on the Binance Smart Chain (BSC), which provides fast transactions and low fees, making it ideal for staking operations."
+                    },
+                    "audit": {
+                        "question": "Is the smart contract audited?",
+                        "answer": "Yes, our smart contracts have been audited by CertiK and PeckShield, two leading blockchain security firms. The audit reports are publicly available on our website under the 'Security' section."
+                    },
+                    "rewards": {
+                        "question": "How does the smart contract handle rewards distribution?",
+                        "answer": "The smart contract automatically calculates rewards based on your staking tier and duration. Rewards are distributed daily and can be claimed at any time. The contract uses a time-weighted average to ensure fair distribution."
+                    },
+                    "congestion": {
+                        "question": "What happens if there's a network congestion?",
+                        "answer": "Our smart contract is designed to handle network congestion efficiently. In case of high network traffic, the contract will queue transactions and process them in order once the network stabilizes, ensuring no rewards are lost."
+                    },
+                    "interaction": {
+                        "question": "Can I interact directly with the smart contract?",
+                        "answer": "Yes, advanced users can interact directly with our smart contract using blockchain explorers or wallet interfaces. However, we recommend using our platform interface for the best experience and to avoid potential errors."
+                    },
+                    "address": {
+                        "question": "What's the contract address?",
+                        "answer": "Our main staking contract address is 0xc2d8434B6875394637e5a943c2103639E22D26D5. Always verify this address on our official website to avoid scams."
+                    }
+                }
+            }
+        }
+    },
+    "StakingPage": {
+        "title": "Stake Your Tokens",
+        "description": "Earn passive income with our flexible staking options",
+        "balance": {
+            "title": "Your Balance",
+            "loading": "Loading..."
+        },
+        "stake": {
+            "title": "Stake Tokens",
+            "description": "Enter amount and select staking plan",
+            "amount": {
+                "label": "Amount",
+                "min": "Min",
+                "placeholder": "0.00"
+            },
+            "plans": {
+                "title": "Staking Plans",
+                "plan": {
+                    "title": "Plan",
+                    "mpy": "MPY",
+                    "investmentRange": "Investment Range",
+                    "description": "Description",
+                    "mpyNote": "* MPY: Monthly Percentage Yield",
+                    "earn": "Earn",
+                    "mpyUntil": "MPY until reaching 400% of initial investment",
+                    "names": {
+                        "starter": "Starter",
+                        "bronze": "Bronze",
+                        "silver": "Silver",
+                        "gold": "Gold",
+                        "diamond": "Diamond"
+                    }
+                }
+            }
+        },
+        "rules": {
+            "title": "Staking Rules",
+            "terms": {
+                "title": "Staking Terms",
+                "items": {
+                    "0": "You need some BNB for transaction fees",
+                    "1": "Staking rewards are calculated and distributed daily",
+                    "2": "Staking stops at 400% of initial investment",
+                    "3": "Minimum staking amount is $100 equivalent",
+                    "4": "MPY rates are fixed during staking"
+                }
+            },
+            "howItWorks": {
+                "title": "How It Works",
+                "items": {
+                    "0": "Select your token",
+                    "1": "Enter amount (minimum $100 equivalent)",
+                    "2": "Plan and MPY rate auto-selected",
+                    "3": "Confirm transaction",
+                    "4": "Earn rewards immediately",
+                    "5": "Claim rewards every 24 hours(70% Token Staked + 30% AZC)",
+                    "6": "Staking stops at 400% return"
+                }
+            }
+        },
+        "summary": {
+            "title": "Staking Summary",
+            "token": "Token",
+            "amount": "Amount",
+            "plan": "Plan",
+            "mpy": "MPY",
+            "returnCap": "Return Cap",
+            "sponsor": "Sponsor by",
+            "upline": "Upline",
+            "estimatedReturns": {
+                "title": "Estimated Returns",
+                "daily": "Daily",
+                "monthly": "Monthly",
+                "yearly": "Yearly",
+                "total": "Total (400% cap)"
+            }
+        },
+        "buttons": {
+            "max": "MAX",
+            "start": "Start",
+            "approve": "Approve",
+            "stakeNow": "Stake Now",
+            "staking": "Staking...",
+            "addingUpline": "Adding Upline...",
+            "preparing": "Preparing to stake...",
+            "approving": "Approving...",
+            "staked": "Stake Success",
+            "stakeFailed": "Stake Failed, Try Again"
+        },
+        "errors": {
+            "connectWallet": "Please connect your wallet",
+            "insufficientBalance": "Insufficient {token} balance",
+            "maxAmount": "Maximum amount is ${amount}",
+            "fillAllFields": "Please connect wallet and fill all fields"
+        }
+    },
+    "DashboardPage": {
+        "title": "Dashboard",
+        "description": "Quick overview of your staking portfolio and earnings",
+        "stats": {
+            "totalValueStaked": "Total Value Staked",
+            "totalEarnings": "Total Earnings",
+            "earnedFromStaking": "Earned from staking",
+            "maxOut": "Max Out",
+            "f1Volume": "F1 Volume"
+        },
+        "quickActions": {
+            "title": "Quick Actions",
+            "description": "Manage your staking and referrals",
+            "stake": "Stake",
+            "referralLink": "Referral Link",
+            "copied": "Copied",
+            "referralAlert": "Earn up to 12% commission from your referrals' staking rewards"
+        },
+        "latestUpdates": {
+            "title": "Latest Updates",
+            "description": "Stay informed about platform news and updates",
+            "news": {
+                "swapFeature": {
+                    "title": "Swap Feature Now in Beta",
+                    "description": "We're excited to announce that our Swap feature is now available in beta! Users can now exchange tokens directly on the OptiFund platform with competitive rates and low transaction fees. The feature integrates with KyberSwap's aggregator to ensure the best possible rates across multiple DEXs. Try it out and share your feedback as we continue to optimize the experience.",
+                    "date": "03-05-2025"
+                },
+                "stakingPlans": {
+                    "title": "New Staking Plans Released",
+                    "description": "We're excited to announce our new staking tier system with enhanced MPY rates ranging from 9% to 18%. Long-term stakers will benefit from additional rewards including reduced fees, priority support, and exclusive access to new features. The new system is designed to reward commitment and encourage sustainable growth in our ecosystem.",
+                    "date": "12-02-2025"
+                },
+                "securityUpdate": {
+                    "title": "Platform Security Update",
+                    "description": "Our latest security update implements industry-leading protection measures including multi-signature wallets, enhanced encryption protocols, and real-time monitoring systems. We've also partnered with leading blockchain security firms to conduct regular audits and penetration testing, ensuring your assets remain protected.",
+                    "date": "11-02-2025"
+                }
+            }
+        }
+    },
+    "MyStakePage": {
+        "title": "My Staking",
+        "description": "Track and manage your active stakes",
+        "summary": {
+            "totalStakedValue": "Total Staked Value",
+            "totalClaimedValue": "Total Claimed Value",
+            "maxOutRemaining": "Max Out Remaining",
+            "leaderBadge": "Leader"
+        },
+        "plans": {
+            "0": "Starter",
+            "1": "Bronze",
+            "2": "Silver",
+            "3": "Gold",
+            "4": "Diamond"
+        },
+        "filters": {
+            "all": "All",
+            "claimable": "Claimable",
+            "notClaimable": "Not Claimable"
+        },
+        "stakingCard": {
+            "title": "Staking",
+            "monthly": "month",
+            "days": "days",
+            "hours": "hours",
+            "minutes": "minutes",
+            "rewardDistribution": "Reward Distribution",
+            "nextReward": "Next Reward (24h)",
+            "expectedRewards": "Expected Rewards",
+            "stakedAmount": "Staked Amount",
+            "claimedAmount": "Claimed Amount",
+            "progressTo400": "Progress to 400%",
+            "remaining": "Remaining",
+            "remainingMaxout": "Remaining Maxout",
+            "reservedTime": "Reserved time",
+            "nextClaim": "This time will be saved for the next claim",
+            "rewardsNote": "Rewards are calculated based on your initial USD investment value ({apy}% Monthly). This ensures your returns remain stable regardless of token price fluctuations."
+        },
+        "errors": {
+            "loading": "Error loading your stakes",
+            "connectWallet": "Please connect your wallet to view your stakes",
+            "loadingError": "Error loading staking data. Please try again later.",
+            "noStakes": "You don't have any active stakes yet.",
+            "noMatchingStakes": "No stakes found matching the selected filter."
+        },
+        "buttons": {
+            "claimRewards": "Claim Rewards",
+            "claiming": "Claiming...",
+            "claimSuccess": "Claim Success"
+        }
+    },
+    "PartnerPage": {
+        "title": "Partner",
+        "description": "Track your partnership performance and downline network",
+        "referralLink": {
+            "title": "Your Referral Link",
+            "description": "Share this link to earn commissions from referrals",
+            "connectWallet": "Connect wallet to create referral link",
+            "copy": "Copy link",
+            "copied": "Copied!"
+        },
+        "upline": {
+            "title": "My Upline",
+            "description": "Your direct referrer information",
+            "noUpline": "No upline",
+            "viewOnBscScan": "View on BSCScan",
+            "addUpline": "Add Upline",
+            "confirming": "Confirming...",
+            "addedSuccess": "Added Successfully",
+            "failedToAdd": "Failed to Add",
+            "cantSetYourself": "Can't set yourself as upline",
+            "insufficientBNB": "Insufficient BNB balance",
+            "needBNB": "You need some BNB to add upline"
+        },
+        "maxoutCommission": {
+            "title": "Maxout Commission",
+            "description": "Your Limit Earning Commission",
+            "unlimited": "Unlimited",
+            "leader": "Leader"
+        },
+        "stats": {
+            "totalCommission": {
+                "title": "Total Commission",
+                "trend": "up"
+            },
+            "f1Commission": {
+                "title": "F1 Commission",
+                "description": "F1 Count: {count}"
+            },
+            "systemVolume": {
+                "title": "System Volume",
+                "trend": "up"
+            },
+            "f1Volume": {
+                "title": "F1 Volume",
+                "trend": "up"
+            }
+        },
+        "leaderPerformance": {
+            "title": "Leader Performance",
+            "description": "Your current achievement level and progress",
+            "level": "Level",
+            "bonus": "Bonus",
+            "nextLevel": "Next Level: {level}",
+            "f1VolumeProgress": "F1 Volume Progress",
+            "networkVolumeProgress": "Network Volume Progress",
+            "reachSilver": "Reach $3,000 F1 volume and $30,000 System volume to achieve Silver Leader"
+        },
+        "levelDistribution": {
+            "title": "Level Distribution",
+            "description": "Distribution of partners by level",
+            "f1Partners": "F1 Partners",
+            "totalNetwork": "Total Network",
+            "averageLevel": "Average Level"
+        },
+        "downlineNetwork": {
+            "title": "Downline Network",
+            "description": "List of downlines and their investment information",
+            "searchPlaceholder": "Search by wallet address...",
+            "filters": {
+                "level": {
+                    "title": "Filter by level",
+                    "all": "All Levels",
+                    "direct": "Direct (F1)",
+                    "f2": "F2",
+                    "f3": "F3"
+                },
+                "staked": {
+                    "title": "Filter by staked",
+                    "all": "All",
+                    "staked": "Staked",
+                    "notStaked": "Not Staked"
+                }
+            },
+            "table": {
+                "walletAddress": "Wallet address",
+                "level": "Level",
+                "staked": "Staked",
+                "status": "Status",
+                "joinedAt": "Joined at",
+                "actions": "Action",
+                "viewNetwork": "View Network",
+                "viewTreeNetwork": "View Tree Network",
+                "loading": "Loading data...",
+                "noData": "No matching data found",
+                "pagination": {
+                    "previous": "Previous",
+                    "next": "Next",
+                    "page": "page {current} / {total}",
+                    "displaying": "Displaying {displayed} out of {total} total downlines"
+                }
+            }
+        }
+    },
+    "ReferralTreePage": {
+        "title": "Referral Tree",
+        "description": "Visualize your complete referral network structure",
+        "searchPlaceholder": "Search by wallet address...",
+        "filters": {
+            "level": {
+                "title": "Filter by level",
+                "all": "All Levels",
+                "direct": "Direct (F1)",
+                "f2": "F2",
+                "f3": "F3"
+            }
+        },
+        "nodeInfo": {
+            "title": "Node Information",
+            "walletAddress": "Wallet Address",
+            "level": "Level",
+            "totalInvestment": "Total Investment",
+            "copy": "Copy",
+            "copied": "Copied!",
+            "viewOnBscScan": "View on BSCScan",
+            "close": "Close"
+        },
+        "loading": "Loading tree visualization...",
+        "noData": "No data available",
+        "tip": "Tip: Click on nodes to expand or collapse branches. Use zoom controls to adjust the view."
+    },
+    "FAQPage": {
+        "title": "Frequently Asked Questions",
+        "description": "Find answers to common questions about our platform",
+        "search": {
+            "placeholder": "Search for questions or keywords..."
+        },
+        "categories": {
+            "all": "All FAQs",
+            "general": "General",
+            "smartContract": "Smart Contract",
+            "staking": "Staking",
+            "security": "Security",
+            "partnerProgram": "Partner Program"
+        },
+        "noResults": {
+            "title": "No questions found",
+            "description": "Try adjusting your search query or browse through our categories."
+        },
+        "stillNeedHelp": {
+            "title": "Still have questions?",
+            "description": "If you couldn't find the answer to your question, please contact our support team. We're here to help 24/7.",
+            "contactSupport": "Contact Support",
+            "joinTelegram": "Join Telegram Channel"
+        },
+        "questions": {
+            "general": {
+                "aiStaking": {
+                    "question": "What is AI-powered staking?",
+                    "answer": "Our AI-powered staking platform combines traditional staking with advanced artificial intelligence trading algorithms. The AI bot trades across multiple exchanges 24/7 to generate optimal returns for our stakers."
+                },
+                "whatIsAzcoin": {
+                    "question": "What is Azcoin?",
+                    "answer": "Azcoin is a blockchain-based staking platform that allows users to earn stable profits by staking tokens like FIL, BNB, and others, with a multi-level commission system and daily profit opportunities"
+                },
+                "maxOutLimit": {
+                    "question": "What is the Max out limit?",
+                    "answer": "The Max out limit caps total commission earnings at 4 times the investment amount. For example, if you stake $100, total commission (from referrals and profit sharing) is capped at $400."
+                },
+                "returns": {
+                    "question": "How are returns generated?",
+                    "answer": "Returns are generated through a combination of staking rewards and AI trading profits. Our system automatically executes trades across various cryptocurrency exchanges to maximize profits while maintaining strict risk management protocols."
+                },
+                "lockup": {
+                    "question": "Is there a lock-up period?",
+                    "answer": "No, there is no lock-up period. You can withdraw your earnings daily. However, each stake will automatically stop once it reaches 400% of the initial investment."
+                },
+                "tokens": {
+                    "question": "Which tokens can I stake?",
+                    "answer": "Currently, we support staking of USDT, FIL, LINK, and BNB. We regularly evaluate and may add more tokens based on market conditions and community demand."
+                }
+            },
+            "smartContract": {
+                "blockchain": {
+                    "question": "What blockchain does the platform use?",
+                    "answer": "Our platform operates on the Binance Smart Chain (BSC), which provides fast transactions and low fees, making it ideal for staking operations."
+                },
+                "audit": {
+                    "question": "Is the smart contract audited?",
+                    "answer": "Yes, our smart contracts have been audited by CertiK and PeckShield, two leading blockchain security firms. The audit reports are publicly available on our website under the 'Security' section."
+                },
+                "rewards": {
+                    "question": "How does the smart contract handle rewards distribution?",
+                    "answer": "The smart contract automatically calculates rewards based on your staking tier and duration. Rewards are distributed daily and can be claimed at any time. The contract uses a time-weighted average to ensure fair distribution."
+                },
+                "congestion": {
+                    "question": "What happens if there's a network congestion?",
+                    "answer": "Our smart contract is designed to handle network congestion efficiently. In case of high network traffic, the contract will queue transactions and process them in order once the network stabilizes, ensuring no rewards are lost."
+                },
+                "interaction": {
+                    "question": "Can I interact directly with the smart contract?",
+                    "answer": "Yes, advanced users can interact directly with our smart contract using blockchain explorers or wallet interfaces. However, we recommend using our platform interface for the best experience and to avoid potential errors."
+                },
+                "address": {
+                    "question": "What's the contract address?",
+                    "answer": "Our main staking contract address is 0xc2d8434B6875394637e5a943c2103639E22D26D5. Always verify this address on our official website to avoid scams."
+                }
+            },
+            "staking": {
+                "profitDistribution": {
+                    "question": "How is profit distributed when I claim?",
+                    "answer": "Profits are paid in 70% original staked token and 30% in AZC token (1 AZC = 1 USDT, will add liquidity later). Additionally, referrers receive profit sharing commission across 10 levels: 20-10-5-5-5-1-1-1-1-1%."
+                },
+                "amounts": {
+                    "question": "What are the minimum and maximum stake amounts?",
+                    "answer": "The minimum stake amount is $100. Maximum amounts vary by tier: Starter ($100-$999), Bronze ($1,000-$4,999), Silver ($5,000-$9,999), Gold ($10,000-$19,999), and Diamond ($20,000+)."
+                },
+                "rewards": {
+                    "question": "How often can I claim rewards?",
+                    "answer": "Rewards can be claimed daily. Monthly MPY ranges from 9% to 18% depending on your staking tier, and you can continue earning until reaching 400% of your initial stake."
+                },
+                "maxReturn": {
+                    "question": "What happens when I reach 400% return?",
+                    "answer": "When your stake reaches 400% return (including initial stake amount), the staking process automatically stops."
+                },
+                "addFunds": {
+                    "question": "Can I add funds to an existing stake?",
+                    "answer": "No, each stake is treated as a separate position with its own MPY rate and 400% cap. If you want to stake more, you need to create a new staking position."
+                },
+                "mpyRates": {
+                    "question": "How are MPY rates determined?",
+                    "answer": "MPY rates are determined by your staking tier, based on the amount you stake. Higher tiers receive higher MPY rates: Starter (9%), Bronze (11%), Silver (13%), Gold (15%), and Diamond (18%)."
+                },
+                "missClaim": {
+                    "question": "What happens if I miss claiming daily profits?",
+                    "answer": "You can claim profits at any time after 24 hours, but only once per cycle. Extra time will be carried over to the next claim (e.g., claiming after 30 hours will count 6 hours towards the next cycle)."
+                }
+            },
+            "security": {
+                "platform": {
+                    "question": "How secure is the platform?",
+                    "answer": "We implement multiple security measures including multi-signature wallets, real-time monitoring systems, and regular security audits. Our AI trading system also includes risk management protocols to protect user funds."
+                },
+                "losses": {
+                    "question": "What happens if the AI bot makes losses?",
+                    "answer": "Our AI system is designed with strict risk management protocols. While trading involves inherent risks, we maintain reserve funds to ensure consistent staking rewards regardless of market conditions."
+                },
+                "userData": {
+                    "question": "How do you protect user data?",
+                    "answer": "We use industry-standard encryption for all user data and communications. We also adhere to strict data protection policies and never share your information with third parties without your consent."
+                },
+                "twoFactor": {
+                    "question": "Is there two-factor authentication (2FA)?",
+                    "answer": "No, users connect to the platform using their wallet address."
+                }
+            },
+            "partnerProgram": {
+                "referral": {
+                    "question": "How does the referral program work?",
+                    "answer": "Our partner program offers three types of commissions: Direct Referral (6% for F1, 1% for F2 and F3), Profit Sharing across 10 levels (1-10%), and Leader Performance Bonus (up to 11% extra commission)."
+                },
+                "requirements": {
+                    "question": "What are the requirements for each leader rank?",
+                    "answer": "Leader ranks are based on team volume: Silver +3% ($30k Team - $3k F1), Gold +5% ($100k Team - $5k F1), Platinum +7% ($200k Team - $10k F1), Diamond +9% ($350k Team - $15k F1), and Royal +11% ($500k Team - $20k F1). Each rank comes with increased commission rates and benefits."
+                },
+                "commissions": {
+                    "question": "How are commissions calculated and paid?",
+                    "answer": "Commissions are calculated based on your referrals' staking amounts and profits. They are paid in the same token as the original stake and can be claimed daily."
+                },
+                "referralLimit": {
+                    "question": "Is there a limit to how many people I can refer?",
+                    "answer": "No, there is no limit to how many people you can refer directly. The more people you refer, the higher your potential earnings from the partner program."
+                }
+            }
+        }
+    },
+    "TokenPage": {
+        "title": "AZ Coin (AZC)",
+        "description": "Powering the future of decentralized staking and AI-driven trading",
+        "metrics": {
+            "totalSupply": {
+                "title": "Total Supply",
+                "value": "21,000,000",
+                "unit": "AZC Tokens"
+            },
+            "targetPrice": {
+                "title": "Target Price",
+                "value": "$10 - $15",
+                "unit": "per AZC"
+            },
+            "tokenType": {
+                "title": "Token Type",
+                "value": "BEP-20",
+                "unit": "Binance Smart Chain"
+            }
+        },
+        "allocation": {
+            "title": "Token Allocation",
+            "description": "AZC tokens are strategically allocated to ensure sustainable growth and ecosystem development",
+            "totalSupply": "Total supply: 21,000,000 AZC",
+            "distribution": "Distribution",
+            "breakdown": "Allocation Breakdown",
+            "breakdownDescription": "Detailed token distribution by category",
+            "chart": {
+                "pie": "Pie",
+                "bar": "Bar"
+            }
+        },
+        "releaseSchedule": {
+            "title": "Token Release Schedule",
+            "description": "Strategic token release to ensure sustainable growth and market stability",
+            "timeline": "Release Timeline",
+            "timelineDescription": "Quarterly token distribution plan",
+            "breakdown": "Release Breakdown",
+            "breakdownDescription": "Cumulative token release",
+            "released": "Released"
+        },
+        "utility": {
+            "title": "Token Utility",
+            "description": "AZC token powers our ecosystem with multiple use cases and benefits",
+            "features": {
+                "stakingrewards": {
+                    "title": "Staking Rewards",
+                    "description": "Earn passive income by staking AZC tokens with competitive MPY rates"
+                },
+                "platformgovernance": {
+                    "title": "Platform Governance",
+                    "description": "Vote on key platform decisions and shape the future of the ecosystem"
+                },
+                "transactionfeediscounts": {
+                    "title": "Transaction Fee Discounts",
+                    "description": "Enjoy reduced fees when using AZC for platform transactions"
+                },
+                "gamingrewards": {
+                    "title": "Gaming Rewards",
+                    "description": "Earn and spend AZC tokens in our integrated gaming ecosystem"
+                },
+                "exclusiveaccess": {
+                    "title": "Exclusive Access",
+                    "description": "Unlock premium features and early access to new platform capabilities"
+                },
+                "globalpayments": {
+                    "title": "Global Payments",
+                    "description": "Use AZC for fast, secure transactions across our partner network"
+                }
+            }
+        },
+        "details": {
+            "title": "Token Details",
+            "description": "Technical specifications and contract information",
+            "name": "Token Name",
+            "symbol": "Symbol",
+            "totalSupply": "Total Supply",
+            "targetPrice": "Target Price",
+            "blockchain": "Blockchain",
+            "tokenType": "Token Type",
+            "contractAddress": "Contract Address",
+            "copySuccess": "Contract address copied"
+        },
+        "burn": {
+            "title": "AZC Burn Schedule",
+            "desc": "Every Sunday, starting from {date}, {amount} AZC will be burned weekly for 2 years. This schedule aims to support a healthy and sustainable token economy.",
+            "card": {
+                "totalWeeks": "Total weeks",
+                "totalToBurn": "Total to burn",
+                "startDate": "Start date",
+                "weeklyAmount": "Weekly burn amount",
+                "alreadyBurned": "Already burned"
+            },
+            "purpose": "The purpose of burning AZC tokens is to reduce the circulating supply, increase value for investors, and ensure the sustainable development of the ecosystem."
+        },
+        "getToken": {
+            "title": "How to Get AZC",
+            "description": "Multiple ways to acquire AZ Coin and join our ecosystem",
+            "exchanges": {
+                "title": "Buy on Exchanges",
+                "description": "Purchase AZC tokens on our partner exchanges with competitive rates",
+                "button": "Coming Soon"
+            },
+            "staking": {
+                "title": "Staking Rewards",
+                "description": "Earn AZC tokens as rewards when you stake other supported cryptocurrencies",
+                "button": "Start Staking"
+            },
+            "referral": {
+                "title": "Referral Program",
+                "description": "Earn AZC tokens commission by referring new users to our platform",
+                "button": "Join Partner Program"
+            }
+        },
+        "cta": {
+            "title": "Ready to Join the AZC Ecosystem?",
+            "description": "Start your journey with AZ Coin and unlock the future of decentralized finance",
+            "staking": "Start Staking",
+            "roadmap": "Our Roadmap"
+        }
+    },
+    "AboutPage": {
+        "hero": {
+            "badge": "About Us",
+            "title": "Revolutionizing Finance with AI",
+            "description": "Building the future of decentralized finance through artificial intelligence and blockchain technology",
+            "content": {
+                "paragraph1": "AZ Coin (AZC) is at the forefront of the convergence between artificial intelligence and blockchain technology. Our mission is to democratize access to sophisticated trading strategies and financial tools that were previously available only to institutional investors.",
+                "paragraph2": "Through our innovative ecosystem of multi-chain staking, AI-powered trading, and interactive gaming, we're creating new opportunities for users to grow their digital assets while contributing to a vibrant community.",
+                "buttons": {
+                    "explore": "Explore AZC",
+                    "roadmap": "View Roadmap"
+                }
+            }
+        },
+        "mission": {
+            "title": "Mission & Vision",
+            "description": "Guided by clear principles and ambitious goals",
+            "mission": {
+                "title": "Our Mission",
+                "content": "To democratize access to sophisticated financial tools by combining the power of artificial intelligence with blockchain technology, creating opportunities for everyone to participate in the future of finance.",
+                "points": {
+                    "1": "Make AI-powered trading accessible to everyone",
+                    "2": "Create sustainable yield opportunities across multiple blockchains",
+                    "3": "Build an engaged community through innovative gaming and social features"
+                }
+            },
+            "vision": {
+                "title": "Our Vision",
+                "content": "To become the leading platform where artificial intelligence and blockchain converge, creating a new paradigm for financial inclusion, wealth creation, and technological innovation.",
+                "points": {
+                    "1": "Pioneer the integration of advanced AI models in decentralized finance",
+                    "2": "Reach 1 million active users across our ecosystem by 2026",
+                    "3": "Establish AZC as a leading utility token in the AI-blockchain space"
+                }
+            }
+        },
+        "ecosystem": {
+            "badge": "Ecosystem",
+            "title": "The AZC Ecosystem",
+            "description": "A comprehensive suite of interconnected products and services powered by AZC token",
+            "components": {
+                "multichainStaking": {
+                    "title": "Multi-Chain Staking",
+                    "description": "Stake across multiple blockchains including Ethereum, BSC, Solana, and more with unified rewards in AZC tokens."
+                },
+                "aiTrading": {
+                    "title": "AI-Powered Trading",
+                    "description": "Advanced AI models that analyze market patterns across major exchanges to execute profitable trades automatically."
+                },
+                "telegramGaming": {
+                    "title": "Telegram Gaming",
+                    "description": "Engaging play-to-earn games accessible directly through Telegram, with AZC token rewards and social features."
+                },
+                "crossExchange": {
+                    "title": "Cross-Exchange Arbitrage",
+                    "description": "Automated systems that identify and capitalize on price differences across Hyperliquid, Binance, Bybit, and other exchanges."
+                },
+                "aiBots": {
+                    "title": "AI Trading Bots",
+                    "description": "Customizable trading bots powered by our proprietary AI models, available to AZC token holders."
+                },
+                "wallet": {
+                    "title": "Decentralized Wallet",
+                    "description": "Secure multi-chain wallet with integrated staking, trading, and gaming features for a seamless experience."
+                }
+            },
+            "growth": {
+                "title": "Ecosystem Growth",
+                "description": "User adoption over time",
+                "activeUsers": "Active Users"
+            },
+            "distribution": {
+                "title": "Ecosystem Distribution",
+                "description": "Platform activity breakdown",
+                "activity": "Activity"
+            }
+        },
+        "aiTechnology": {
+            "badge": "Technology",
+            "title": "Our AI Technology",
+            "description": "Cutting-edge artificial intelligence powering our trading systems",
+            "features": {
+                "multiModel": {
+                    "title": "Multi-Model Integration",
+                    "description": "Our system combines multiple specialized AI models, each optimized for different market conditions and trading strategies."
+                },
+                "patternRecognition": {
+                    "title": "Real-Time Pattern Recognition",
+                    "description": "Advanced neural networks identify complex patterns across multiple timeframes that human traders might miss."
+                },
+                "sentimentAnalysis": {
+                    "title": "Sentiment Analysis",
+                    "description": "Natural language processing models analyze news, social media, and market sentiment to predict price movements."
+                },
+                "riskManagement": {
+                    "title": "Risk Management Algorithms",
+                    "description": "Sophisticated algorithms dynamically adjust position sizes and leverage based on market volatility and risk assessment."
+                },
+                "crossExchange": {
+                    "title": "Cross-Exchange Optimization",
+                    "description": "AI systems monitor liquidity and order books across exchanges to execute trades at optimal prices and minimal slippage."
+                },
+                "continuousLearning": {
+                    "title": "Continuous Learning",
+                    "description": "Our models continuously improve through reinforcement learning, adapting to changing market conditions."
+                }
+            },
+            "power": {
+                "title": "The Power of AI Integration",
+                "description": "Our proprietary system combines multiple specialized AI models, each trained on specific market conditions and trading strategies. By integrating these models and continuously optimizing their performance, we can identify profitable trading opportunities across major exchanges like Hyperliquid, Binance, and Bybit with unprecedented accuracy."
+            }
+        },
+        "team": {
+            "badge": "Our Team",
+            "title": "Meet the Team",
+            "description": "Experts in AI, blockchain, and financial markets working together to build the future",
+            "testimonials": {
+                "passa": {
+                    "quote": "MIT Finance graduate. 12 years in finance, 6 in blockchain. Former Goldman Sachs and Coinbase senior manager. DeFi pioneer",
+                    "name": "Passa Rodriguez",
+                    "designation": "CEO"
+                },
+                "dmitri": {
+                    "quote": "PhD in Computer Science. Ethereum Foundation contributor. Built DeFi projects with $3B+ TVL. Smart contract expert.",
+                    "name": "Dmitri Volkov",
+                    "designation": "CTO at InnovateSphere"
+                },
+                "jessica": {
+                    "quote": "Marketing strategist with experience at Binance. Led campaigns reaching 10M+ users. Blockchain advocacy since 2017.",
+                    "name": "Jessica Wang",
+                    "designation": "CMO"
+                },
+                "james": {
+                    "quote": "Cybersecurity expert with Google background. Ethical hacker. Secured multiple DeFi protocols worth $500M+.",
+                    "name": "James Kim",
+                    "designation": "Chief Security Officer"
+                },
+                "michael": {
+                    "quote": "Former operations head at Aave. Launched in 20+ markets. MBA from Wharton. Optimizes platform efficiency.",
+                    "name": "Michael Rodriguez",
+                    "designation": "COO"
+                }
+            }
+        },
+        "cta": {
+            "title": "Join the AZC Revolution",
+            "description": "Be part of the future where AI and blockchain converge to create unprecedented opportunities",
+            "buttons": {
+                "staking": "Start Staking",
+                "token": "Learn About AZC Token"
+            }
+        }
+    },
+    "RoadmapPage": {
+        "hero": {
+            "badge": "Our Journey",
+            "title": "Project Roadmap",
+            "description": "Explore our ambitious journey from concept to global adoption, with key milestones and achievements along the way."
+        },
+        "filters": {
+            "all": "All Phases",
+            "completed": "Completed",
+            "inProgress": "In Progress",
+            "upcoming": "Upcoming"
+        },
+        "emptyState": {
+            "title": "No phases found",
+            "description": "There are no roadmap phases matching your current filter. Try selecting a different filter option.",
+            "viewAll": "View All Phases"
+        },
+        "phases": {
+            "phase1": {
+                "phase": "Phase 1",
+                "title": "Project Launch",
+                "date": "Q1 - 2025",
+                "status": "completed",
+                "description": "Foundation building and initial market presence",
+                "details": "Official Launch of OptiFund Staking Platform, expand referral system, marketing & community growth, develop GameFi, and initial staking program.",
+                "achievements": {
+                    "staking": "Staking release",
+                    "team": "Core team assembly",
+                    "funding": "Initial funding secured",
+                    "community": "Community channels established"
+                }
+            },
+            "phase2": {
+                "phase": "Phase 2",
+                "title": "Platform Development",
+                "date": "Q2 - 2025",
+                "status": "in-progress",
+                "description": "We focused on building a secure foundation with rigorous smart contract development and multiple security audits, while designing an intuitive user experience.",
+                "details": "Security audit completion, UI/UX design finalization, Alpha testing with core users",
+                "achievements": {
+                    "swap": "Swap token",
+                    "security": "Security audit completion",
+                    "design": "UI/UX design finalization",
+                    "testing": "Alpha testing with core users"
+                }
+            },
+            "phase3": {
+                "phase": "Phase 3",
+                "title": "Promote the project",
+                "date": "Q3-Q4 2025",
+                "status": "in-progress",
+                "description": "Our current focus is bringing our platform to market with our token launch, strategic exchange listings, and expanding our user base through targeted marketing.",
+                "details": "Target price will be 10-15$",
+                "achievements": {
+                    "listings": "Listings (DEX, CEX)",
+                    "audit": "Smart contract audit",
+                    "generation": "OptiFund generation event",
+                    "marketing": "Marketing campaign kickoff"
+                }
+            },
+            "phase4": {
+                "phase": "Phase 4",
+                "title": "Ecosystem Expansion",
+                "date": "Q1-Q2 2026",
+                "status": "in-progress",
+                "description": "We're expanding our ecosystem with mobile applications, strategic partnerships, and introducing our staking program to reward our community members.",
+                "achievements": {
+                    "mobile": "Mobile app development",
+                    "gamefi": "Telegram GameFi",
+                    "partnerships": "Partnership announcements",
+                    "governance": "Community governance implementation"
+                }
+            },
+            "phase5": {
+                "phase": "Phase 5",
+                "title": "Advanced Features",
+                "date": "Q3 - Q4 2026",
+                "status": "upcoming",
+                "description": "Our roadmap includes cutting-edge features like cross-chain capabilities, AI-powered analytics, and specialized tools for institutional users.",
+                "achievements": {
+                    "crossChain": "Cross-chain integration",
+                    "trading": "Advanced trading features",
+                    "analytics": "AI-powered analytics",
+                    "institutional": "Institutional partnerships"
+                }
+            },
+            "phase6": {
+                "phase": "Phase 6",
+                "title": "Global Expansion",
+                "date": "2027",
+                "status": "upcoming",
+                "description": "The final phase of our current roadmap focuses on global expansion, regulatory compliance across jurisdictions, and building a sustainable ecosystem through our grants program.",
+                "achievements": {
+                    "marketing": "International marketing campaign",
+                    "compliance": "Regulatory compliance expansion",
+                    "enterprise": "Enterprise solutions launch",
+                    "grants": "Ecosystem grants program"
+                }
+            },
+            "phase7": {
+                "phase": "Phase 7",
+                "title": "Future",
+                "date": "2028+",
+                "status": "upcoming",
+                "description": "On-chain lending & borrowing platform, Web3 debit cards and merchant integration",
+                "achievements": {
+                    "defi": "OptiFund DeFi Bank",
+                    "cards": "Web3 debit cards"
+                }
+            }
+        },
+        "status": {
+            "completed": "Completed",
+            "inProgress": "In Progress",
+            "upcoming": "Upcoming",
+            "currentlyInDevelopment": "Currently in Development",
+            "comingSoon": "Coming Soon"
+        },
+        "cta": {
+            "title": "Join Our Journey",
+            "description": "Be part of our exciting roadmap as we revolutionize the industry. Stay updated with our latest developments and announcements.",
+            "button": "Join Community"
+        }
+    },
+    "MediaResourcePage": {
+        "title": "Media Resources",
+        "description": "Download logos, banners, presentations, and more",
+        "intro": {
+            "title": "Welcome to the Azcoin Media Center",
+            "description": "Access and download official Azcoin branding materials, marketing assets, and presentations in multiple languages. Use these resources to promote Azcoin and ensure consistent branding across all your marketing efforts.",
+            "downloadAll": "Download All Assets",
+            "categories": {
+                "brandAssets": "Brand Assets",
+                "presentations": "Presentations",
+                "marketing": "Marketing",
+                "multiLanguage": "Multi-language"
+            }
+        },
+        "collections": {
+            "title": "Popular Collections",
+            "brandKit": {
+                "title": "Brand Kit",
+                "subtitle": "Complete branding package",
+                "description": "Download our complete brand kit including logos, color palettes, typography guidelines, and more.",
+                "download": "Download Brand Kit"
+            },
+            "multiLanguage": {
+                "title": "Multi-language Pack",
+                "subtitle": "Resources in all languages",
+                "description": "Access presentations and documents in all supported languages for global marketing campaigns."
+            },
+            "presentation": {
+                "title": "Presentation Bundle",
+                "subtitle": "All presentation materials",
+                "description": "Get all presentation slides, speaker notes, and supporting materials in one convenient package.",
+                "download": "Download Presentations"
+            }
+        },
+        "customMaterials": {
+            "title": "Need Custom Materials?",
+            "description": "If you need custom marketing materials or have specific requirements, our design team is here to help. Contact us with your needs and we'll create tailored resources for your marketing campaigns.",
+            "contactSupport": "Contact Support"
+        }
+    },
+    "Navbar": {
+        "routes": {
+            "home": "Home",
+            "dashboard": "Dashboard",
+            "staking": "Staking",
+            "swap": "Swap",
+            "mystake": "My Stake",
+            "partner": "Partner",
+            "token": "Tokenomics",
+            "about": "About",
+            "roadmap": "Roadmap",
+            "mediaResource": "Resource",
+            "faqs": "FAQs"
+        },
+        "menu": {
+            "about": "About",
+            "more": "More",
+            "manager": "Manager"
+        },
+        "descriptions": {
+            "tokenomics": "Tokenomics distribution and economics of OptiFund",
+            "about": "Learn more about OptiFund project and team",
+            "roadmap": "Development roadmap and future plans for OptiFund",
+            "swap": "Swap your tokens with OptiFund quickly and easily",
+            "resource": "Media resources and press materials",
+            "faqs": "Frequently asked questions about OptiFund",
+            "dashboard": "View your OptiFund statistics and analytics",
+            "mystake": "Manage your staked OptiFund tokens",
+            "partner": "Information about OptiFund partnerships"
+        },
+        "connect": {
+            "title": "Sign in to OptiFund",
+            "connecting": "Connecting...",
+            "connect": "Connect"
+        }
+    },
+    "SuccessModal": {
+        "title": "Staking Successful!",
+        "description": "Your tokens have been successfully staked",
+        "details": {
+            "amountStaked": "Amount Staked:",
+            "value": "Value:",
+            "estimatedMPY": "Estimated MPY:",
+            "month": "Month"
+        },
+        "buttons": {
+            "close": "Close",
+            "viewStakes": "View My Stakes"
+        }
+    },
+    "MobileBottom": {
+        "routes": {
+            "home": "Home",
+            "stake": "Stake",
+            "dashboard": "Dashboard",
+            "mystake": "My Stake",
+            "partner": "Partner",
+            "about": "About",
+            "faqs": "FAQs",
+            "more": "More",
+            "token": "Token",
+            "roadmap": "Roadmap",
+            "swap": "Swap",
+            "resource": "Resource",
+            "theme": "Theme"
+        }
+    },
+    "WalletConnect": {
+        "title": "Wallet Details",
+        "description": "View your wallet balance and manage your crypto assets.",
+        "tokenBalances": "Token Balances",
+        "showLess": "Show Less",
+        "showAll": "Show All",
+        "disconnect": "Disconnect",
+        "copy": {
+            "success": "Wallet address copied"
+        }
+    },
+    "Footer": {
+        "slogan": "Smart Staking with AI-Powered Returns",
+        "sections": {
+            "products": {
+                "title": "Products",
+                "items": {
+                    "staking": "Staking",
+                    "swap": "Swap"
+                }
+            },
+            "azcToken": {
+                "title": "AZC Token",
+                "items": {
+                    "tokenomics": "Tokenomics",
+                    "roadmap": "Roadmap",
+                    "mediaResource": "Media Resource"
+                }
+            },
+            "company": {
+                "title": "Company",
+                "items": {
+                    "about": "About Us",
+                    "faqs": "FAQs",
+                    "privacyPolicy": "Privacy Policy",
+                    "termsOfService": "Terms of Service"
+                }
+            },
+            "connect": {
+                "title": "Connect with us",
+                "items": {
+                    "email": "hello@optifund.app",
+                    "support": "Chat with support"
+                },
+                "social": {
+                    "telegram": "Telegram",
+                    "twitter": "X.com",
+                    "youtube": "Youtube"
+                }
+            }
+        },
+        "copyright": "© 2025 optifund.app | All rights reserved."
+    },
+    "TermsOfService": {
+        "backToHome": "Back to Home",
+        "legalBadge": "Legal",
+        "title": "Terms of Service",
+        "lastUpdated": "Last updated: March 9, 2024",
+        "introduction": {
+            "title": "Introduction",
+            "content": "Welcome to Azcoin! These Terms of Service ('Terms') govern your use of our staking platform and services. By accessing Azcoin, you agree to these Terms. If you disagree, please refrain from using our platform."
+        },
+        "eligibility": {
+            "title": "Eligibility",
+            "items": {
+                "age": "You must be at least 18 years old and legally able to enter contracts to use Azcoin.",
+                "laws": "You are responsible for complying with all applicable laws in your jurisdiction."
+            }
+        },
+        "account": {
+            "title": "Account Registration",
+            "items": {
+                "register": "You must register an account with accurate and complete information to use Azcoin.",
+                "responsibility": "You are responsible for keeping your account credentials confidential and for all actions under your account."
+            }
+        },
+        "staking": {
+            "title": "Staking and Profits",
+            "mechanism": {
+                "title": "Staking Mechanism",
+                "content": "By staking tokens, you agree to the automatic fund distribution outlined in our staking contract (e.g., allocations to Dev, Marketing, Leader, and Pool)."
+            },
+            "profitClaims": {
+                "title": "Profit Claims",
+                "content": "You can claim profits every 24 hours, up to a maximum of 400% of your staked amount (in USDT)."
+            },
+            "maxOutLimit": {
+                "title": "Max out Limit",
+                "content": "Total commission earnings are capped at 4x your initial investment."
+            }
+        },
+        "referral": {
+            "title": "Referral Program",
+            "content": "Azcoin offers a multi-level referral system. Commissions depend on your upline structure, as defined in the Member Contract.",
+            "details": "Referral and profit-sharing details are available in our FAQs and staking documentation.",
+            "commissionStructure": {
+                "title": "Commission Structure",
+                "f1": "Direct Referral (F1)",
+                "f2": "Level 2 (F2)",
+                "f3": "Level 3 (F3)",
+                "f1Rate": "6%",
+                "f2Rate": "1%",
+                "f3Rate": "1%"
+            }
+        },
+        "tokenUsage": {
+            "title": "Token Usage and AZC Token",
+            "swap": "Staked tokens are swapped to USDT via Uniswap for profit calculations.",
+            "distribution": "Profits are distributed as 70% in the original token and 30% in AZC tokens, with AZC valued at 1 USDT",
+            "profitDistribution": {
+                "title": "Profit Distribution",
+                "originalToken": "Original Token",
+                "azcToken": "AZC Token",
+                "originalTokenRate": "70%",
+                "azcTokenRate": "30%"
+            }
+        },
+        "responsibilities": {
+            "title": "User Responsibilities",
+            "items": {
+                "taxes": "You are liable for any taxes or legal duties tied to your staking and earnings.",
+                "fraud": "You must not engage in fraudulent acts, such as manipulating referrals or exploiting platform flaws."
+            }
+        },
+        "intellectualProperty": {
+            "title": "Intellectual Property",
+            "content": "All content, logos, and materials on Azcoin belong to Azcoin or its licensors and are protected by intellectual property laws.",
+            "permission": "You may not use or reproduce our content without written permission."
+        },
+        "liability": {
+            "title": "Limitation of Liability",
+            "warranty": "Azcoin is offered 'as is' without warranties. We do not guarantee uninterrupted access, accuracy, or full security.",
+            "damages": "We are not liable for any direct, indirect, or consequential damages from your use of the platform."
+        },
+        "termination": {
+            "title": "Termination",
+            "content": "We may suspend or terminate your account for violating these Terms or engaging in prohibited activities.",
+            "effect": "Upon termination, your access to Azcoin ends, though some provisions (e.g., dispute resolution) remain in effect.",
+            "prohibitedActivities": {
+                "title": "Prohibited Activities",
+                "items": {
+                    "multipleAccounts": "Creating multiple accounts to manipulate the referral system",
+                    "hacking": "Attempting to hack, disrupt, or damage the platform",
+                    "illegal": "Using the platform for illegal activities or money laundering",
+                    "misinformation": "Sharing false or misleading information about the platform"
+                }
+            }
+        },
+        "disputeResolution": {
+            "title": "Dispute Resolution",
+            "arbitration": "Disputes will be settled via binding arbitration in Singapore, following the Singapore International Arbitration Centre (SIAC) Rules.",
+            "classAction": "You waive rights to join class action lawsuits or class-wide arbitration.",
+            "arbitrationProcess": {
+                "title": "Arbitration Process",
+                "steps": {
+                    "notice": "Written notice of dispute must be submitted to Azcoin",
+                    "negotiation": "30-day good faith negotiation period",
+                    "language": "If unresolved, arbitration will be conducted in English",
+                    "decision": "Arbitrator's decision will be final and binding",
+                    "fees": "Each party bears its own legal fees and expenses"
+                }
+            }
+        },
+        "changes": {
+            "title": "Changes to These Terms",
+            "content": "We may revise these Terms periodically. Updates will be posted here, and continued use of Azcoin indicates your acceptance.",
+            "notificationProcess": {
+                "title": "Notification Process",
+                "description": "When we make significant changes to these Terms, we will notify you through:",
+                "methods": {
+                    "email": "Email notifications (if you've provided your email)",
+                    "website": "Notices on our website",
+                    "inApp": "In-app notifications"
+                }
+            }
+        },
+        "contact": {
+            "title": "Contact Us",
+            "response": "Response Time",
+            "content": "For questions about these Terms, please contact us at:",
+            "email": "Email: hello@azcoin.com",
+            "address": "Address: Azcoin Headquarters, 20 Prince Well Rd, North Yarmouth, Maine(ME)",
+            "responseTime": "We strive to respond to all inquiries within 48 hours and resolve any concerns within 14 days."
+        },
+        "additionalTerms": {
+            "title": "Additional Terms",
+            "forceMajeure": {
+                "title": "Force Majeure",
+                "content": "Azcoin will not be liable for any failure or delay in performance due to circumstances beyond our reasonable control, including but not limited to acts of God, natural disasters, war, terrorism, riots, embargoes, acts of civil or military authorities, fire, floods, accidents, network infrastructure failures, strikes, or shortages of transportation facilities, fuel, energy, labor, or materials."
+            },
+            "severability": {
+                "title": "Severability",
+                "content": "If any provision of these Terms is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that the Terms will otherwise remain in full force and effect and enforceable."
+            },
+            "assignment": {
+                "title": "Assignment",
+                "content": "You may not assign or transfer these Terms, by operation of law or otherwise, without Azcoin's prior written consent. Any attempt by you to assign or transfer these Terms without such consent will be null and void. Azcoin may freely assign or transfer these Terms without restriction."
+            },
+            "entireAgreement": {
+                "title": "Entire Agreement",
+                "content": "These Terms constitute the entire agreement between you and Azcoin regarding the use of the platform and supersede all prior and contemporaneous agreements, proposals, or representations, written or oral, concerning its subject matter."
+            }
+        },
+        "acceptance": "By using Azcoin's services, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.",
+        "privacyPolicy": "Privacy Policy",
+        "startStaking": "Start Staking"
+    },
+    "PrivacyPolicy": {
+        "backToHome": "Back to Home",
+        "legalBadge": "Legal",
+        "title": "Privacy Policy",
+        "lastUpdated": "Last updated: March 9, 2024",
+        "introduction": {
+            "title": "Introduction",
+            "content": "At Azcoin, we value your privacy and are dedicated to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you interact with our staking platform and services."
+        },
+        "informationCollection": {
+            "title": "Information We Collect",
+            "personalInfo": {
+                "title": "Personal Information",
+                "content": "When you sign up or use our platform, we may collect your name, email address, wallet address, and other contact details."
+            },
+            "transactionData": {
+                "title": "Transaction Data",
+                "content": "We gather details about your staking activities, such as token deposits, profit claims, and referral commissions."
+            },
+            "technicalData": {
+                "title": "Technical Data",
+                "content": "We may collect your IP address, browser type, device information, and usage data to enhance security and improve our services."
+            }
+        },
+        "informationUsage": {
+            "title": "How We Use Your Information",
+            "serviceProvision": {
+                "title": "Service Provision",
+                "content": "To manage your staking, process transactions, and offer customer support."
+            },
+            "communication": {
+                "title": "Communication",
+                "content": "To send you updates, notifications, and promotional offers about Azcoin."
+            },
+            "security": {
+                "title": "Security",
+                "content": "To detect and prevent fraud, unauthorized access, or illegal activities."
+            },
+            "analytics": {
+                "title": "Analytics",
+                "content": "To study usage trends and optimize our platform's performance and user experience."
+            }
+        },
+        "dataSharing": {
+            "title": "Data Sharing and Disclosure",
+            "thirdParty": {
+                "title": "Third-Party Partners",
+                "content": "We may share your data with trusted service providers (e.g., payment processors, analytics tools) who help us operate the platform."
+            },
+            "legalRequirements": {
+                "title": "Legal Requirements",
+                "content": "We may disclose your information if required by law or to protect our rights and users' safety."
+            },
+            "blockchainTransparency": {
+                "title": "Blockchain Transparency",
+                "content": "Note that blockchain transactions are public. Your wallet address and transaction details may be visible on the blockchain network."
+            }
+        },
+        "dataSecurity": {
+            "title": "Data Security",
+            "content": "We use industry-standard measures like encryption, secure servers, and regular audits to protect your data. However, no system is 100% secure, and we cannot guarantee absolute protection.",
+            "securityMeasures": {
+                "servers": "Secure, encrypted servers with regular security updates",
+                "encryption": "End-to-end encryption for sensitive data transmission",
+                "audits": "Regular security audits and vulnerability assessments"
+            }
+        },
+        "userRights": {
+            "title": "Your Rights",
+            "access": {
+                "title": "Access and Correction",
+                "content": "You can request access to your data or correct any inaccuracies."
+            },
+            "deletion": {
+                "title": "Deletion",
+                "content": "You may request data deletion, subject to legal or contractual obligations."
+            },
+            "optOut": {
+                "title": "Opt-Out",
+                "content": "You can unsubscribe from promotional emails at any time."
+            }
+        },
+        "cookies": {
+            "title": "Cookies and Tracking",
+            "description": "We use cookies and similar technologies to improve your experience, analyze usage, and provide tailored content. You can adjust cookie settings in your browser.",
+            "types": {
+                "essential": {
+                    "title": "Essential Cookies",
+                    "badge": "Required",
+                    "description": "Necessary for the website to function properly"
+                },
+                "functional": {
+                    "title": "Functional Cookies",
+                    "badge": "Optional",
+                    "description": "Remember your preferences and settings"
+                },
+                "analytics": {
+                    "title": "Analytics Cookies",
+                    "badge": "Optional",
+                    "description": "Help us understand how visitors interact with our website"
+                }
+            }
+        },
+        "policyChanges": {
+            "title": "Changes to This Policy",
+            "content": "We may update this Privacy Policy occasionally. Changes will be posted here, and your continued use of Azcoin signifies acceptance of the updated policy.",
+            "updateProcess": {
+                "title": "Policy Update Process",
+                "description": "When we make significant changes to this policy, we will notify you through:",
+                "methods": [
+                    "Email notifications (if you've provided your email)",
+                    "Notices on our website",
+                    "In-app notifications"
+                ]
+            },
+            "previousVersions": {
+                "title": "Previous Versions",
+                "content": "You can request access to previous versions of our privacy policy by contacting us."
+            }
+        },
+        "contact": {
+            "title": "Contact Us",
+            "description": "For questions or concerns about this Privacy Policy, please reach out to us at:",
+            "email": "Email: hello@optifund.app",
+            "address": "Address: Azcoin Headquarters,20 Prince Well Rd, North Yarmouth, Maine(ME)",
+            "dpo": "Data Protection Officer: John Smith",
+            "responseTime": {
+                "title": "Response Time",
+                "content": "We strive to respond to all privacy-related inquiries within 48 hours and resolve any concerns within 14 days."
+            }
+        },
+        "additionalInfo": {
+            "title": "Additional Information",
+            "internationalTransfers": {
+                "title": "International Data Transfers",
+                "content": "Your information may be transferred to and processed in countries other than the one in which you reside. These countries may have different data protection laws. When we transfer your data, we take appropriate safeguards to ensure its protection in accordance with this Privacy Policy."
+            },
+            "dataRetention": {
+                "title": "Data Retention",
+                "content": "We retain your personal information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law. When determining how long to keep your data, we consider the amount, nature, and sensitivity of the information, the potential risk of harm from unauthorized use or disclosure, and applicable legal requirements."
+            },
+            "childrenPrivacy": {
+                "title": "Children's Privacy",
+                "content": "Our services are not intended for individuals under the age of 18. We do not knowingly collect personal information from children. If you believe we have inadvertently collected information from a child, please contact us immediately, and we will take steps to delete such information."
+            },
+            "thirdPartyLinks": {
+                "title": "Third-Party Links",
+                "content": "Our platform may contain links to third-party websites or services. We are not responsible for the privacy practices or content of these third parties. We encourage you to read the privacy policies of any third-party websites you visit."
+            }
+        },
+        "acknowledgment": "By using Azcoin's services, you acknowledge that you have read and understood this Privacy Policy.",
+        "termsOfService": "Terms of Service",
+        "startStaking": "Start Staking"
+    },
+    "SwapPage": {
+        "title": "Swap Tokens",
+        "description": "Instantly buy or sell tokens at superior prices",
+        "from": "From",
+        "to": "To",
+        "max": "Max",
+        "balance": "Balance",
+        "minimumReceived": "Minimum Received",
+        "router": "Router",
+        "estimatedFees": "Estimated Fees",
+        "slippageTolerance": "Slippage Tolerance",
+        "connectWallet": "Connect Wallet",
+        "insufficientBalance": "Insufficient Balance",
+        "enterAmount": "Enter Amount",
+        "approve": "Approve",
+        "approving": "Approving...",
+        "swap": "Swap",
+        "swapping": "Swapping...",
+        "confirmSwap": "Confirm Swap",
+        "settings": "Settings",
+        "configureSwapSettings": "Configure your swap settings",
+        "close": "Close",
+        "transactionDetails": "Transaction Details",
+        "priceImpact": "Price Impact",
+        "amountInUSD": "Amount In USD",
+        "amountOutUSD": "Amount Out USD",
+        "tradingFee": "Trading Fee (USD)",
+        "warning": "Warning",
+        "highPriceImpact": "High price impact may result in unexpected outcomes.",
+        "success": "Success",
+        "error": "Error",
+        "info": "Info",
+        "sendingTransaction": "Sending transaction...",
+        "swapSent": "Swap sent! Waiting for confirmation...",
+        "swapSuccessful": "Swap successful!",
+        "swapFailed": "Swap failed. Please try again.",
+        "couldNotPrepareTransaction": "Could not prepare transaction: {error}",
+        "youNeedToConnectWallet": "You need to connect your wallet first",
+        "swapSuccessfulTitle": "Swap successful",
+        "swapSuccessfulDescription": "Your swap has been completed successfully. You can now view the transaction details below."
+    },
+    "TokenSelector": {
+        "selectToken": "Select a token",
+        "searchByToken": "Search by token or paste address",
+        "popularTokens": "Popular tokens",
+        "token": "Token",
+        "balance": "Balance",
+        "loadingTokens": "Loading tokens...",
+        "noTokensFound": "No tokens found. Try a different search term.",
+        "settings": "Settings",
+        "slippageTolerance": "Slippage tolerance"
+    }
+
+}

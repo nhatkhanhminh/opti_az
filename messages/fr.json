@@ -1,0 +1,1674 @@
+{
+    "CTASection": {
+      "title": "Prêt à commencer à gagner?",
+      "description": "Rejoignez notre communauté croissante de gardiens à succès et commencez à gagner un revenu passif aujourd'hui",
+      "button": "Commencer à jalonner"
+    },
+    "HeroSection": {
+      "badge": "Gagnez jusqu'à 18% par mois",
+      "title": "Smart Eligez avec",
+      "titleHighlight": "Retours propulsés par AI",
+      "description": "Rejoignez des milliers d'utilisateurs qui gagnent des revenus passifs grâce à notre plateforme d'allure intelligente",
+      "startStaking": "Commencer à jalonner",
+      "stats": {
+        "TotalStaked": "Total à emporter",
+        "exchanges": "Échanges",
+        "avgReturn": "Retour avg",
+        "totalUsers": "Total utilisateurs"
+      },
+      "calculator": {
+        "title": "Calculateur de bénéfices",
+        "description": "Calculez vos revenus potentiels en fonction du montant de la participation",
+        "stakeAmount": "Montant de la participation ($)",
+        "monthly": "Gains mensuels",
+        "daily": "Gains quotidiens",
+        "max": "Gains maximum",
+        "monthlyAPY": "% Mensuel",
+        "startEarning": "Commencez à gagner maintenant"
+      }
+    },
+    "FeaturesSection": {
+      "title": "Pourquoi choisir notre plateforme?",
+      "description": "Nous offrons une expérience de mise en scène sûre, flexible et enrichissante alimentée par la technologie de l'IA",
+      "features": {
+        "monthlyReturns": {
+          "title": "Retours mensuels",
+          "description": "Gagnez des récompenses mensuelles avec MPY jusqu'à 18% en fonction du montant de votre participation"
+        },
+        "aiPowered": {
+          "title": "Trading propulsé par l'IA",
+          "description": "Notre bot AI se négocie automatiquement sur des centaines d'échanges de cryptographie"
+        },
+        "secure": {
+          "title": "Plate-forme sécurisée",
+          "description": "Les portefeuilles multi-signatures et la surveillance en temps réel garantissent que vos actifs restent en sécurité"
+        },
+        "referral": {
+          "title": "Récompenses de référence",
+          "description": "Gagnez un revenu supplémentaire grâce à notre programme de référence"
+        }
+      }
+    },
+    "HowItWorksSection": {
+      "title": "Comment ça marche",
+      "description": "Commencez à gagner des récompenses en quelques étapes simples",
+      "step": "Étape",
+      "steps": {
+        "connectWallet": {
+          "title": "Connectez votre portefeuille",
+          "description": "Reliez votre portefeuille crypto à notre plate-forme en toute sécurité (portefeuille de confiance recommandé)"
+        },
+        "chooseStake": {
+          "title": "Choisissez votre pieu",
+          "description": "Sélectionnez votre jeton préféré et le montant de l'allure"
+        },
+        "startEarning": {
+          "title": "Commencer à gagner",
+          "description": "Gagnez des récompenses mensuelles avec nos tarifs compétitifs"
+        },
+        "claimRewards": {
+          "title": "Récompense de réclamation",
+          "description": "Retirez vos revenus quotidiennement jusqu'à atteindre un rendement de 400%"
+        }
+      }
+    },
+    "StakingPlanSection": {
+      "title": "Plans de jalonnement",
+      "description": "Les enjeux plus élevés gagnent de meilleures récompenses - trouvez le plan qui vous convient le mieux",
+      "plans": {
+        "starter": {
+          "name": "Démarreur",
+          "min": "Min",
+          "max": "Max",
+          "apy": "Apy",
+          "startStaking": "Commencer à jalonner"
+        },
+        "bronze": {
+          "name": "Bronze",
+          "min": "Min",
+          "max": "Max",
+          "apy": "Apy",
+          "startStaking": "Commencer à jalonner"
+        },
+        "silver": {
+          "name": "Argent",
+          "min": "Min",
+          "max": "Max",
+          "apy": "Apy",
+          "startStaking": "Commencer à jalonner"
+        },
+        "gold": {
+          "name": "Or",
+          "min": "Min",
+          "max": "Max",
+          "apy": "Apy",
+          "startStaking": "Commencer à jalonner"
+        },
+        "diamond": {
+          "name": "Diamant",
+          "min": "Min",
+          "max": "Max",
+          "apy": "Apy",
+          "startStaking": "Commencer à jalonner"
+        }
+      }
+    },
+    "PartnersSection": {
+      "badge": "Partenaires de confiance",
+      "title": "Nos partenaires stratégiques",
+      "description": "Nous collaborons avec les leaders de l'industrie pour offrir l'expérience de mise en place la plus sécurisée et la plus fiable"
+    },
+    "PartnerProgramSection": {
+      "badge": "Programme partenaire",
+      "title": "Structure de la commission à trois niveaux",
+      "description": "Gagnez plusieurs flux de revenus grâce à notre programme de partenariat complet",
+      "directCommission": {
+        "title": "Commission de référence directe",
+        "description": "Gagnez des commissions immédiates de vos références directes et de leur réseau",
+        "level": "Niveau {niveau}",
+        "commission": "Commission directe des références {niveau}"
+      },
+      "profitSharing": {
+        "title": "Commission de partage des bénéfices",
+        "description": "Obtenez une part des bénéfices de la plate-forme grâce à notre structure de réseau à 10 niveaux",
+        "requirement": "Chaque fois que votre Downline prétend récompenser, vous recevrez un pourcentage de leurs bénéfices en fonction de votre niveau",
+        "level": "Niveau"
+      },
+      "leaderBonus": {
+        "title": "Bonus de performance de leader",
+        "description": "Atteindre des rangs plus élevés et gagner des bonus supplémentaires en fonction des performances de votre équipe",
+        "ranks": {
+          "silver": "Leader de l'argent",
+          "gold": "Chef de l'or",
+          "platinum": "Leader du platine",
+          "diamond": "Chef de diamant",
+          "royal": "Leader royal"
+        },
+        "f1Volume": "Volume F1",
+        "teamVolume": "Volume d'équipe",
+        "extraCommission": "Commission supplémentaire"
+      },
+      "network": {
+        "title": "Construisez votre réseau",
+        "description": "Commencez à construire votre réseau aujourd'hui et gagnez plusieurs flux de revenus grâce à notre programme de partenariat complet",
+        "button": "Devenir partenaire"
+      }
+    },
+    "TradingActivitySection": {
+      "badge": "Trading en direct",
+      "title": "Activité de bot commercial AI",
+      "description": "Regardez notre bot AI exécuter les transactions en temps réel sur plusieurs échanges",
+      "stats": {
+        "totalTrades": {
+          "title": "Total des métiers aujourd'hui",
+          "description": "À travers les échanges {count}"
+        },
+        "successRate": {
+          "title": "Taux de réussite",
+          "description": "Ratio de transactions rentables"
+        },
+        "avgProfit": {
+          "title": "Profit moyen",
+          "description": "Par trafic"
+        },
+        "realtimeProfit": {
+          "title": "Bénéfice en temps réel",
+          "description": "2 dernières secondes"
+        }
+      },
+      "performance": {
+        "title": "Performance commerciale",
+        "tooltip": {
+          "profit": "Profit"
+        }
+      },
+      "recentTrades": {
+        "title": "Métiers récents"
+      }
+    },
+    "FAQSection": {
+      "badge": "FAQ",
+      "title": "Questions fréquemment posées",
+      "description": "Trouvez des réponses aux questions courantes sur notre plateforme",
+      "categories": {
+        "general": {
+          "title": "Général",
+          "questions": {
+            "aiStaking": {
+              "question": "Qu'est-ce que le jalonnement alimenté par AI?",
+              "answer": "Notre plate-forme d'allumage alimentée par l'IA combine la mise en place traditionnelle avec des algorithmes avancés de trading d'intelligence artificielle. "
+            },
+            "returns": {
+              "question": "Comment les rendements sont-ils générés?",
+              "answer": "Les rendements sont générés par une combinaison de récompenses de jalonnement et de bénéfices commerciaux de l'IA. "
+            },
+            "lockup": {
+              "question": "Y a-t-il une période de verrouillage?",
+              "answer": "Non, il n'y a pas de période de verrouillage. "
+            }
+          }
+        },
+        "staking": {
+          "title": "Jalonnement",
+          "questions": {
+            "amounts": {
+              "question": "Quelles sont les quantités minimales et maximales de pieu?",
+              "answer": "Le montant minimum de la participation est de 100 $. "
+            },
+            "tokens": {
+              "question": "Quels jetons puis-je mettre en place?",
+              "answer": "Actuellement, nous soutenons la mise en œuvre de l'USDT, du Fil, du Link et du BNB. "
+            },
+            "rewards": {
+              "question": "À quelle fréquence puis-je réclamer des récompenses?",
+              "answer": "Les récompenses peuvent être revendiquées quotidiennement. "
+            }
+          }
+        },
+        "partner": {
+          "title": "Programme partenaire",
+          "questions": {
+            "referral": {
+              "question": "Comment fonctionne le programme de référence?",
+              "answer": "Notre programme partenaire propose trois types de commissions: référence directe (6% pour F1, 1% pour F2 et F3), le partage des bénéfices sur 10 niveaux (1-10%) et le bonus de performance de leader (jusqu'à 3% de commission supplémentaire)."
+            },
+            "requirements": {
+              "question": "Quelles sont les exigences de chaque rang de leader?",
+              "answer": "Les rangs de leader sont basés sur le volume d'équipe: argent (100 000 $), or (500 000 $), platine (1 million de dollars), diamant (5 millions de dollars) et royal (10 millions de dollars). "
+            },
+            "commissions": {
+              "question": "Comment les commissions sont-elles calculées et payées?",
+              "answer": "Les commissions sont calculées en fonction des montants et des bénéfices de mise en place de vos références. "
+            }
+          }
+        },
+        "security": {
+          "title": "Sécurité",
+          "questions": {
+            "platform": {
+              "question": "Dans quelle mesure la plate-forme est-elle sécurisée?",
+              "answer": "Nous mettons en œuvre plusieurs mesures de sécurité, notamment des portefeuilles multi-signatures, des systèmes de surveillance en temps réel et des audits de sécurité réguliers. "
+            },
+            "losses": {
+              "question": "Que se passe-t-il si le bot AI fait des pertes?",
+              "answer": "Notre système d'IA est conçu avec des protocoles de gestion des risques stricts. "
+            },
+            "audits": {
+              "question": "Les contrats intelligents sont-ils audités?",
+              "answer": "Oui, tous nos contrats intelligents sont vérifiés par les principales sociétés de sécurité de la blockchain. "
+            }
+          }
+        },
+        "smartContract": {
+          "title": "Contrat intelligent",
+          "questions": {
+            "blockchain": {
+              "question": "Quelle blockchain la plate-forme utilise-t-elle?",
+              "answer": "Notre plateforme fonctionne sur la chaîne Smart Binance (BSC), qui fournit des transactions rapides et des frais faibles, ce qui le rend idéal pour les opérations de jalonnement."
+            },
+            "audit": {
+              "question": "Le contrat intelligent est-il audité?",
+              "answer": "Oui, nos contrats intelligents ont été audités par Certik et Peckshield, deux principales sociétés de sécurité blockchain. "
+            },
+            "rewards": {
+              "question": "Comment le contrat intelligent gère-t-il les récompenses récompenses?",
+              "answer": "Le contrat intelligent calcule automatiquement les récompenses en fonction de votre niveau et de votre durée d'allure. "
+            },
+            "congestion": {
+              "question": "Que se passe-t-il s'il y a une congestion du réseau?",
+              "answer": "Notre contrat intelligent est conçu pour gérer efficacement la congestion du réseau. "
+            },
+            "interaction": {
+              "question": "Puis-je interagir directement avec le contrat intelligent?",
+              "answer": "Oui, les utilisateurs avancés peuvent interagir directement avec notre contrat intelligent à l'aide d'explorateurs de blockchain ou d'interfaces de portefeuille. "
+            },
+            "address": {
+              "question": "Quelle est l'adresse du contrat?",
+              "answer": "Notre adresse du contrat de mise en place principal est 0xc2d8434b6875394637e5a943c2103639e22d26d5. "
+            }
+          }
+        }
+      }
+    },
+    "StakingPage": {
+      "title": "Joue à vos jetons",
+      "description": "Gagnez le revenu passif avec nos options de mise en place flexibles",
+      "balance": {
+        "title": "Votre équilibre",
+        "loading": "Chargement..."
+      },
+      "stake": {
+        "title": "Jetons de pieu",
+        "description": "Entrez le montant et sélectionnez Plan de mise en place",
+        "amount": {
+          "label": "Montant",
+          "min": "Min",
+          "placeholder": "0,00"
+        },
+        "plans": {
+          "title": "Plans de jalonnement",
+          "plan": {
+            "title": "Plan",
+            "mpy": "MPy",
+            "investmentRange": "Gamme d'investissement",
+            "description": "Description",
+            "mpyNote": "* MPY: rendement mensuel en pourcentage",
+            "earn": "Gagner",
+            "mpyUntil": "MPY jusqu'à atteindre 400% de l'investissement initial",
+            "names": {
+              "starter": "Démarreur",
+              "bronze": "Bronze",
+              "silver": "Argent",
+              "gold": "Or",
+              "diamond": "Diamant"
+            }
+          }
+        }
+      },
+      "rules": {
+        "title": "Exercer des règles",
+        "terms": {
+          "title": "Jalonner",
+          "items": {
+            "0": "Vous avez besoin de BNB pour les frais de transaction",
+            "1": "Les récompenses de jalonnement sont calculées et distribuées quotidiennement",
+            "2": "Le jalonnement s'arrête à 400% de l'investissement initial",
+            "3": "Le montant de l'allure minimum est de 100 $ équivalent",
+            "4": "Les taux de MPY sont fixes lors de la mise en place"
+          }
+        },
+        "howItWorks": {
+          "title": "Comment ça marche",
+          "items": {
+            "0": "Sélectionnez votre jeton",
+            "1": "Entrez le montant (équivalent minimum de 100 $)",
+            "2": "Plan et taux MPY sélectionné automatiquement",
+            "3": "Confirmer la transaction",
+            "4": "Gagnez des récompenses immédiatement",
+            "5": "Récompense de réclamation toutes les 24 heures (70% de jeton jalonné + 30% AZC)",
+            "6": "Le stimulation s'arrête à 400% de rendement"
+          }
+        }
+      },
+      "summary": {
+        "title": "Résumé de la mise en scène",
+        "token": "Jeton",
+        "amount": "Montant",
+        "plan": "Plan",
+        "mpy": "MPy",
+        "returnCap": "Capuchon de retour",
+        "sponsor": "Parrainer par",
+        "upline": "Remontée",
+        "estimatedReturns": {
+          "title": "Retours estimés",
+          "daily": "Tous les jours",
+          "monthly": "Mensuel",
+          "yearly": "Annuel",
+          "total": "Total (400% de plafond)"
+        }
+      },
+      "buttons": {
+        "max": "Max",
+        "start": "Commencer",
+        "approve": "Approuver",
+        "stakeNow": "Mettre en jeu maintenant",
+        "staking": "Jalonnement...",
+        "addingUpline": "Ajout de monotation ...",
+        "preparing": "Préparation de la mise en place...",
+        "approving": "Approuvant ...",
+        "staked": "Jalonnement réussi",
+        "stakeFailed": "Le jeu a échoué, réessayer"
+      },
+      "errors": {
+        "connectWallet": "Veuillez connecter votre portefeuille",
+        "insufficientBalance": "Équilibre insuffisant {Token}",
+        "maxAmount": "Le montant maximum est $ {montant}",
+        "fillAllFields": "Veuillez connecter le portefeuille et remplir tous les champs"
+      }
+    },
+    "DashboardPage": {
+      "title": "Tableau de bord",
+      "description": "Aperçu rapide de votre portefeuille de jalonnement et de vos gains",
+      "stats": {
+        "totalValueStaked": "Valeur totale jalaine",
+        "totalEarnings": "Gains totaux",
+        "earnedFromStaking": "Gagné de la jalonnement",
+        "maxOut": "Maximiser",
+        "f1Volume": "Volume F1"
+      },
+      "quickActions": {
+        "title": "Actions rapides",
+        "description": "Gérez votre jalonnement et vos références",
+        "stake": "Miser",
+        "referralLink": "Lien de référence",
+        "copied": "Copié",
+        "referralAlert": "Gagnez jusqu'à 12% de commission des récompenses d'allumage de vos références"
+      },
+      "latestUpdates": {
+        "title": "Dernières mises à jour",
+        "description": "Restez informé des actualités et mises à jour des plateformes",
+        "news": {
+        "swapFeature": {
+        "title": "Fonctionnalité d'échange maintenant en version bêta",
+        "description": "Nous sommes ravis d'annoncer que notre fonctionnalité d'échange est désormais disponible en version bêta ! Les utilisateurs peuvent désormais échanger des jetons directement sur la plateforme OptiFund avec des taux compétitifs et des frais de transaction réduits. Cette fonctionnalité s'intègre à l'agrégateur de KyberSwap pour garantir les meilleurs taux possibles sur plusieurs DEX. Essayez-la et partagez vos commentaires alors que nous continuons à optimiser l'expérience.",
+        "date": "03-05-2025"
+    },
+          "stakingPlans": {
+            "title": "Nouveaux plans de mise en vedette libérés",
+            "description": "Nous sommes ravis d'annoncer notre nouveau système de niveau de striage avec des taux MPY améliorés allant de 9% à 18%. ",
+            "date": "12-02-2025"
+          },
+          "securityUpdate": {
+            "title": "Mise à jour de sécurité de la plate-forme",
+            "description": "Notre dernière mise à jour de sécurité met en œuvre des mesures de protection de pointe, y compris des portefeuilles multi-signatures, des protocoles de chiffrement améliorés et des systèmes de surveillance en temps réel. ",
+            "date": "11-02-2025"
+          }
+        }
+      }
+    },
+    "MyStakePage": {
+      "title": "Mon jalonnement",
+      "description": "Suivre et gérer vos enjeux actifs",
+      "summary": {
+        "totalStakedValue": "Valeur de marquage totale",
+        "totalClaimedValue": "Valeur totale revendiquée",
+        "maxOutRemaining": "Max restant",
+        "leaderBadge": "Chef"
+      },
+      "plans": {
+        "0": "Démarreur",
+        "1": "Bronze",
+        "2": "Argent",
+        "3": "Or",
+        "4": "Diamant"
+      },
+      "filters": {
+        "all": "Tous",
+        "claimable": "Recommandable",
+        "notClaimable": "Non réclamable"
+      },
+      "stakingCard": {
+        "title": "Jalonnement",
+        "monthly": "mois",
+        "days": "jours",
+        "hours": "heures",
+        "minutes": "minutes",
+        "rewardDistribution": "Distribution de récompense",
+        "nextReward": "Récompense suivante (24h)",
+        "expectedRewards": "Récompenses attendues",
+        "stakedAmount": "Montant jalon",
+        "claimedAmount": "Montant réclamé",
+        "progressTo400": "Progresser à 400%",
+        "remaining": "Restant",
+        "remainingMaxout": "Maxout restant",
+        "reservedTime": "Heure réservée",
+        "nextClaim": "Cette fois sera enregistré pour la prochaine réclamation",
+        "rewardsNote": "Les récompenses sont calculées en fonction de votre valeur d'investissement USD initiale ({APY}% mensuellement). "
+      },
+      "errors": {
+        "loading": "Erreur de chargement de vos enjeux",
+        "connectWallet": "Veuillez connecter votre portefeuille pour voir vos enjeux",
+        "loadingError": "Erreur de chargement des données d'allure. ",
+        "noStakes": "Vous n'avez pas encore de participations actives.",
+        "noMatchingStakes": "Aucune enjeux trouvé correspondant au filtre sélectionné."
+      },
+      "buttons": {
+        "claimRewards": "Récompense de réclamation",
+        "claiming": "Réclame...",
+        "claimSuccess": "Réclamer le succès"
+      }
+    },
+    "PartnerPage": {
+      "title": "Partenaire",
+      "description": "Suivez les performances de votre partenariat et le réseau de Downline",
+      "referralLink": {
+        "title": "Votre lien de référence",
+        "description": "Partagez ce lien pour gagner des commissions des références",
+        "connectWallet": "Connectez le portefeuille pour créer un lien de référence",
+        "copy": "Copier le lien",
+        "copied": "Copié!"
+      },
+      "upline": {
+        "title": "Mon montée en haut",
+        "description": "Vos informations référentes directes",
+        "noUpline": "Pas de montée en puissance",
+        "viewOnBscScan": "Voir sur bsccan",
+        "addUpline": "Ajouter une ligne",
+        "confirming": "Confirmant ...",
+        "addedSuccess": "Ajouté avec succès",
+        "failedToAdd": "Échec de l'ajout",
+        "cantSetYourself": "Je ne peux pas vous mettre en place",
+        "insufficientBNB": "Solde BNB insuffisant",
+        "needBNB": "Vous avez besoin de BNB pour ajouter une utilisation"
+      },
+      "maxoutCommission": {
+        "title": "Commission maxout",
+        "description": "Votre commission de gain de limite",
+        "unlimited": "Illimité",
+        "leader": "Chef"
+      },
+      "stats": {
+        "totalCommission": {
+          "title": "Commission totale",
+          "trend": "en haut"
+        },
+        "f1Commission": {
+          "title": "Commission F1",
+          "description": "F1 COUNT: {Count}"
+        },
+        "systemVolume": {
+          "title": "Volume du système",
+          "trend": "en haut"
+        },
+        "f1Volume": {
+          "title": "Volume F1",
+          "trend": "en haut"
+        }
+      },
+      "leaderPerformance": {
+        "title": "Performance de leader",
+        "description": "Votre niveau de réalisation actuel et votre progression",
+        "nextLevel": "Niveau suivant: {niveau}",
+        "level": "Niveau",
+        "bonus": "Bonus",
+        "f1VolumeProgress": "Progrès du volume F1",
+        "networkVolumeProgress": "Progrès du volume du réseau",
+        "reachSilver": "Atteignez le volume de 3 000 $ F1 et le volume du système de 30 000 $ pour atteindre Silver Leader"
+      },
+      "levelDistribution": {
+        "title": "Distribution de niveau",
+        "description": "Distribution de partenaires par niveau",
+        "f1Partners": "F1 partenaires",
+        "totalNetwork": "Réseau total",
+        "averageLevel": "Niveau moyen"
+      },
+      "downlineNetwork": {
+        "title": "Réseau de descente",
+        "description": "Liste des lignes de vue et de leurs informations d'investissement",
+        "searchPlaceholder": "Recherche par adresse de portefeuille ...",
+        "filters": {
+          "level": {
+            "title": "Filtre par niveau",
+            "all": "Tous les niveaux",
+            "direct": "Direct (F1)",
+            "f2": "F2",
+            "f3": "F3"
+          },
+          "staked": {
+            "title": "Filtre par jalon",
+            "all": "Tous",
+            "staked": "Jalonné",
+            "notStaked": "Pas jalonné"
+          }
+        },
+        "table": {
+          "walletAddress": "Adresse du portefeuille",
+          "level": "Niveau",
+          "staked": "Jalonné",
+          "status": "Statut",
+          "joinedAt": "Joint à",
+          "actions": "Action",
+          "viewNetwork": "Afficher le réseau",
+          "viewTreeNetwork": "Voir le réseau d'arborescence",
+          "loading": "Chargement de données ...",
+          "noData": "Aucune donnée correspondante trouvée",
+          "pagination": {
+            "previous": "Précédent",
+            "next": "Suivant",
+            "page": "Page {Current} / {Total}",
+            "displaying": "Affichage {affiché} de {total} Total des lignes"
+          }
+        }
+      }
+    },
+    "ReferralTreePage": {
+      "title": "Référence",
+      "description": "Visualisez votre structure complète du réseau de référence",
+      "searchPlaceholder": "Recherche par adresse de portefeuille ...",
+      "filters": {
+        "level": {
+          "title": "Filtre par niveau",
+          "all": "Tous les niveaux",
+          "direct": "Direct (F1)",
+          "f2": "F2",
+          "f3": "F3"
+        }
+      },
+      "nodeInfo": {
+        "title": "Informations sur le nœud",
+        "walletAddress": "Adresse du portefeuille",
+        "level": "Niveau",
+        "totalInvestment": "Investissement total",
+        "copy": "Copie",
+        "copied": "Copié!",
+        "viewOnBscScan": "Voir sur bsccan",
+        "close": "Fermer"
+      },
+      "loading": "Chargement de la visualisation des arbres ...",
+      "noData": "Aucune donnée disponible",
+      "tip": "Astuce: cliquez sur les nœuds pour développer ou effondrer les branches. "
+    },
+    "FAQPage": {
+      "title": "Questions fréquemment posées",
+      "description": "Trouvez des réponses aux questions courantes sur notre plateforme",
+      "search": {
+        "placeholder": "Recherchez des questions ou des mots clés ..."
+      },
+      "categories": {
+        "all": "Toutes les FAQ",
+        "general": "Général",
+        "smartContract": "Contrat intelligent",
+        "staking": "Jalonnement",
+        "security": "Sécurité",
+        "partnerProgram": "Programme partenaire"
+      },
+      "noResults": {
+        "title": "Aucune question trouvée",
+        "description": "Essayez d'ajuster votre requête de recherche ou de parcourir nos catégories."
+      },
+      "stillNeedHelp": {
+        "title": "Vous avez encore des questions?",
+        "description": "Si vous ne pouviez pas trouver la réponse à votre question, veuillez contacter notre équipe d'assistance. ",
+        "contactSupport": "Support de contact",
+        "joinTelegram": "Rejoignez le canal Telegram"
+      },
+      "questions": {
+        "general": {
+          "aiStaking": {
+            "question": "Qu'est-ce que le jalonnement alimenté par AI?",
+            "answer": "Notre plate-forme d'allumage alimentée par l'IA combine la mise en place traditionnelle avec des algorithmes avancés de trading d'intelligence artificielle. "
+          },
+          "whatIsAzcoin": {
+            "question": "Qu'est-ce que Azcoin?",
+            "answer": "Azcoin est une plate-forme d'allure basée sur la blockchain qui permet aux utilisateurs de réaliser des bénéfices stables en jalonnant des jetons comme FIL, BNB et autres, avec un système de commission à plusieurs niveaux et des opportunités de profit quotidiennes"
+          },
+          "maxOutLimit": {
+            "question": "Quelle est la limite de sortie maximale?",
+            "answer": "Le maximum de limite de limite totale les bénéfices de la commission totale à 4 fois le montant de l'investissement. "
+          },
+          "returns": {
+            "question": "Comment les rendements sont-ils générés?",
+            "answer": "Les rendements sont générés par une combinaison de récompenses de jalonnement et de bénéfices commerciaux de l'IA. "
+          },
+          "lockup": {
+            "question": "Y a-t-il une période de verrouillage?",
+            "answer": "Non, il n'y a pas de période de verrouillage. "
+          },
+          "tokens": {
+            "question": "Quels jetons puis-je mettre en place?",
+            "answer": "Actuellement, nous soutenons la mise en œuvre de l'USDT, du Fil, du Link et du BNB. "
+          }
+        },
+        "smartContract": {
+          "blockchain": {
+            "question": "Quelle blockchain la plate-forme utilise-t-elle?",
+            "answer": "Notre plateforme fonctionne sur la chaîne Smart Binance (BSC), qui fournit des transactions rapides et des frais faibles, ce qui le rend idéal pour les opérations de jalonnement."
+          },
+          "audit": {
+            "question": "Le contrat intelligent est-il audité?",
+            "answer": "Oui, nos contrats intelligents ont été audités par Certik et Peckshield, deux principales sociétés de sécurité blockchain. "
+          },
+          "rewards": {
+            "question": "Comment le contrat intelligent gère-t-il les récompenses récompenses?",
+            "answer": "Le contrat intelligent calcule automatiquement les récompenses en fonction de votre niveau et de votre durée d'allure. "
+          },
+          "congestion": {
+            "question": "Que se passe-t-il s'il y a une congestion du réseau?",
+            "answer": "Notre contrat intelligent est conçu pour gérer efficacement la congestion du réseau. "
+          },
+          "interaction": {
+            "question": "Puis-je interagir directement avec le contrat intelligent?",
+            "answer": "Oui, les utilisateurs avancés peuvent interagir directement avec notre contrat intelligent à l'aide d'explorateurs de blockchain ou d'interfaces de portefeuille. "
+          },
+          "address": {
+            "question": "Quelle est l'adresse du contrat?",
+            "answer": "Notre adresse du contrat de mise en place principal est 0xc2d8434b6875394637e5a943c2103639e22d26d5. "
+          }
+        },
+        "staking": {
+          "profitDistribution": {
+            "question": "Comment le profit est-il distribué lorsque je le prétends?",
+            "answer": "Les bénéfices sont payés en jeton à 70% d'origine et 30% en jeton AZC (1 AZC = 1 USDT, ajoutera de la liquidité plus tard). "
+          },
+          "amounts": {
+            "question": "Quelles sont les quantités minimales et maximales de pieu?",
+            "answer": "Le montant minimum de la participation est de 100 $. "
+          },
+          "rewards": {
+            "question": "À quelle fréquence puis-je réclamer des récompenses?",
+            "answer": "Les récompenses peuvent être revendiquées quotidiennement. "
+          },
+          "maxReturn": {
+            "question": "Que se passe-t-il lorsque j'arrive à 400%?",
+            "answer": "Lorsque votre participation atteint un rendement de 400% (y compris le montant initial de la participation), le processus de mise en œuvre s'arrête automatiquement."
+          },
+          "addFunds": {
+            "question": "Puis-je ajouter des fonds à un pieu existant?",
+            "answer": "Non, chaque participation est traitée comme une position distincte avec son propre taux MPY et 400% de plafond. "
+          },
+          "mpyRates": {
+            "question": "Comment les taux MPY sont-ils déterminés?",
+            "answer": "Les tarifs MPY sont déterminés par votre niveau de mise en œuvre, en fonction du montant que vous enjolez. "
+          },
+          "missClaim": {
+            "question": "Que se passe-t-il si je manque de réclamer des bénéfices quotidiens?",
+            "answer": "Vous pouvez réclamer des bénéfices à tout moment après 24 heures, mais une seule fois par cycle. "
+          }
+        },
+        "security": {
+          "platform": {
+            "question": "Dans quelle mesure la plate-forme est-elle sécurisée?",
+            "answer": "Nous mettons en œuvre plusieurs mesures de sécurité, notamment des portefeuilles multi-signatures, des systèmes de surveillance en temps réel et des audits de sécurité réguliers. "
+          },
+          "losses": {
+            "question": "Que se passe-t-il si le bot AI fait des pertes?",
+            "answer": "Notre système d'IA est conçu avec des protocoles de gestion des risques stricts. "
+          },
+          "userData": {
+            "question": "Comment protégez-vous les données des utilisateurs?",
+            "answer": "Nous utilisons un cryptage standard pour toutes les données et communications des utilisateurs. "
+          },
+          "twoFactor": {
+            "question": "Existe-t-il l'authentification à deux facteurs (2FA)?",
+            "answer": "Non, les utilisateurs se connectent à la plate-forme en utilisant leur adresse de portefeuille."
+          }
+        },
+        "partnerProgram": {
+          "referral": {
+            "question": "Comment fonctionne le programme de référence?",
+            "answer": "Notre programme partenaire propose trois types de commissions: référence directe (6% pour F1, 1% pour F2 et F3), le partage des bénéfices sur 10 niveaux (1-10%) et le bonus de performance de leader (jusqu'à 11% de commission supplémentaire)."
+          },
+          "requirements": {
+            "question": "Quelles sont les exigences de chaque rang de leader?",
+            "answer": "Les rangs de leader sont basés sur le volume d'équipe: Silver + 3% (équipe de 30 000 $ - 3 000 $ f1), or + 5% (équipe de 100 000 $ - 5 000 $ f1), platine + 7% (équipe de 200 000 $ - 10 000 $ f1), Diamond + 9% (350 000 $ d'équipe - 15 000 $ f1) et Royal + 11% (équipe de 500 000 $ - 20 000 $ F1). "
+          },
+          "commissions": {
+            "question": "Comment les commissions sont-elles calculées et payées?",
+            "answer": "Les commissions sont calculées en fonction des montants et des bénéfices de mise en place de vos références. "
+          },
+          "referralLimit": {
+            "question": "Y a-t-il une limite à combien de personnes je peux référer?",
+            "answer": "Non, il n'y a pas de limite au nombre de personnes que vous pouvez référer directement. "
+          }
+        }
+      }
+    },
+    "TokenPage": {
+      "title": "AZ Coin (AZC)",
+      "description": "Assurer l'avenir du jalonnement décentralisé et du trading axé sur l'IA",
+      "metrics": {
+        "totalSupply": {
+          "title": "Approvisionnement total",
+          "value": "21 000 000",
+          "unit": "Jetons AZC"
+        },
+        "targetPrice": {
+          "title": "Prix ​​cible",
+          "value": "10 $ - 15 $",
+          "unit": "par AZC"
+        },
+        "tokenType": {
+          "title": "Type de jeton",
+          "value": "BEP-20",
+          "unit": "Binance Smart Chain"
+        }
+      },
+      "allocation": {
+        "title": "Allocation de jeton",
+        "description": "Les jetons AZC sont stratégiquement alloués pour assurer une croissance durable et un développement des écosystèmes",
+        "totalSupply": "Alimentation totale: 21 000 000 AZC",
+        "distribution": "Distribution",
+        "breakdown": "Ventilation d'allocation",
+        "breakdownDescription": "Distribution détaillée des jetons par catégorie",
+        "chart": {
+          "pie": "Tarte",
+          "bar": "Bar"
+        }
+      },
+      "releaseSchedule": {
+        "title": "Horaire de libération de jetons",
+        "description": "Libération de jeton stratégique pour assurer une croissance durable et une stabilité du marché",
+        "timeline": "Chronologie de libération",
+        "timelineDescription": "Plan de distribution de jetons trimestriels",
+        "breakdown": "Répartition de la répartition",
+        "breakdownDescription": "Libération de jeton cumulative",
+        "released": "Libéré"
+      },
+      "utility": {
+        "title": "Utilitaire de jeton",
+        "description": "Le jeton AZC alimente notre écosystème avec plusieurs cas d'utilisation et avantages",
+        "features": {
+          "stakingrewards": {
+            "title": "Priser les récompenses",
+            "description": "Gagnez le revenu passif en jalonnant des jetons AZC avec des taux apy compétitifs"
+          },
+          "platformgovernance": {
+            "title": "Gouvernance des plateformes",
+            "description": "Votez sur les décisions clés de la plate-forme et façonnez l'avenir de l'écosystème"
+          },
+          "transactionfeediscounts": {
+            "title": "Remises sur les frais de transaction",
+            "description": "Profitez de frais réduits lors de l'utilisation de l'AZC pour les transactions de plate-forme"
+          },
+          "gamingrewards": {
+            "title": "Récompenses de jeu",
+            "description": "Gagnez et dépensez des jetons AZC dans notre écosystème de jeu intégré"
+          },
+          "exclusiveaccess": {
+            "title": "Accès exclusif",
+            "description": "Déverrouiller les fonctionnalités premium et l'accès précoce aux nouvelles capacités de plate-forme"
+          },
+          "globalpayments": {
+            "title": "Paiements mondiaux",
+            "description": "Utilisez AZC pour des transactions rapides et sécurisées sur notre réseau partenaire"
+          }
+        }
+      },
+      "details": {
+        "title": "Détails de jeton",
+        "description": "Spécifications techniques et informations de contrat",
+        "name": "Nom du jeton",
+        "symbol": "Symbole",
+        "totalSupply": "Offre totale",
+        "targetPrice": "Prix cible",
+        "blockchain": "Chaîne",
+        "tokenType": "Type de jeton",
+        "contractAddress": "Adresse du contrat",
+        "copySuccess": "Adresse du contrat copiée"
+      },
+      "burn": {
+        "title": "L'horaire de brûlage AZC",
+        "desc": "Chaque dimanche, à partir du {date}, {amount} AZC seront brûlés hebdomadairement pendant 2 ans. Ce calendrier vise à soutenir une économie de jetons saine et durable.",
+        "card": {
+            "totalWeeks": "Total des semaines",
+            "totalToBurn": "Total à brûler",
+            "startDate": "Date de début",
+            "weeklyAmount": "Montant de brûlage hebdomadaire",
+            "alreadyBurned": "Déjà brûlé"
+        },
+        "purpose": "Le but du brûlage des jetons AZC est de réduire la fourniture circulante, d'augmenter la valeur pour les investisseurs et de garantir le développement durable de l'écosystème."
+    },
+      "getToken": {
+        "title": "Comment obtenir AZC",
+        "description": "Plusieurs façons d'acquérir une pièce AZ et de rejoindre notre écosystème",
+        "exchanges": {
+          "title": "Acheter sur les échanges",
+          "description": "Achetez des jetons AZC sur nos échanges de partenaires avec des tarifs compétitifs",
+          "button": "À venir"
+        },
+        "staking": {
+          "title": "Priser les récompenses",
+          "description": "Gagnez les jetons AZC comme récompenses lorsque vous entrez d'autres crypto-monnaies prises en charge",
+          "button": "Commencer à jalonner"
+        },
+        "referral": {
+          "title": "Programme de référence",
+          "description": "Gagnez la commission AZC Tokens en renvoyant de nouveaux utilisateurs à notre plateforme",
+          "button": "Rejoignez le programme partenaire"
+        }
+      },
+      "cta": {
+        "title": "Prêt à rejoindre l'écosystème AZC?",
+        "description": "Commencez votre voyage avec AZ Coin et déverrouillez l'avenir de la finance décentralisée",
+        "staking": "Commencer à jalonner",
+        "roadmap": "Notre feuille de route"
+      }
+    },
+    "AboutPage": {
+      "hero": {
+        "badge": "À propos de nous",
+        "title": "Révolutionner la finance avec l'IA",
+        "description": "Construire l'avenir de la finance décentralisée par l'intelligence artificielle et la technologie de la blockchain",
+        "content": {
+          "paragraph1": "AZ Coin (AZC) est à l'avant-garde de la convergence entre l'intelligence artificielle et la technologie de la blockchain. ",
+          "paragraph2": "Grâce à notre écosystème innovant de jalonnement multi-chaînes, de négociation alimentée par l'IA et de jeux interactifs, nous créons de nouvelles opportunités pour les utilisateurs pour développer leurs actifs numériques tout en contribuant à une communauté dynamique.",
+          "buttons": {
+            "explore": "Explorez AZC",
+            "roadmap": "Voir la feuille de route"
+          }
+        }
+      },
+      "mission": {
+        "title": "Mission et vision",
+        "description": "Guidé par des principes clairs et des objectifs ambitieux",
+        "mission": {
+          "title": "Notre mission",
+          "content": "Pour démocratiser l'accès à des outils financiers sophistiqués en combinant le pouvoir de l'intelligence artificielle avec la technologie de la blockchain, créant des opportunités pour chacun de participer à l'avenir de la finance.",
+          "points": {
+            "1": "Rendre le trading alimenté par AI accessible à tout le monde",
+            "2": "Créer des opportunités de rendement durable sur plusieurs blockchains",
+            "3": "Construisez une communauté engagée à travers des jeux innovants et des fonctionnalités sociales"
+          }
+        },
+        "vision": {
+          "title": "Notre vision",
+          "content": "Pour devenir la principale plate-forme où l'intelligence artificielle et la blockchain convergent, créant un nouveau paradigme pour l'inclusion financière, la création de richesse et l'innovation technologique.",
+          "points": {
+            "1": "Pionnier L'intégration des modèles d'IA avancés en finance décentralisée",
+            "2": "Atteindre 1 million d'utilisateurs actifs dans notre écosystème d'ici 2026",
+            "3": "Établir l'AZC en tant que jeton d'utilité leader dans l'espace AI-Blockchain"
+          }
+        }
+      },
+      "ecosystem": {
+        "badge": "Écosystème",
+        "title": "L'écosystème AZC",
+        "description": "Une suite complète de produits et services interconnectés alimentés par AZC Token",
+        "components": {
+          "multichainStaking": {
+            "title": "Jalage multi-chaînes",
+            "description": "Participer dans plusieurs blockchains, notamment Ethereum, BSC, Solana, et plus encore avec des récompenses unifiées dans les jetons AZC."
+          },
+          "aiTrading": {
+            "title": "Trading propulsé par l'IA",
+            "description": "Des modèles d'IA avancés qui analysent les modèles de marché à travers les principaux échanges pour exécuter automatiquement les transactions rentables."
+          },
+          "telegramGaming": {
+            "title": "Jeu télégramme",
+            "description": "Engager des jeux de jeu à la réception accessibles directement via Telegram, avec des récompenses de jetons AZC et des fonctionnalités sociales."
+          },
+          "crossExchange": {
+            "title": "Arbitrage croisé",
+            "description": "Systèmes automatisés qui s'identifient et capitalisent sur les différences de prix entre les échanges hyperliquides, binance, parbit et autres échanges."
+          },
+          "aiBots": {
+            "title": "Bots de trading de l'IA",
+            "description": "Des robots de trading personnalisables alimentés par nos modèles d'IA propriétaires, disponibles pour les détenteurs de jetons AZC."
+          },
+          "wallet": {
+            "title": "Portefeuille décentralisé",
+            "description": "Portefeuille multi-chaîne sécurisé avec des fonctionnalités intégrées de jalonnement, de trading et de jeu pour une expérience transparente."
+          }
+        },
+        "growth": {
+          "title": "Croissance de l'écosystème",
+          "description": "Adoption des utilisateurs dans le temps",
+          "activeUsers": "Utilisateurs actifs"
+        },
+        "distribution": {
+          "title": "Distribution des écosystèmes",
+          "description": "Répartition des activités de la plate-forme",
+          "activity": "Activité"
+        }
+      },
+      "aiTechnology": {
+        "badge": "Technologie",
+        "title": "Notre technologie d'IA",
+        "description": "Intelligence artificielle de pointe alimentant nos systèmes de trading",
+        "features": {
+          "multiModel": {
+            "title": "Intégration multi-modes",
+            "description": "Notre système combine plusieurs modèles d'IA spécialisés, chacun optimisé pour différentes conditions de marché et stratégies de trading."
+          },
+          "patternRecognition": {
+            "title": "Reconnaissance de modèles en temps réel",
+            "description": "Les réseaux de neurones avancés identifient des modèles complexes sur plusieurs délais que les commerçants humains pourraient manquer."
+          },
+          "sentimentAnalysis": {
+            "title": "Analyse des sentiments",
+            "description": "Les modèles de traitement du langage naturel analysent les nouvelles, les médias sociaux et le sentiment du marché pour prédire les mouvements des prix."
+          },
+          "riskManagement": {
+            "title": "Algorithmes de gestion des risques",
+            "description": "Les algorithmes sophistiqués ajustent dynamiquement les tailles de position et l'effet de levier en fonction de la volatilité du marché et de l'évaluation des risques."
+          },
+          "crossExchange": {
+            "title": "Optimisation de l'échange croisé",
+            "description": "Les systèmes d'IA surveillent les livres de liquidité et de commandes dans tous les bourses pour exécuter les transactions à des prix optimaux et un glissement minimal."
+          },
+          "continuousLearning": {
+            "title": "Apprentissage continu",
+            "description": "Nos modèles s'améliorent en permanence grâce à l'apprentissage du renforcement, en s'adaptant à l'évolution des conditions du marché."
+          }
+        },
+        "power": {
+          "title": "Le pouvoir de l'intégration de l'IA",
+          "description": "Notre système propriétaire combine plusieurs modèles d'IA spécialisés, chacun formé sur des conditions de marché spécifiques et des stratégies de trading. "
+        }
+      },
+      "team": {
+        "badge": "Notre équipe",
+        "title": "Rencontrer l'équipe",
+        "description": "Des experts de l'IA, de la blockchain et des marchés financiers travaillant ensemble pour construire l'avenir",
+        "testimonials": {
+          "passa": {
+            "quote": "Diplômé du MIT Finance. ",
+            "name": "Passa Rodriguez",
+            "designation": "PDG"
+          },
+          "dmitri": {
+            "quote": "PhD en informatique. ",
+            "name": "Dmitri Volkov",
+            "designation": "CTO à Innovatesphere"
+          },
+          "jessica": {
+            "quote": "Stracteur marketing avec expérience chez Binance. ",
+            "name": "Jessica Wang",
+            "designation": "CMO"
+          },
+          "james": {
+            "quote": "Expert en cybersécurité avec Google Fteals. ",
+            "name": "James Kim",
+            "designation": "Chef de la sécurité"
+          },
+          "michael": {
+            "quote": "Les anciens opérations se dirigent à Aave. ",
+            "name": "Michael Rodriguez",
+            "designation": "ROUCOULER"
+          }
+        }
+      },
+      "cta": {
+        "title": "Rejoignez la révolution AZC",
+        "description": "Faites partie de l'avenir où l'IA et la blockchain convergent pour créer des opportunités sans précédent",
+        "buttons": {
+          "staking": "Commencer à jalonner",
+          "token": "En savoir plus sur le jeton AZC"
+        }
+      }
+    },
+    "RoadmapPage": {
+      "hero": {
+        "badge": "Notre voyage",
+        "title": "Feuille de route du projet",
+        "description": "Explorez notre ambitieux parcours du concept à l'adoption mondiale, avec des jalons et des réalisations clés en cours de route."
+      },
+      "filters": {
+        "all": "Toutes les phases",
+        "completed": "Complété",
+        "inProgress": "En cours",
+        "upcoming": "Prochain"
+      },
+      "emptyState": {
+        "title": "Aucune phase trouvée",
+        "description": "Il n'y a pas de phases de feuille de route correspondant à votre filtre actuel. ",
+        "viewAll": "Voir toutes les phases"
+      },
+      "phases": {
+        "phase1": {
+          "phase": "Phase 1",
+          "title": "Lancement du projet",
+          "date": "Q1 - 2025",
+          "status": "complété",
+          "description": "Bâtiment de la fondation et présence initiale du marché",
+          "details": "Lancement officiel de la plate-forme d'allumage Azcoin, étend le système de référence, la croissance du marketing et la communauté, le développement de GameFI et le programme de mise en œuvre initiale.",
+          "achievements": {
+            "staking": "Rejet de stimulation",
+            "team": "Assemblage de l'équipe de base",
+            "funding": "Financement initial garanti",
+            "community": "Canaux communautaires établis"
+          }
+        },
+        "phase2": {
+          "phase": "Phase 2",
+          "title": "Développement de plate-forme",
+          "date": "Q2 - 2025",
+          "status": "en cours",
+          "description": "Nous nous sommes concentrés sur la construction d'une base sécurisée avec un développement de contrats intelligents rigoureux et plusieurs audits de sécurité, tout en concevant une expérience utilisateur intuitive.",
+          "details": "Achèvement de l'audit de la sécurité, finalisation de la conception UI / UX, test alpha avec les utilisateurs principaux",
+          "achievements": {
+            "swap": "Token d'échange",
+            "security": "Achèvement de l'audit de la sécurité",
+            "design": "Finalisation de conception UI / UX",
+            "testing": "Test alpha avec les utilisateurs principaux"
+          }
+        },
+        "phase3": {
+          "phase": "Phase 3",
+          "title": "Promouvoir le projet",
+          "date": "Q3-Q4 2025",
+          "status": "en cours",
+          "description": "Notre objectif actuel est de mettre notre plateforme sur le marché avec notre lancement de jetons, des annonces d'échange stratégique et de développer notre base d'utilisateurs grâce à un marketing ciblé.",
+          "details": "Le prix cible sera de 10 à 15 $",
+          "achievements": {
+            "listings": "Listes (Dex, CEX)",
+            "audit": "Audit de contrat intelligent",
+            "generation": "Événement de génération Azcoin",
+            "marketing": "Coup d'envoi de la campagne de marketing"
+          }
+        },
+        "phase4": {
+          "phase": "Phase 4",
+          "title": "Expansion de l'écosystème",
+          "date": "Q1-Q2 2026",
+          "status": "en cours",
+          "description": "Nous élargissons notre écosystème avec des applications mobiles, des partenariats stratégiques et l'introduction de notre programme de jalonnement pour récompenser les membres de notre communauté.",
+          "achievements": {
+            "mobile": "Développement d'applications mobiles",
+            "gamefi": "Telegram Gamefi",
+            "partnerships": "Annonces de partenariat",
+            "governance": "Mise en œuvre de la gouvernance communautaire"
+          }
+        },
+        "phase5": {
+          "phase": "Phase 5",
+          "title": "Fonctionnalités avancées",
+          "date": "Q3 - Q4 2026",
+          "status": "prochain",
+          "description": "Notre feuille de route comprend des fonctionnalités de pointe telles que les capacités transversales, les analyses alimentées par l'IA et les outils spécialisés pour les utilisateurs institutionnels.",
+          "achievements": {
+            "crossChain": "Intégration transversale",
+            "trading": "Fonctionnalités de trading avancées",
+            "analytics": "Analyse alimentée par l'IA",
+            "institutional": "Partenariats institutionnels"
+          }
+        },
+        "phase6": {
+          "phase": "Phase 6",
+          "title": "Extension mondiale",
+          "date": "2027",
+          "status": "prochain",
+          "description": "La phase finale de notre feuille de route actuelle se concentre sur l'expansion mondiale, la conformité réglementaire entre les juridictions et la construction d'un écosystème durable grâce à notre programme de subventions.",
+          "achievements": {
+            "marketing": "Campagne de marketing international",
+            "compliance": "Expansion de la conformité réglementaire",
+            "enterprise": "Lancement des solutions d'entreprise",
+            "grants": "Programme de subventions à l'écosystème"
+          }
+        },
+        "phase7": {
+          "phase": "Phase 7",
+          "title": "Avenir",
+          "date": "2028+",
+          "status": "prochain",
+          "description": "Plateforme de prêt et d'emprunt en chaîne, cartes de débit Web3 et intégration du commerçant",
+          "achievements": {
+            "defi": "Banque Azcoin Defi",
+            "cards": "Cartes de débit web3"
+          }
+        }
+      },
+      "status": {
+        "completed": "Complété",
+        "inProgress": "En cours",
+        "upcoming": "Prochain",
+        "currentlyInDevelopment": "Actuellement en développement",
+        "comingSoon": "À venir"
+      },
+      "cta": {
+        "title": "Rejoignez notre voyage",
+        "description": "Faites partie de notre feuille de route passionnante alors que nous révolutionnons l'industrie. ",
+        "button": "Rejoindre la communauté"
+      }
+    },
+    "MediaResourcePage": {
+      "title": "Ressources médiatiques",
+      "description": "Télécharger des logos, des bannières, des présentations et plus encore",
+      "intro": {
+        "title": "Bienvenue au Azcoin Media Center",
+        "description": "Accédez et téléchargez des matériaux officiels de marque Azcoin, des actifs marketing et des présentations en plusieurs langues. ",
+        "downloadAll": "Télécharger tous les actifs",
+        "categories": {
+          "brandAssets": "Actifs de la marque",
+          "presentations": "Présentations",
+          "marketing": "Commercialisation",
+          "multiLanguage": "Multi-langus"
+        }
+      },
+      "collections": {
+        "title": "Collections populaires",
+        "brandKit": {
+          "title": "Kit de marque",
+          "subtitle": "Package de marque complet",
+          "description": "Téléchargez notre kit de marque complet, y compris les logos, les palettes de couleurs, les directives de typographie, etc.",
+          "download": "Télécharger le kit de marque"
+        },
+        "multiLanguage": {
+          "title": "Pack multi-langues",
+          "subtitle": "Ressources dans toutes les langues",
+          "description": "Accédez aux présentations et documents dans toutes les langues prises en charge pour les campagnes de marketing mondiales."
+        },
+        "presentation": {
+          "title": "Faisceau de présentation",
+          "subtitle": "Tous les documents de présentation",
+          "description": "Obtenez toutes les diapositives de présentation, les notes de haut-parleur et les matériaux de support dans un package pratique.",
+          "download": "Télécharger des présentations"
+        }
+      },
+      "customMaterials": {
+        "title": "Besoin de matériaux personnalisés?",
+        "description": "Si vous avez besoin de matériel de marketing personnalisé ou avez des exigences spécifiques, notre équipe de conception est là pour vous aider. ",
+        "contactSupport": "Support de contact"
+      }
+    },
+    "Navbar": {
+      "routes": {
+        "home": "Maison",
+        "dashboard": "Tableau de bord",
+        "staking": "Jalonnement",
+        "swap": "Échanger",
+        "mystake": "Mon pieu",
+        "partner": "Partenaire",
+        "token": "Tokenomics",
+        "about": "À propos",
+        "roadmap": "Feuille de route",
+        "mediaResource": "Ressource",
+        "faqs": "FAQ"
+      },
+      "menu": {
+        "about": "À propos",
+        "more": "Plus",
+        "manager": "Directeur"
+      },
+      "descriptions": {
+        "tokenomics": "Distribution et économie de la tokenomique d'Azcoin",
+        "about": "En savoir plus sur le projet et l'équipe Azcoin",
+        "roadmap": "Feuille de route de développement et plans futurs pour azcoin",
+        "swap": "Échangez vos jetons avec Azcoin rapidement et facilement",
+        "resource": "Ressources médiatiques et matériel de presse",
+        "faqs": "Des questions fréquemment posées sur Azcoin",
+        "dashboard": "Consultez vos statistiques et analyses Azcoin",
+        "mystake": "Gérez vos jetons azcoin marqués",
+        "partner": "Informations sur les partenariats Azcoin"
+      },
+      "connect": {
+        "title": "Connectez-vous à Azcoin",
+        "connecting": "De liaison...",
+        "connect": "Connecter"
+      }
+    },
+    "SuccessModal": {
+      "title": "Jouer à succès!",
+      "description": "Vos jetons ont été jadis avec succès",
+      "details": {
+        "amountStaked": "Montant jalonné:",
+        "value": "Valeur:",
+        "estimatedMPY": "MPY estimé:",
+        "month": "Mois"
+      },
+      "buttons": {
+        "close": "Fermer",
+        "viewStakes": "Voir mes enjeux"
+      }
+    },
+    "MobileBottom": {
+      "routes": {
+        "home": "Maison",
+        "stake": "Miser",
+        "dashboard": "Tableau de bord",
+        "mystake": "Mon pieu",
+        "partner": "Partenaire",
+        "about": "À propos",
+        "faqs": "FAQ",
+        "more": "Plus",
+        "token": "Jeton",
+        "roadmap": "Feuille de route",
+        "swap": "Échanger",
+        "resource": "Ressource",
+        "theme": "Thème"
+      }
+    },
+    "WalletConnect": {
+      "title": "Détails du portefeuille",
+      "description": "Consultez l'équilibre de votre portefeuille et gérez vos actifs cryptographiques.",
+      "tokenBalances": "Soldes de jeton",
+      "showLess": "Montrer moins",
+      "showAll": "Tout montrer",
+      "disconnect": "Débrancher",
+      "copy": {
+        "success": "Adresse du portefeuille copié"
+      }
+    },
+    "Footer": {
+      "slogan": "Stimulation intelligente avec les rendements alimentés par IA",
+      "sections": {
+        "products": {
+          "title": "Produits",
+          "items": {
+            "staking": "Jalonnement",
+            "swap": "Échanger"
+          }
+        },
+        "azcToken": {
+          "title": "Jeton AZC",
+          "items": {
+            "tokenomics": "Tokenomics",
+            "roadmap": "Feuille de route",
+            "mediaResource": "Ressource médiatique"
+          }
+        },
+        "company": {
+          "title": "Entreprise",
+          "items": {
+            "about": "À propos de nous",
+            "faqs": "FAQ",
+            "privacyPolicy": "politique de confidentialité",
+            "termsOfService": "Conditions de service"
+          }
+        },
+        "connect": {
+          "title": "Connectez-vous avec nous",
+          "items": {
+            "email": "hello@optifund.app",
+            "support": "Discuter avec le support"
+          },
+          "social": {
+            "telegram": "Télégramme",
+            "twitter": "X.com",
+            "youtube": "Youtube"
+          }
+        }
+      },
+      "copyright": "© 2025 optifund.app | "
+    },
+    "TermsOfService": {
+      "backToHome": "Retour à la maison",
+      "legalBadge": "Légal",
+      "title": "Conditions de service",
+      "lastUpdated": "Dernière mise à jour: 9 mars 2024",
+      "introduction": {
+        "title": "Introduction",
+        "content": "Bienvenue à Azcoin! "
+      },
+      "eligibility": {
+        "title": "Admissibilité",
+        "items": {
+          "age": "Vous devez avoir au moins 18 ans et légalement capable de conclure des contrats pour utiliser Azcoin.",
+          "laws": "Vous êtes responsable du respect de toutes les lois applicables dans votre juridiction."
+        }
+      },
+      "account": {
+        "title": "Enregistrement du compte",
+        "items": {
+          "register": "Vous devez enregistrer un compte avec des informations précises et complètes pour utiliser Azcoin.",
+          "responsibility": "Vous êtes responsable de la confidentialité des informations d'identification de votre compte et de toutes les actions sous votre compte."
+        }
+      },
+      "staking": {
+        "title": "Jalonner et profiter",
+        "mechanism": {
+          "title": "Mécanisme d'allumage",
+          "content": "En stimulant les jetons, vous acceptez la distribution automatique des fonds décrite dans notre contrat de mise en scène (par exemple, les allocations au développement, au marketing, au leader et au pool)."
+        },
+        "profitClaims": {
+          "title": "Réclamations à profit",
+          "content": "Vous pouvez réclamer des bénéfices toutes les 24 heures, jusqu'à un maximum de 400% de votre montant marqué (en USDT)."
+        },
+        "maxOutLimit": {
+          "title": "Limite maximale",
+          "content": "Les bénéfices totaux de la commission sont plafonnés à 4x votre investissement initial."
+        }
+      },
+      "referral": {
+        "title": "Programme de référence",
+        "content": "Azcoin propose un système de référence à plusieurs niveaux. ",
+        "details": "Les détails de référence et de renseignement sont disponibles dans notre FAQ et la documentation de mise en place.",
+        "commissionStructure": {
+          "title": "Structure de commission",
+          "f1": "Référence directe (F1)",
+          "f2": "Niveau 2 (F2)",
+          "f3": "Niveau 3 (F3)",
+          "f1Rate": "6%",
+          "f2Rate": "1%",
+          "f3Rate": "1%"
+        }
+      },
+      "tokenUsage": {
+        "title": "Utilisation de jetons et jeton AZC",
+        "swap": "Les jetons marqués sont échangés sur USDT via uniswap pour les calculs à but lucratif.",
+        "distribution": "Les bénéfices sont distribués à 70% dans le jeton d'origine et 30% dans les jetons AZC, avec AZC d'une valeur de 1 USDT",
+        "profitDistribution": {
+          "title": "Répartition des bénéfices",
+          "originalToken": "Jeton d'origine",
+          "azcToken": "Jeton AZC",
+          "originalTokenRate": "70%",
+          "azcTokenRate": "30%"
+        }
+      },
+      "responsibilities": {
+        "title": "Responsabilités des utilisateurs",
+        "items": {
+          "taxes": "Vous êtes responsable des impôts ou des droits juridiques liés à votre exposition et à vos revenus.",
+          "fraud": "Vous ne devez pas vous engager dans des actes frauduleux, tels que la manipulation de références ou l'exploitation des défauts de la plate-forme."
+        }
+      },
+      "intellectualProperty": {
+        "title": "Propriété intellectuelle",
+        "content": "Tous les contenus, logos et documents sur Azcoin appartiennent à Azcoin ou à ses concédants de licence et sont protégés par des lois sur la propriété intellectuelle.",
+        "permission": "Vous ne pouvez pas utiliser ou reproduire notre contenu sans autorisation écrite."
+      },
+      "liability": {
+        "title": "Limitation de responsabilité",
+        "warranty": "Azcoin est offert «tel quel» sans garantie. ",
+        "damages": "Nous ne sommes pas responsables des dommages directs, indirects ou conséquents de votre utilisation de la plate-forme."
+      },
+      "termination": {
+        "title": "Terminaison",
+        "content": "Nous pouvons suspendre ou résilier votre compte pour violer ces conditions ou nous engager dans des activités interdites.",
+        "effect": "À la fin, votre accès à Azcoin se termine, bien que certaines dispositions (par exemple, le règlement des différends) restent en vigueur.",
+        "prohibitedActivities": {
+          "title": "Activités interdites",
+          "items": {
+            "multipleAccounts": "Création de plusieurs comptes pour manipuler le système de référence",
+            "hacking": "Tenter de pirater, de perturber ou d'endommager la plate-forme",
+            "illegal": "Utilisation de la plate-forme pour des activités illégales ou un blanchiment d'argent",
+            "misinformation": "Partage d'informations fausses ou trompeuses sur la plate-forme"
+          }
+        }
+      },
+      "disputeResolution": {
+        "title": "Règlement des litiges",
+        "arbitration": "Les litiges seront réglés via un arbitrage contraignant à Singapour, en suivant les règles du Singapore International Arbitration Center (SIAC).",
+        "classAction": "Vous renoncez aux droits pour vous joindre à des recours collectifs ou à l'arbitrage à l'échelle de la classe.",
+        "arbitrationProcess": {
+          "title": "Processus d'arbitrage",
+          "steps": {
+            "notice": "L'avis écrit de litige doit être soumis à Azcoin",
+            "negotiation": "Période de négociation de bonne foi de 30 jours",
+            "language": "Si non résolu, l'arbitrage sera mené en anglais",
+            "decision": "La décision de l'arbitre sera définitive et contraignante",
+            "fees": "Chaque partie porte ses propres frais et dépenses juridiques"
+          }
+        }
+      },
+      "changes": {
+        "title": "Modifications de ces termes",
+        "content": "Nous pouvons réviser ces termes périodiquement. ",
+        "notificationProcess": {
+          "title": "Processus de notification",
+          "description": "Lorsque nous apportons des modifications importantes à ces termes, nous vous informerons à travers:",
+          "methods": {
+            "email": "Notifications par e-mail (si vous avez fourni votre e-mail)",
+            "website": "Avis sur notre site Web",
+            "inApp": "Notifications intégrées"
+          }
+        }
+      },
+      "contact": {
+        "title": "Contactez-nous",
+        "response": "Temps de réponse",
+        "content": "Pour des questions sur ces conditions, veuillez nous contacter à:",
+        "email": "Courriel: hello@azcoin.com",
+        "address": "Adresse: Siège d'Azcoin, 20 Prince Well Rd, North Yarmouth, Maine (ME)",
+        "responseTime": "Nous nous efforçons de répondre à toutes les enquêtes dans les 48 heures et de résoudre les préoccupations dans les 14 jours."
+      },
+      "additionalTerms": {
+        "title": "Conditions supplémentaires",
+        "forceMajeure": {
+          "title": "Force majeure",
+          "content": "Azcoin ne sera pas responsable de tout échec ou retard de performance en raison de circonstances indépendantes de notre volonté raisonnable, y compris, mais sans s'y limiter, les actes de Dieu, les catastrophes naturelles, la guerre, le terrorisme, les émeutes, les embargos, les actes des autorités civiles ou militaires, les inondations, les accidents, les infrastructures de réseau, les défaillances, les grèves, ou les pénuries de transport, les combustibles, les combustibles, l'énergie, la main-d'œuvre ou les documents."
+        },
+        "severability": {
+          "title": "Semettabilité",
+          "content": "Si une disposition de ces conditions est inapplicable ou invalide, cette disposition sera limitée ou éliminée dans la mesure minimale nécessaire afin que les conditions restent autrement en force et en effet et exécutoires."
+        },
+        "assignment": {
+          "title": "Affectation",
+          "content": "Vous ne pouvez pas affecter ou transférer ces conditions, par opération de droit ou autrement, sans le consentement écrit préalable d'Azcoin. "
+        },
+        "entireAgreement": {
+          "title": "Accord entier",
+          "content": "Ces termes constituent l'intégralité de l'accord entre vous et Azcoin concernant l'utilisation de la plate-forme et remplacer tous les accords, propositions ou représentations antérieurs et contemporains, écrits ou oraux, concernant son sujet."
+        }
+      },
+      "acceptance": "En utilisant les services d'Azcoin, vous reconnaissez que vous avez lu, compris et accepté d'être lié par ces conditions d'utilisation.",
+      "privacyPolicy": "politique de confidentialité",
+      "startStaking": "Commencer à jalonner"
+    },
+    "PrivacyPolicy": {
+      "backToHome": "Retour à la maison",
+      "legalBadge": "Légal",
+      "title": "politique de confidentialité",
+      "lastUpdated": "Dernière mise à jour: 9 mars 2024",
+      "introduction": {
+        "title": "Introduction",
+        "content": "Chez Azcoin, nous apprécions votre vie privée et nous dédions à la protection de vos informations personnelles. "
+      },
+      "informationCollection": {
+        "title": "Informations que nous collectons",
+        "personalInfo": {
+          "title": "Information personnelle",
+          "content": "Lorsque vous vous inscrivez ou utilisez notre plate-forme, nous pouvons collecter votre nom, votre adresse e-mail, votre adresse de portefeuille et d'autres coordonnées."
+        },
+        "transactionData": {
+          "title": "Données de transaction",
+          "content": "Nous recueillons des détails sur vos activités d'allumage, telles que les dépôts de jeton, les réclamations à profit et les commissions de référence."
+        },
+        "technicalData": {
+          "title": "Données techniques",
+          "content": "Nous pouvons collecter votre adresse IP, votre type de navigateur, vos informations sur l'appareil et vos données d'utilisation pour améliorer la sécurité et améliorer nos services."
+        }
+      },
+      "informationUsage": {
+        "title": "Comment nous utilisons vos informations",
+        "serviceProvision": {
+          "title": "Prestation de services",
+          "content": "Pour gérer votre jalonnement, traiter les transactions et offrir un support client."
+        },
+        "communication": {
+          "title": "Communication",
+          "content": "Pour vous envoyer des mises à jour, des notifications et des offres promotionnelles sur Azcoin."
+        },
+        "security": {
+          "title": "Sécurité",
+          "content": "Pour détecter et prévenir la fraude, l'accès non autorisé ou les activités illégales."
+        },
+        "analytics": {
+          "title": "Analytique",
+          "content": "Pour étudier les tendances d'utilisation et optimiser les performances et l'expérience utilisateur de notre plateforme."
+        }
+      },
+      "dataSharing": {
+        "title": "Partage de données et divulgation",
+        "thirdParty": {
+          "title": "Partenaires tiers",
+          "content": "Nous pouvons partager vos données avec des fournisseurs de services de confiance (par exemple, les processeurs de paiement, les outils d'analyse) qui nous aident à exploiter la plate-forme."
+        },
+        "legalRequirements": {
+          "title": "Exigences légales",
+          "content": "Nous pouvons divulguer vos informations si la loi l'exige ou pour protéger nos droits et nos utilisateurs."
+        },
+        "blockchainTransparency": {
+          "title": "Transparence de la blockchain",
+          "content": "Notez que les transactions de blockchain sont publiques. "
+        }
+      },
+      "dataSecurity": {
+        "title": "Sécurité des données",
+        "content": "Nous utilisons des mesures standard de l'industrie comme le chiffrement, des serveurs sécurisés et des audits réguliers pour protéger vos données. ",
+        "securityMeasures": {
+          "servers": "Serveurs sécurisés et cryptés avec des mises à jour de sécurité régulières",
+          "encryption": "Cryptage de bout en bout pour la transmission de données sensibles",
+          "audits": "Audits de sécurité réguliers et évaluations de vulnérabilité"
+        }
+      },
+      "userRights": {
+        "title": "Vos droits",
+        "access": {
+          "title": "Accès et correction",
+          "content": "Vous pouvez demander l'accès à vos données ou corriger les inexactitudes."
+        },
+        "deletion": {
+          "title": "Effacement",
+          "content": "Vous pouvez demander la suppression des données, sous réserve d'obligations légales ou contractuelles."
+        },
+        "optOut": {
+          "title": "Se désengager",
+          "content": "Vous pouvez vous désinscrire des e-mails promotionnels à tout moment."
+        }
+      },
+      "cookies": {
+        "title": "Cookies et suivi",
+        "description": "Nous utilisons des cookies et des technologies similaires pour améliorer votre expérience, analyser l'utilisation et fournir du contenu sur mesure. ",
+        "types": {
+          "essential": {
+            "title": "Cookies essentiels",
+            "badge": "Requis",
+            "description": "Nécessaire pour que le site Web fonctionne correctement"
+          },
+          "functional": {
+            "title": "Cookies fonctionnels",
+            "badge": "Facultatif",
+            "description": "N'oubliez pas vos préférences et vos paramètres"
+          },
+          "analytics": {
+            "title": "Cookies analytiques",
+            "badge": "Facultatif",
+            "description": "Aidez-nous à comprendre comment les visiteurs interagissent avec notre site Web"
+          }
+        }
+      },
+      "policyChanges": {
+        "title": "Modifications de cette politique",
+        "content": "Nous pouvons parfois mettre à jour cette politique de confidentialité. ",
+        "updateProcess": {
+          "title": "Processus de mise à jour de la politique",
+          "description": "Lorsque nous apportons des modifications importantes à cette politique, nous vous informerons:",
+          "methods": [
+            "Notifications par e-mail (si vous avez fourni votre e-mail)",
+            "Avis sur notre site Web",
+            "Notifications intégrées"
+          ]
+        },
+        "previousVersions": {
+          "title": "Versions précédentes",
+          "content": "Vous pouvez demander l'accès aux versions précédentes de notre politique de confidentialité en nous contactant."
+        }
+      },
+      "contact": {
+        "title": "Contactez-nous",
+        "description": "Pour des questions ou des préoccupations concernant cette politique de confidentialité, veuillez nous contacter à:",
+        "email": "Courriel: hello@optifund.app",
+        "address": "Adresse: Siège d'Azcoin, 20 Prince Well Rd, North Yarmouth, Maine (ME)",
+        "dpo": "Officier de protection des données: John Smith",
+        "responseTime": {
+          "title": "Temps de réponse",
+          "content": "Nous nous efforçons de répondre à toutes les demandes liées à la vie privée dans les 48 heures et de résoudre les préoccupations dans les 14 jours."
+        }
+      },
+      "additionalInfo": {
+        "title": "Informations Complémentaires",
+        "internationalTransfers": {
+          "title": "Transferts de données internationales",
+          "content": "Vos informations peuvent être transférées et traitées dans des pays autres que celui dans lequel vous résidez. "
+        },
+        "dataRetention": {
+          "title": "Conservation des données",
+          "content": "Nous conservons vos informations personnelles aussi longtemps que nécessaire pour atteindre les objectifs décrits dans la présente politique de confidentialité, à moins qu'une période de rétention plus longue n'est requise ou autorisée par la loi. "
+        },
+        "childrenPrivacy": {
+          "title": "Intimité des enfants",
+          "content": "Nos services ne sont pas destinés aux personnes de moins de 18 ans. Nous ne collectons pas sciemment des informations personnelles auprès des enfants. "
+        },
+        "thirdPartyLinks": {
+          "title": "Liens tiers",
+          "content": "Notre plateforme peut contenir des liens vers des sites Web ou des services tiers. "
+        }
+      },
+      "acknowledgment": "En utilisant les services d'Azcoin, vous reconnaissez que vous avez lu et compris cette politique de confidentialité.",
+      "termsOfService": "Conditions de service",
+      "startStaking": "Commencer à jalonner"
+    },
+    "SwapPage": {
+      "title": "Tokens d'échange",
+      "description": "Acheter ou vendre instantanément des jetons à des prix supérieurs",
+      "from": "Depuis",
+      "to": "À",
+      "max": "Max",
+      "balance": "Équilibre",
+      "minimumReceived": "Minimum reçu",
+      "router": "Routeur",
+      "estimatedFees": "Frais estimés",
+      "slippageTolerance": "Tolérance de glissement",
+      "connectWallet": "Portefeuille de connexion",
+      "insufficientBalance": "Équilibre insuffisant",
+      "enterAmount": "Entrer le montant",
+      "approve": "Approuver",
+      "approving": "Approuvant ...",
+      "swap": "Échanger",
+      "swapping": "Échange ...",
+      "confirmSwap": "Confirmer l'échange",
+      "settings": "Paramètres",
+      "configureSwapSettings": "Configurez vos paramètres d'échange",
+      "close": "Fermer",
+      "transactionDetails": "Détails de la transaction",
+      "priceImpact": "Impact sur les prix",
+      "amountInUSD": "Montant en USD",
+      "amountOutUSD": "Montant de l'USD",
+      "tradingFee": "Frais de négociation (USD)",
+      "warning": "Avertissement",
+      "highPriceImpact": "Un impact élevé des prix peut entraîner des résultats inattendus.",
+      "success": "Succès",
+      "error": "Erreur",
+      "info": "Informations",
+      "sendingTransaction": "Transaction d'envoi ...",
+      "swapSent": "Échange envoyé! ",
+      "swapSuccessful": "Swap réussi!",
+      "swapFailed": "L'échange a échoué. ",
+      "couldNotPrepareTransaction": "Impossible de préparer la transaction: {error}",
+      "youNeedToConnectWallet": "Vous devez d'abord connecter votre portefeuille",
+      "swapSuccessfulTitle": "Échange réussi",
+      "swapSuccessfulDescription": "Votre échange a été terminé avec succès. Vous pouvez maintenant voir les détails de la transaction ci-dessous."
+    },
+    "TokenSelector": {
+      "selectToken": "Sélectionnez un jeton",
+      "searchByToken": "Recherche par token ou adresse de pâte",
+      "popularTokens": "Jetons populaires",
+      "token": "Jeton",
+      "balance": "Équilibre",
+      "loadingTokens": "Chargement des jetons ...",
+      "noTokensFound": "Pas de jetons trouvés. ",
+      "settings": "Paramètres",
+      "slippageTolerance": "Tolérance de glissement"
+    }
+  }

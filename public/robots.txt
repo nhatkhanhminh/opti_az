@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /api/
+Disallow: /app/
+Disallow: /middleware/
+Disallow: /store/
+Disallow: /types/
+Disallow: /ultis/
+Disallow: /hooks/
+Disallow: /Context/
+Disallow: /lib/
+Disallow: /messages/
+Disallow: /i18n/
+Disallow: /db/
+
+# Allow specific public assets
+Allow: /public/assets/
+
+# Sitemap location
+Sitemap: /sitemap.xml

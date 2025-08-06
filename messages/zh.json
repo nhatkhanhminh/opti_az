@@ -1,0 +1,1486 @@
+{
+    "CTASection": {
+        "title": "准备好开始盈利了吗？",
+        "description": "加入成功的质押者社区，今天开始赚取被动收入",
+        "button": "开始质押"
+    },
+    "HeroSection": {
+        "badge": "月收益高达18%",
+        "title": "通过人工智能驱动的",
+        "titleHighlight": "智能质押",
+        "description": "与数千名用户一起，通过智能质押平台赚取被动收入",
+        "startStaking": "开始质押",
+        "stats": {
+            "TotalStaked": "总质押金额",
+            "exchanges": "交易所",
+            "avgReturn": "平均收益率",
+            "totalUsers": "总用户数"
+        },
+        "calculator": {
+            "title": "收益计算器",
+            "description": "计算您的质押金额的潜在收益",
+            "stakeAmount": "质押金额（美元）",
+            "monthly": "月收益",
+            "daily": "日收益",
+            "max": "最大收益",
+            "monthlyAPY": "% 月度",
+            "startEarning": "立即开始赚钱"
+        }
+    },
+    "FeaturesSection": {
+        "title": "为什么选择我们的平台？",
+        "description": "提供人工智能技术驱动的安全、灵活且高回报的质押体验",
+        "features": {
+            "monthlyReturns": {
+                "title": "月度收益",
+                "description": "根据质押金额，最高可获得18%的月收益率（MPY）"
+            },
+            "aiPowered": {
+                "title": "人工智能交易",
+                "description": "我们的人工智能机器人自动在数百个加密货币交易所进行交易"
+            },
+            "secure": {
+                "title": "安全平台",
+                "description": "通过多重签名钱包和实时监控确保您的资产安全"
+            },
+            "referral": {
+                "title": "推荐奖励",
+                "description": "通过推荐计划赚取额外收入"
+            }
+        }
+    },
+    "HowItWorksSection": {
+        "title": "运作方式",
+        "description": "通过几个简单步骤开始获得奖励",
+        "step": "步骤",
+        "steps": {
+            "connectWallet": {
+                "title": "连接钱包",
+                "description": "将您的加密货币钱包安全连接到平台（推荐使用Trust Wallet）"
+            },
+            "chooseStake": {
+                "title": "选择质押",
+                "description": "选择您喜欢的代币和质押金额"
+            },
+            "startEarning": {
+                "title": "开始赚钱",
+                "description": "以具有竞争力的收益率获得月度奖励"
+            },
+            "claimRewards": {
+                "title": "领取奖励",
+                "description": "每天提取收益，直到达到400%的回报"
+            }
+        }
+    },
+    "StakingPlanSection": {
+        "title": "质押计划",
+        "description": "更高的质押带来更好的奖励 - 选择最适合您的计划",
+        "plans": {
+            "starter": {
+                "name": "初级",
+                "min": "最低",
+                "max": "最高",
+                "apy": "年化收益率",
+                "startStaking": "开始质押"
+            },
+            "bronze": {
+                "name": "青铜",
+                "min": "最低",
+                "max": "最高",
+                "apy": "年化收益率",
+                "startStaking": "开始质押"
+            },
+            "silver": {
+                "name": "白银",
+                "min": "最低",
+                "max": "最高",
+                "apy": "年化收益率",
+                "startStaking": "开始质押"
+            },
+            "gold": {
+                "name": "黄金",
+                "min": "最低",
+                "max": "最高",
+                "apy": "年化收益率",
+                "startStaking": "开始质押"
+            },
+            "diamond": {
+                "name": "钻石",
+                "min": "最低",
+                "max": "最高",
+                "apy": "年化收益率",
+                "startStaking": "开始质押"
+            }
+        }
+    },
+    "PartnersSection": {
+        "badge": "值得信赖的合作伙伴",
+        "title": "战略合作伙伴",
+        "description": "与行业领导者合作，提供最安全、最可靠的质押体验"
+    },
+    "PartnerProgramSection": {
+        "badge": "合作伙伴计划",
+        "title": "三级佣金结构",
+        "description": "通过全面的合作伙伴计划创建多重收入来源",
+        "directCommission": {
+            "title": "直接推荐佣金",
+            "description": "从直接推荐及其网络中即时获得佣金",
+            "level": "{level} 级",
+            "commission": "从 {level} 推荐获得直接佣金"
+        },
+        "profitSharing": {
+            "title": "利润分享佣金",
+            "description": "通过10级网络结构获得平台利润的一部分",
+            "requirement": "每当下线领取奖励时，根据级别获得其收益的一定比例",
+            "level": "级别"
+        },
+        "leaderBonus": {
+            "title": "领导绩效奖金",
+            "description": "达到更高的排名并根据团队表现获得额外奖金",
+            "ranks": {
+                "silver": "白银领袖",
+                "gold": "黄金领袖",
+                "platinum": "铂金领袖",
+                "diamond": "钻石领袖",
+                "royal": "皇家领袖"
+            },
+            "f1Volume": "F1 交易量",
+            "teamVolume": "团队交易量",
+            "extraCommission": "额外佣金"
+        },
+        "network": {
+            "title": "建立网络",
+            "description": "从今天开始建立您的网络，通过全面的合作伙伴计划创建多重收入来源",
+            "button": "成为合作伙伴"
+        }
+    },
+    "TradingActivitySection": {
+        "badge": "实时交易",
+        "title": "人工智能交易机器人活动",
+        "description": "查看人工智能机器人在多个交易所实时执行交易",
+        "stats": {
+            "totalTrades": {
+                "title": "今日总交易量",
+                "description": "来自 {count} 个交易所"
+            },
+            "successRate": {
+                "title": "成功率",
+                "description": "盈利交易的比例"
+            },
+            "avgProfit": {
+                "title": "平均利润",
+                "description": "每笔交易"
+            },
+            "realtimeProfit": {
+                "title": "实时利润",
+                "description": "最近2秒"
+            }
+        },
+        "performance": {
+            "title": "交易表现",
+            "tooltip": {
+                "profit": "利润"
+            }
+        },
+        "recentTrades": {
+            "title": "近期交易"
+        }
+    },
+    "FAQSection": {
+        "badge": "常见问题",
+        "title": "常见问题解答",
+        "description": "查找有关平台的常见问题的答案",
+        "categories": {
+            "general": {
+                "title": "常规",
+                "questions": {
+                    "aiStaking": {
+                        "question": "什么是人工智能质押？",
+                        "answer": "人工智能质押平台结合了传统质押和高級人工智能交易算法。人工智能机器人全天候在多个交易所进行交易，为质押者提供最佳收益。"
+                    },
+                    "returns": {
+                        "question": "收益是如何产生的？",
+                        "answer": "收益通过质押奖励和人工智能交易利润的组合产生。我们的系统在严格的风险管理协议下，自动在多个加密货币交易所执行交易，以最大化收益。"
+                    },
+                    "lockup": {
+                        "question": "有锁定期吗？",
+                        "answer": "没有锁定期。您可以每天提取收益。但每个质押在达到初始投资的400%时会自动终止。"
+                    }
+                }
+            },
+            "staking": {
+                "title": "质押",
+                "questions": {
+                    "amounts": {
+                        "question": "最低和最高质押金额是多少？",
+                        "answer": "最低质押金额为100美元。最高金额根据计划而定：初级（100-999美元），青铜（1,000-4,999美元），白银（5,000-9,999美元），黄金（10,000-19,999美元），钻石（20,000美元以上）。"
+                    },
+                    "tokens": {
+                        "question": "可以质押哪些代币？",
+                        "answer": "目前支持USDT、FIL、LINK、BNB质押。根据市场情况和社区需求，我们会定期添加更多代币。"
+                    },
+                    "rewards": {
+                        "question": "奖励可以多久领取一次？",
+                        "answer": "奖励可以每天领取。月度MPY根据质押等级从9%到18%不等，您可以持续获得收益，直到达到初始质押的400%。"
+                    }
+                }
+            },
+            "partner": {
+                "title": "合作伙伴计划",
+                "questions": {
+                    "referral": {
+                        "question": "推荐计划如何运作？",
+                        "answer": "合作伙伴计划提供三种佣金：直接推荐（F1 6%，F2和F3 1%），10级利润分享（1-10%），领导绩效奖金（最高3%额外佣金）。"
+                    },
+                    "requirements": {
+                        "question": "每个领导等级的要求是什么？",
+                        "answer": "领导等级根据团队交易量确定：白银（10万美元），黄金（50万美元），铂金（100万美元），钻石（500万美元），皇家（1000万美元）。每个等级提供更高的佣金和福利。"
+                    },
+                    "commissions": {
+                        "question": "佣金如何计算和支付？",
+                        "answer": "佣金根据推荐人的质押金额和收益计算。以与原始质押相同的代币支付，并可每天领取。"
+                    }
+                }
+            },
+            "security": {
+                "title": "安全性",
+                "questions": {
+                    "platform": {
+                        "question": "平台的安全性如何？",
+                        "answer": "我们实施了多重签名钱包、实时监控系统和定期安全审计等安全措施。人工智能交易系统包含保护用户资金的风险管理协议。"
+                    },
+                    "losses": {
+                        "question": "如果人工智能机器人亏损怎么办？",
+                        "answer": "人工智能系统采用严格的风险管理协议设计。尽管交易存在固有风险，但我们保留准备金以确保无论市场状况如何，都能提供一致的质押奖励。"
+                    },
+                    "audits": {
+                        "question": "智能合约经过审计了吗？",
+                        "answer": "是的，所有智能合约都经过主要区块链安全公司的审计。审计报告公开提供，并定期进行安全评估。"
+                    }
+                }
+            }
+        }
+    },
+    "StakingPage": {
+        "title": "代币质押",
+        "description": "通过灵活的质押选项赚取被动收入",
+        "balance": {
+            "title": "余额",
+            "loading": "加载中..."
+        },
+        "stake": {
+            "title": "代币质押",
+            "description": "输入金额并选择质押计划",
+            "amount": {
+                "label": "金额",
+                "min": "最低",
+                "placeholder": "0.00"
+            },
+            "plans": {
+                "title": "质押计划",
+                "plan": {
+                    "title": "计划",
+                    "mpy": "MPY",
+                    "investmentRange": "投资范围",
+                    "description": "描述",
+                    "mpyNote": "* MPY：月收益率",
+                    "earn": "收益",
+                    "mpyUntil": "直到达到初始投资的400%的MPY",
+                    "names": {
+                        "starter": "初级",
+                        "bronze": "青铜",
+                        "silver": "白银",
+                        "gold": "黄金",
+                        "diamond": "钻石"
+                    }
+                }
+            }
+        },
+        "rules": {
+            "title": "质押规则",
+            "terms": {
+                "title": "质押条件",
+                "items": {
+                    "0": "需要BNB支付交易费用",
+                    "1": "质押奖励每天计算和分配",
+                    "2": "质押在达到初始投资的400%时终止",
+                    "3": "最低质押金额为100美元",
+                    "4": "质押期间MPY比率固定"
+                }
+            },
+            "howItWorks": {
+                "title": "运作方式",
+                "items": {
+                    "0": "选择代币",
+                    "1": "输入金额（最低100美元）",
+                    "2": "自动选择计划和MPY比率",
+                    "3": "确认交易",
+                    "4": "立即获得奖励",
+                    "5": "每24小时领取奖励（70%质押代币 + 30% AZC）",
+                    "6": "达到400%收益后质押终止"
+                }
+            }
+        },
+        "summary": {
+            "title": "质押摘要",
+            "token": "代币",
+            "amount": "金额",
+            "plan": "计划",
+            "mpy": "MPY",
+            "returnCap": "收益上限",
+            "sponsor": "推荐人",
+            "upline": "上线",
+            "estimatedReturns": {
+                "title": "预计收益",
+                "daily": "每日",
+                "monthly": "每月",
+                "yearly": "每年",
+                "total": "总计（400%上限）"
+            }
+        },
+        "buttons": {
+            "max": "最大",
+            "start": "开始",
+            "approve": "批准",
+            "stakeNow": "立即质押",
+            "staking": "质押中...",
+            "addingUpline": "添加上线中...",
+            "approving": "批准中...",
+            "preparing": "准备质押...",
+            "staked": "质押成功",
+            "stakeFailed": "质押失败，请重试"
+        },
+        "errors": {
+            "connectWallet": "请连接钱包",
+            "insufficientBalance": "{token} 余额不足",
+            "maxAmount": "最大金额为 ${amount}",
+            "fillAllFields": "请连接钱包并填写所有字段"
+        }
+    },
+    "DashboardPage": {
+        "title": "仪表盘",
+        "description": "快速概览您的质押投资组合和收益",
+        "stats": {
+            "totalValueStaked": "总质押价值",
+            "totalEarnings": "总收益",
+            "earnedFromStaking": "质押获得的收益",
+            "maxOut": "最大限额",
+            "f1Volume": "F1 交易量"
+        },
+        "quickActions": {
+            "title": "快速操作",
+            "description": "执行质押和推荐管理",
+            "stake": "质押",
+            "referralLink": "推荐链接",
+            "copied": "已复制",
+            "referralAlert": "从推荐人的质押奖励中获得高达12%的佣金"
+        },
+        "latestUpdates": {
+            "title": "最新更新",
+            "description": "查看平台新闻和更新",
+            "news": {
+               "swapFeature": {
+                "title": "交换功能现已进入Beta版",
+                "description": "我们很高兴地宣布，我们的交换功能现已进入Beta版！用户现在可以在AZCoin平台上直接交换代币，享受有竞争力的汇率和低交易费用。该功能与KyberSwap的聚合器集成，以确保在多个去中心化交易所（DEX）中获得最佳汇率。请尝试并分享您的反馈，我们将继续优化体验。",
+                "date": "03-05-2025"
+            },
+                "stakingPlans": {
+                    "title": "推出新的质押计划",
+                    "description": "我们很高兴宣布新的质押等级系统，提供从9%到18%的更高MPY比率。长期质押者可以获得费用折扣、优先支持和新功能的独家访问等额外奖励。新系统旨在奖励社区的奉献并促进可持续增长。",
+                    "date": "2025-02-12"
+                },
+                "securityUpdate": {
+                    "title": "平台安全更新",
+                    "description": "最新的安全更新实施了行业领先的保护措施，包括多重签名钱包、增强的加密协议和实时监控系统。我们还与主要区块链安全公司合作，进行定期审计和渗透测试，以确保您的资产安全。",
+                    "date": "2025-02-11"
+                }
+            }
+        }
+    },
+    "MyStakePage": {
+        "title": "我的质押",
+        "description": "跟踪和管理您的活跃质押",
+        "summary": {
+            "totalStakedValue": "总质押价值",
+            "totalClaimedValue": "总领取价值",
+            "maxOutRemaining": "最大限额剩余",
+            "leaderBadge": "领袖"
+        },
+        "plans": {
+            "0": "初级",
+            "1": "青铜",
+            "2": "白银",
+            "3": "黄金",
+            "4": "钻石"
+        },
+        "filters": {
+            "all": "全部",
+            "claimable": "可领取",
+            "notClaimable": "不可领取"
+        },
+        "stakingCard": {
+            "title": "质押",
+            "monthly": "个月",
+            "days": "天",
+            "hours": "小时",
+            "minutes": "分钟",
+            "rewardDistribution": "奖励分配",
+            "nextReward": "下次奖励（24小时）",
+            "expectedRewards": "预计奖励",
+            "stakedAmount": "质押金额",
+            "claimedAmount": "已领取金额",
+            "progressTo400": "400%进度",
+            "remaining": "剩余",
+            "remainingMaxout": "剩余最大限额",
+            "reservedTime": "预留时间",
+            "nextClaim": "此时间将为下次领取保留",
+            "rewardsNote": "奖励根据初始美元投资价值（{apy}% 月度）计算。这确保无论代币价格波动如何，都能获得稳定的收益。"
+        },
+        "errors": {
+            "loading": "加载质押错误",
+            "connectWallet": "请连接钱包以查看质押",
+            "loadingError": "加载质押数据错误，请稍后再试。",
+            "noStakes": "尚无活跃质押。",
+            "noMatchingStakes": "没有与所选过滤器匹配的质押。"
+        },
+        "buttons": {
+            "claimRewards": "领取奖励",
+            "claiming": "领取中...",
+            "claimSuccess": "领取成功"
+        }
+    },
+    "PartnerPage": {
+        "title": "合作伙伴",
+        "description": "跟踪您的合作伙伴绩效和下线网络",
+        "referralLink": {
+            "title": "我的推荐链接",
+            "description": "分享此链接以从推荐中获得佣金",
+            "connectWallet": "请连接钱包以生成推荐链接",
+            "copy": "复制链接",
+            "copied": "已复制！"
+        },
+        "upline": {
+            "title": "我的上线",
+            "description": "直接推荐人信息",
+            "noUpline": "无上线",
+            "viewOnBscScan": "在BSCScan上查看",
+            "addUpline": "添加上线",
+            "confirming": "确认中...",
+            "addedSuccess": "添加成功",
+            "failedToAdd": "添加失败",
+            "cantSetYourself": "不能将自己设置为上线",
+            "insufficientBNB": "BNB余额不足",
+            "needBNB": "需要BNB来添加上线"
+        },
+        "maxoutCommission": {
+            "title": "最大佣金",
+            "description": "有限收益佣金",
+            "unlimited": "无限制",
+            "leader": "领袖"
+        },
+        "stats": {
+            "totalCommission": {
+                "title": "总佣金",
+                "trend": "上升"
+            },
+            "f1Commission": {
+                "title": "F1 佣金",
+                "description": "F1 人数：{count}"
+            },
+            "systemVolume": {
+                "title": "系统交易量",
+                "trend": "上升"
+            },
+            "f1Volume": {
+                "title": "F1 交易量",
+                "trend": "上升"
+            }
+        },
+        "leaderPerformance": {
+            "title": "领导绩效",
+            "description": "当前等级和进展",
+            "nextLevel": "下一等级：{level}",
+            "level": "等级",
+            "bonus": "佣金",
+            "f1VolumeProgress": "F1 交易量进度",
+            "networkVolumeProgress": "网络交易量进度",
+            "reachSilver": "达到白银领袖需F1交易量3000美元及系统交易量3万美元"
+        },
+        "levelDistribution": {
+            "title": "等级分布",
+            "description": "按等级划分的合作伙伴分布",
+            "f1Partners": "F1 合作伙伴",
+            "totalNetwork": "总网络",
+            "averageLevel": "平均等级"
+        },
+        "downlineNetwork": {
+            "title": "下线网络",
+            "description": "下线列表和投资信息",
+            "searchPlaceholder": "按钱包地址搜索...",
+            "filters": {
+                "level": {
+                    "title": "按等级过滤",
+                    "all": "所有等级",
+                    "direct": "直接（F1）",
+                    "f2": "F2",
+                    "f3": "F3"
+                },
+                "staked": {
+                    "title": "按质押状态过滤",
+                    "all": "全部",
+                    "staked": "已质押",
+                    "notStaked": "未质押"
+                }
+            },
+            "table": {
+                "walletAddress": "钱包地址",
+                "level": "等级",
+                "staked": "质押",
+                "status": "状态",
+                "joinedAt": "加入时间",
+                "actions": "操作",
+                "viewNetwork": "查看网络",
+                "viewTreeNetwork": "查看树形网络",
+                "loading": "加载数据中...",
+                "noData": "无匹配数据",
+                "pagination": {
+                    "previous": "上一页",
+                    "next": "下一页",
+                    "page": "第 {current} 页 / 共 {total} 页",
+                    "displaying": "显示 {displayed} 条 / 共 {total} 条下线"
+                }
+            }
+        }
+    },
+    "ReferralTreePage": {
+        "title": "推荐树",
+        "description": "可视化您的整个推荐网络结构",
+        "searchPlaceholder": "按钱包地址搜索...",
+        "filters": {
+            "level": {
+                "title": "按等级过滤",
+                "all": "所有等级",
+                "direct": "直接（F1）",
+                "f2": "F2",
+                "f3": "F3"
+            }
+        },
+        "nodeInfo": {
+            "title": "节点信息",
+            "walletAddress": "钱包地址",
+            "level": "等级",
+            "totalInvestment": "总投资",
+            "copy": "复制",
+            "copied": "已复制！",
+            "viewOnBscScan": "在BSCScan上查看",
+            "close": "关闭"
+        },
+        "loading": "加载树形可视化中...",
+        "noData": "无数据",
+        "tip": "提示：点击节点以扩展或折叠分支。使用缩放控件调整视图。"
+    },
+    "FAQPage": {
+        "title": "常见问题解答",
+        "description": "查找有关平台的常见问题的答案",
+        "search": {
+            "placeholder": "按问题或关键字搜索..."
+        },
+        "categories": {
+            "all": "所有常见问题",
+            "general": "常规",
+            "smartContract": "智能合约",
+            "staking": "质押",
+            "security": "安全性",
+            "partnerProgram": "合作伙伴计划"
+        },
+        "noResults": {
+            "title": "无问题",
+            "description": "请调整搜索词或浏览类别。"
+        },
+        "stillNeedHelp": {
+            "title": "仍有疑问？",
+            "description": "如果您没有找到问题的答案，请联系我们的支持团队。我们提供24/7帮助。",
+            "contactSupport": "联系支持团队",
+            "joinTelegram": "加入Telegram频道"
+        },
+        "questions": {
+            "general": {
+                "aiStaking": {
+                    "question": "什么是人工智能质押？",
+                    "answer": "人工智能质押平台结合了传统质押和高級人工智能交易算法。人工智能机器人全天候在多个交易所进行交易，为质押者提供最佳收益。"
+                },
+                "whatIsAzcoin": {
+                    "question": "什么是Azcoin？",
+                    "answer": "Azcoin是一个基于区块链的质押平台，允许用户通过质押FIL、BNB等代币赚取稳定收益，提供多级佣金系统和每日收益机会。"
+                },
+                "maxOutLimit": {
+                    "question": "什么是最大限额？",
+                    "answer": "最大限额将总佣金收入限制为投资金额的4倍。例如，质押100美元，推荐和利润分享的总佣金将限制在400美元。",
+                    "abbreviation": "最大限额"
+                },
+                "returns": {
+                    "question": "收益是如何产生的？",
+                    "answer": "收益通过质押奖励和人工智能交易利润的组合产生。我们的系统在严格的风险管理协议下，自动在多个加密货币交易所执行交易，以最大化收益。"
+                },
+                "lockup": {
+                    "question": "有锁定期吗？",
+                    "answer": "没有锁定期。您可以每天提取收益。但每个质押在达到初始投资的400%时会自动终止。"
+                },
+                "tokens": {
+                    "question": "可以质押哪些代币？",
+                    "answer": "目前支持USDT、FIL、LINK、BNB质押。根据市场情况和社区需求，我们会定期添加更多代币。"
+                }
+            },
+            "smartContract": {
+                "blockchain": {
+                    "question": "平台使用哪个区块链？",
+                    "answer": "我们的平台使用币安智能链（BSC），提供快速交易和低费用。"
+                },
+                "audit": {
+                    "question": "智能合约经过审计了吗？",
+                    "answer": "是的，智能合约由CertiK和PeckShield等主要区块链安全公司审计。审计报告可在网站安全部分公开查看。"
+                },
+                "rewards": {
+                    "question": "智能合约如何处理奖励分配？",
+                    "answer": "智能合约根据质押等级和持续时间自动计算奖励。奖励每天分配，可随时领取。使用时间加权平均值确保公平分配。"
+                },
+                "congestion": {
+                    "question": "如果网络拥堵会怎样？",
+                    "answer": "智能合约设计为有效处理网络拥堵。在网络流量高时，合约会将交易排队，并在网络稳定后按顺序处理，确保奖励不会丢失。"
+                },
+                "interaction": {
+                    "question": "可以直接与智能合约交互吗？",
+                    "answer": "是的，高级用户可以通过区块链浏览器或钱包界面直接与智能合约交互。但为获得最佳体验和避免错误，建议使用平台界面。"
+                },
+                "address": {
+                    "question": "合约地址是什么？",
+                    "answer": "主要质押合约地址为0xc2d8434B6875394637e5a943c2103639E22D26D5。请始终在官方网站验证此地址以防诈骗。"
+                }
+            },
+            "staking": {
+                "profitDistribution": {
+                    "question": "领取时收益如何分配？",
+                    "answer": "收益以70%原始质押代币和30%AZC代币（1 AZC = 1 USDT，未来增加流动性）支付。此外，推荐人通过10级获得利润分享佣金：20-10-5-5-5-1-1-1-1-1%。"
+                },
+                "amounts": {
+                    "question": "最低和最高质押金额是多少？",
+                    "answer": "最低质押金额为100美元。最高金额根据等级而定：初级（100-999美元），青铜（1,000-4,999美元），白银（5,000-9,999美元），黄金（10,000-19,999美元），钻石（20,000美元以上）。"
+                },
+                "rewards": {
+                    "question": "奖励可以多久领取一次？",
+                    "answer": "奖励可以每天领取。月度MPY根据质押等级从9%到18%不等，您可以持续获得收益，直到达到初始质押的400%。"
+                },
+                "maxReturn": {
+                    "question": "达到400%收益后会怎样？",
+                    "answer": "质押在达到包含初始质押金额的400%收益时自动终止。"
+                },
+                "addFunds": {
+                    "question": "可以向现有质押添加资金吗？",
+                    "answer": "不可以，每个质押都作为一个单独的头寸处理，具有自己的MPY比率和400%上限。若要质押更多，需创建新的质押头寸。"
+                },
+                "mpyRates": {
+                    "question": "MPY比率如何确定？",
+                    "answer": "MPY比率根据质押金额确定的质押等级而定。更高等级获得更高MPY比率：初级（9%），青铜（11%），白银（13%），黄金（15%），钻石（18%）。"
+                },
+                "missClaim": {
+                    "question": "如果错过每日收益领取会怎样？",
+                    "answer": "您可以在24小时后的任何时间领取收益，但每个周期只能领取一次。额外时间将滚入下一个领取周期（例如，30小时后领取，10小时将计入下一个周期）。"
+                }
+            },
+            "security": {
+                "platform": {
+                    "question": "平台的安全性如何？",
+                    "answer": "我们实施了多重签名钱包、实时监控系统和定期安全审计等安全措施。人工智能交易系统包含保护用户资金的风险管理协议。"
+                },
+                "losses": {
+                    "question": "如果人工智能机器人亏损怎么办？",
+                    "answer": "人工智能系统采用严格的风险管理协议设计。尽管交易存在固有风险，但我们保留准备金以确保无论市场状况如何，都能提供一致的质押奖励。"
+                },
+                "userData": {
+                    "question": "用户数据如何保护？",
+                    "answer": "我们对所有用户数据和通信使用行业标准加密。我们遵守严格的数据保护政策，未经同意不与第三方共享信息。"
+                },
+                "twoFactor": {
+                    "question": "有双重身份验证（2FA）吗？",
+                    "answer": "没有，用户使用钱包地址连接到平台。"
+                }
+            },
+            "partnerProgram": {
+                "referral": {
+                    "question": "推荐计划如何运作？",
+                    "answer": "合作伙伴计划提供三种佣金：直接推荐（F1 6%，F2和F3 1%），10级利润分享（1-10%），领导绩效奖金（最高11%额外佣金）。"
+                },
+                "requirements": {
+                    "question": "每个领导等级的要求是什么？",
+                    "answer": "领导等级根据团队交易量确定：白银 +3%（3万美元团队 - 3000美元F1），黄金 +5%（10万美元团队 - 5000美元F1），铂金 +7%（20万美元团队 - 1万美元F1），钻石 +9%（35万美元团队 - 1.5万美元F1），皇家 +11%（50万美元团队 - 2万美元F1）。每个等级提供更高的佣金和福利。"
+                },
+                "commissions": {
+                    "question": "佣金如何计算和支付？",
+                    "answer": "佣金根据推荐人的质押金额和收益计算。以与原始质押相同的代币支付，并可每天领取。"
+                },
+                "referralLimit": {
+                    "question": "推荐人数有限制吗？",
+                    "answer": "没有，您可以直接推荐的人数没有限制。推荐更多人可以从合作伙伴计划中获得更高的潜在收益。"
+                }
+            }
+        }
+    },
+    "TokenPage": {
+        "title": "AZ Coin (AZC)",
+        "description": "引领去中心化质押和人工智能交易的未来",
+        "metrics": {
+            "totalSupply": {
+                "title": "总供应量",
+                "value": "21,000,000",
+                "unit": "AZC 代币"
+            },
+            "targetPrice": {
+                "title": "目标价格",
+                "value": "$10 - $15",
+                "unit": "每AZC"
+            },
+            "tokenType": {
+                "title": "代币类型",
+                "value": "BEP-20",
+                "unit": "币安智能链"
+            }
+        },
+        "allocation": {
+            "title": "代币分配",
+            "description": "AZC代币被战略分配以确保可持续增长和生态系统发展",
+            "totalSupply": "总供应量：21,000,000 AZC",
+            "distribution": "分配",
+            "breakdown": "分配明细",
+            "breakdownDescription": "按类别详细代币分配",
+            "chart": {
+                "pie": "饼图",
+                "bar": "柱状图"
+            }
+        },
+        "releaseSchedule": {
+            "title": "代币释放计划",
+            "description": "为确保可持续增长和市场稳定性的战略代币释放",
+            "timeline": "释放时间表",
+            "timelineDescription": "季度代币分配计划",
+            "breakdown": "释放明细",
+            "breakdownDescription": "累计代币释放",
+            "released": "已释放"
+        },
+        "utility": {
+            "title": "代币用途",
+            "description": "AZC代币通过多种用例和好处驱动生态系统",
+            "features": {
+                "stakingrewards": {
+                    "title": "质押奖励",
+                    "description": "以具有竞争力的APY比率质押AZC代币以赚取被动收入"
+                },
+                "platformgovernance": {
+                    "title": "平台治理",
+                    "description": "投票决定主要平台决策并塑造生态系统的未来"
+                },
+                "transactionfeediscounts": {
+                    "title": "交易费用折扣",
+                    "description": "在平台交易中使用AZC时获得费用折扣"
+                },
+                "gamingrewards": {
+                    "title": "游戏奖励",
+                    "description": "在集成的游戏生态系统中赚取和使用AZC代币"
+                },
+                "exclusiveaccess": {
+                    "title": "独家访问",
+                    "description": "解锁高级功能和新平台功能的早期访问"
+                },
+                "globalpayments": {
+                    "title": "全球支付",
+                    "description": "在合作伙伴网络中使用AZC进行快速、安全的交易"
+                }
+            }
+        },
+        "details": {
+            "title": "代币详情",
+            "description": "技术规格和合约信息",
+            "name": "代币名称",
+            "symbol": "符号",
+            "totalSupply": "总供应量",
+            "targetPrice": "目标价格",
+            "blockchain": "区块链",
+            "tokenType": "代币类型",
+            "contractAddress": "合约地址",
+            "copySuccess": "合约地址已复制"
+        },
+        "burn": {
+            "title": "AZC 燃烧计划",
+            "desc": "每周日，从 {date} 开始，{amount} AZC 将被燃烧 2 年。这个计划旨在支持健康的可持续的代币经济。",
+            "card": {
+                "totalWeeks": "总周数",
+                "totalToBurn": "总燃烧量",
+                "startDate": "开始日期",
+                "weeklyAmount": "每周燃烧数量",
+                "alreadyBurned": "已燃烧"
+            },
+            "purpose": "燃烧AZC代币的目的是减少流通供应，增加投资者的价值，并确保生态系统的可持续性发展。"
+        },
+        "getToken": {
+            "title": "如何获取AZC",
+            "description": "获取AZ Coin并参与生态系统的多种方式",
+            "exchanges": {
+                "title": "在交易所购买",
+                "description": "在合作伙伴交易所以具有竞争力的价格购买AZC代币",
+                "button": "即将推出"
+            },
+            "staking": {
+                "title": "质押奖励",
+                "description": "通过质押支持的其他加密货币获得AZC代币奖励",
+                "button": "开始质押"
+            },
+            "referral": {
+                "title": "推荐计划",
+                "description": "通过将新用户推荐到平台赚取AZC代币佣金",
+                "button": "加入合作伙伴计划"
+            }
+        },
+        "cta": {
+            "title": "准备好加入AZC生态系统了吗？",
+            "description": "使用AZ Coin开始您的旅程，开启去中心化金融的未来",
+            "staking": "开始质押",
+            "roadmap": "查看路线图"
+        }
+    },
+    "AboutPage": {
+        "hero": {
+            "badge": "关于我们",
+            "title": "人工智能驱动的金融创新",
+            "description": "通过人工智能和区块链技术构建去中心化金融的未来",
+            "content": {
+                "paragraph1": "AZ Coin (AZC) 引领人工智能与区块链技术的融合。我们的使命是将复杂的交易策略和金融工具民主化，这些工具之前仅限于机构投资者。",
+                "paragraph2": "通过多链质押、人工智能交易和互动游戏组成的创新生态系统，我们为用户创造了增长数字资产并为充满活力的社区做出贡献的新机会。",
+                "buttons": {
+                    "explore": "探索AZC",
+                    "roadmap": "查看路线图"
+                }
+            }
+        },
+        "mission": {
+            "title": "使命与愿景",
+            "description": "以清晰的原则和雄心勃勃的目标引领",
+            "mission": {
+                "title": "我们的使命",
+                "content": "通过结合人工智能和区块链技术，民主化复杂金融工具的访问，为所有人创造参与金融未来的机会。",
+                "points": {
+                    "1": "为所有人提供人工智能交易",
+                    "2": "在多条区块链上创造可持续的收益机会",
+                    "3": "通过创新游戏和社交功能构建活跃社区"
+                }
+            },
+            "vision": {
+                "title": "我们的愿景",
+                "content": "成为人工智能与区块链融合的领先平台，构建金融包容、财富创造和技术创新的新范式。",
+                "points": {
+                    "1": "引领去中心化金融中高级人工智能模型的整合",
+                    "2": "到2026年实现生态系统内100万活跃用户",
+                    "3": "将AZC确立为人工智能-区块链空间的领先实用代币"
+                }
+            }
+        },
+        "ecosystem": {
+            "badge": "生态系统",
+            "title": "AZC生态系统",
+            "description": "由AZC代币驱动的互连产品和服务综合套件",
+            "components": {
+                "multichainStaking": {
+                    "title": "多链质押",
+                    "description": "在以太坊、BSC、Solana等多条区块链上质押，获得AZC代币的统一奖励。"
+                },
+                "aiTrading": {
+                    "title": "人工智能交易",
+                    "description": "分析主要交易所市场模式，自动执行盈利交易的高级人工智能模型。"
+                },
+                "telegramGaming": {
+                    "title": "Telegram游戏",
+                    "description": "通过Telegram直接访问的玩赚游戏，提供AZC代币奖励和社交功能。"
+                },
+                "crossExchange": {
+                    "title": "跨交易所套利",
+                    "description": "识别并利用Hyperliquid、Binance、Bybit等交易所之间价格差异的自动化系统。"
+                },
+                "aiBots": {
+                    "title": "人工智能交易机器人",
+                    "description": "为AZC代币持有者提供的由专有人工智能模型驱动的定制交易机器人。"
+                },
+                "wallet": {
+                    "title": "去中心化钱包",
+                    "description": "集质押、交易、游戏功能于一体的安全多链钱包，提供无缝体验。"
+                }
+            },
+            "growth": {
+                "title": "生态系统增长",
+                "description": "随时间推移的用户采用情况",
+                "activeUsers": "活跃用户"
+            },
+            "distribution": {
+                "title": "生态系统分布",
+                "description": "平台活动明细",
+                "activity": "活动"
+            }
+        },
+        "aiTechnology": {
+            "badge": "技术",
+            "title": "我们的人工智能技术",
+            "description": "驱动交易系统的尖端人工智能",
+            "features": {
+                "multiModel": {
+                    "title": "多模型整合",
+                    "description": "结合多个专门的人工智能模型，优化不同市场条件和交易策略的系统。"
+                },
+                "patternRecognition": {
+                    "title": "实时模式识别",
+                    "description": "在多个时间框架内识别人类交易者可能错过的复杂模式的高级神经网络。"
+                },
+                "sentimentAnalysis": {
+                    "title": "情感分析",
+                    "description": "分析新闻、社交媒体和市场情绪以预测价格走势的自然语言处理模型。"
+                },
+                "riskManagement": {
+                    "title": "风险管理算法",
+                    "description": "根据市场波动性和风险评估动态调整头寸规模和杠杆的复杂算法。"
+                },
+                "crossExchange": {
+                    "title": "跨交易所优化",
+                    "description": "监控流动性和订单簿，以最佳价格和最小滑点执行交易的人工智能系统。"
+                },
+                "continuousLearning": {
+                    "title": "持续学习",
+                    "description": "通过强化学习，模型持续改进并适应不断变化的市场条件。"
+                }
+            },
+            "power": {
+                "title": "人工智能整合的力量",
+                "description": "我们的专有系统结合了针对特定市场条件和交易策略训练的多个专门人工智能模型。通过整合这些模型并持续优化性能，我们能够在Hyperliquid、Binance、Bybit等主要交易所以无与伦比的准确性识别盈利交易机会。"
+            }
+        },
+      "team": {
+        "badge": "我们的团队",
+        "title": "认识团队",
+        "description": "人工智能、区块链和金融市场专家携手打造未来",
+        "testimonials": {
+            "passa": {
+                "quote": "麻省理工金融学硕士。12年金融经验，6年区块链经验。前高盛和Coinbase高级经理。去中心化金融（DeFi）先驱。",
+                "name": "帕萨·罗德里格斯",
+                "designation": "首席执行官"
+            },
+            "dmitri": {
+                "quote": "计算机科学博士。以太坊基金会贡献者。开发了总锁仓价值超30亿美元的DeFi项目。智能合约专家。",
+                "name": "德米特里·沃尔科夫",
+                "designation": "InnovateSphere首席技术官"
+            },
+            "jessica": {
+                "quote": "曾在币安担任营销策略师。领导覆盖超1000万用户的营销活动。自2017年起倡导区块链技术。",
+                "name": "杰西卡·王",
+                "designation": "首席营销官"
+            },
+            "james": {
+                "quote": "谷歌背景的网络安全专家。道德黑客。保护了价值超5亿美元的多个DeFi协议。",
+                "name": "詹姆斯·金",
+                "designation": "首席安全官"
+            },
+            "michael": {
+                "quote": "前Aave运营负责人。在20多个市场推出项目。沃顿商学院MBA。优化平台效率。",
+                "name": "迈克尔·罗德里格斯",
+                "designation": "首席运营官"
+            }
+        }
+    },
+    "cta": {
+        "title": "加入AZC革命",
+        "description": "成为AI和区块链融合创造前所未有的机会的未来的一部分",
+        "buttons": {
+            "staking": "开始质押",
+            "token": "了解AZC代币"
+        }
+    }
+    },
+   "Navbar": {
+        "routes": {
+            "home": "首页",
+            "dashboard": "仪表板",
+            "staking": "质押",
+            "swap": "兑换",
+            "mystake": "我的质押",
+            "partner": "合作伙伴",
+            "token": "代币经济学",
+            "about": "关于我们",
+            "roadmap": "路线图",
+            "mediaResource": "资源",
+            "faqs": "常见问题"
+        },
+        "menu": {
+            "about": "关于",
+            "more": "更多",
+            "manager": "管理"
+        },
+        "descriptions": {
+            "tokenomics": "OptiFund 的代币经济学分配与经济模型",
+            "about": "了解更多关于 OptiFund 项目和团队的信息",
+            "roadmap": "OptiFund 的发展路线图和未来计划",
+            "swap": "快速、便捷地与 OptiFund 兑换您的代币",
+            "resource": "媒体资源和新闻材料",
+            "faqs": "关于 OptiFund 的常见问题",
+            "dashboard": "查看您的 OptiFund 统计数据和分析",
+            "mystake": "管理您的质押 OptiFund 代币",
+            "partner": "关于 OptiFund 合作伙伴的信息"
+        },
+        "connect": {
+            "title": "登录 OptiFund",
+            "connecting": "正在连接...",
+            "connect": "连接"
+        }
+    },
+    
+        "SuccessModal": {
+            "title": "质押成功！",
+            "description": "您的代币已成功质押",
+            "details": {
+                "amountStaked": "质押数量：",
+                "value": "价值：",
+                "estimatedMPY": "预计月收益率：",
+                "month": "月"
+            },
+            "buttons": {
+                "close": "关闭",
+                "viewStakes": "查看我的质押"
+            }
+        },
+    
+        
+            "MobileBottom": {
+                "routes": {
+                    "home": "首页",
+                    "stake": "质押",
+                    "dashboard": "仪表板",
+                    "mystake": "我的质押",
+                    "partner": "合作伙伴",
+                    "about": "关于我们",
+                    "faqs": "常见问题",
+                    "more": "更多",
+                    "token": "代币",
+                    "roadmap": "路线图",
+                    "swap": "兑换",
+                    "resource": "资源",
+                    "theme": "主题"
+                }
+            },
+        
+        "WalletConnect": {
+            "title": "钱包详情",
+            "description": "查看您的钱包余额并管理您的加密资产。",
+            "tokenBalances": "代币余额",
+            "showLess": "显示更少",
+            "showAll": "显示全部",
+            "disconnect": "断开连接",
+            "copy": {
+                "success": "钱包地址已复制"
+            }
+        },
+        "Footer": {
+            "slogan": "人工智能驱动回报的智能质押",
+            "sections": {
+                "products": {
+                    "title": "产品",
+                    "items": {
+                        "staking": "质押",
+                        "swap": "兑换"
+                    }
+                },
+                "azcToken": {
+                    "title": "AZC 代币",
+                    "items": {
+                        "tokenomics": "代币经济学",
+                        "roadmap": "路线图",
+                        "mediaResource": "媒体资源"
+                    }
+                },
+                "company": {
+                    "title": "公司",
+                    "items": {
+                        "about": "关于我们",
+                        "faqs": "常见问题",
+                        "privacyPolicy": "隐私政策",
+                        "termsOfService": "服务条款"
+                    }
+                },
+                "connect": {
+                    "title": "与我们联系",
+                    "items": {
+                        "email": "hello@optifund.app",
+                        "support": "与支持团队聊天"
+                    },
+                    "social": {
+                        "telegram": "Telegram",
+                        "twitter": "X.com",
+                        "youtube": "Youtube"
+                    }
+                }
+            },
+            "copyright": "© 2025 optifund.app | 保留所有权利。"
+        },
+        "TermsOfService": {
+            "backToHome": "返回主页",
+            "legalBadge": "法律",
+            "title": "服务条款",
+            "lastUpdated": "最后更新：2024年3月9日",
+            "introduction": {
+                "title": "引言",
+                "content": "欢迎体验 Azcoin！本服务条款（“条款”）规范您对我们质押平台及服务的访问和使用。访问 Azcoin 即表示您同意本条款。如您不同意，请勿使用我们的平台。"
+            },
+            "eligibility": {
+                "title": "资格要求",
+                "items": {
+                    "age": "您必须年满 18 周岁并具备签订合同的法律能力，方可使用 Azcoin。",
+                    "laws": "您有责任遵守您所在司法管辖区内的所有适用法律。"
+                }
+            },
+            "account": {
+                "title": "账户注册",
+                "items": {
+                    "register": "您必须使用准确且完整的信息注册账户以使用 Azcoin。",
+                    "responsibility": "您有责任保护账户凭证的机密性，并对您账户下发生的所有行为负责。"
+                }
+            },
+            "staking": {
+                "title": "质押与收益",
+                "mechanism": {
+                    "title": "质押机制",
+                    "content": "通过质押代币，您同意我们质押合同中概述的自动资金分配（例如，分配给开发、市场推广、领导者和资金池）。"
+                },
+                "profitClaims": {
+                    "title": "收益提取",
+                    "content": "您可以每 24 小时提取一次收益，最高可达质押金额的 400%（以 USDT 计算）。"
+                },
+                "maxOutLimit": {
+                    "title": "最大限额",
+                    "content": "总佣金收益上限为初始投资的 4 倍。"
+                }
+            },
+            "referral": {
+                "title": "推荐计划",
+                "content": "Azcoin 提供多级推荐系统。佣金取决于您的上线结构，如会员合同中定义。",
+                "details": "推荐和利润分享的详细信息可在我们的常见问题解答和质押文档中找到。",
+                "commissionStructure": {
+                    "title": "佣金结构",
+                    "f1": "直接推荐 (F1)",
+                    "f2": "二级 (F2)",
+                    "f3": "三级 (F3)",
+                    "f1Rate": "6%",
+                    "f2Rate": "1%",
+                    "f3Rate": "1%"
+                }
+            },
+            "tokenUsage": {
+                "title": "代币使用与 AZC 代币",
+                "swap": "质押的代币通过 Uniswap 转换为 USDT 以进行收益计算。",
+                "distribution": "收益分配为 70% 以原始代币形式，30% 以 AZC 代币形式，AZC 代币价值为 1 USDT。",
+                "profitDistribution": {
+                    "title": "收益分配",
+                    "originalToken": "原始代币",
+                    "azcToken": "AZC 代币",
+                    "originalTokenRate": "70%",
+                    "azcTokenRate": "30%"
+                }
+            },
+            "responsibilities": {
+                "title": "用户责任",
+                "items": {
+                    "taxes": "您需自行承担与质押和收益相关的任何税收或法律义务。",
+                    "fraud": "您不得从事欺诈行为，例如操纵推荐系统或利用平台漏洞。"
+                }
+            },
+            "intellectualProperty": {
+                "title": "知识产权",
+                "content": "Azcoin 上的所有内容、标志和材料均归 Azcoin 或其许可方所有，并受知识产权法保护。",
+                "permission": "未经书面许可，您不得使用或复制我们的内容。"
+            },
+            "liability": {
+                "title": "责任限制",
+                "warranty": "Azcoin 按“现状”提供，不提供任何担保。我们不保证不间断访问、准确性或完全安全性。",
+                "damages": "我们对因您使用平台而导致的任何直接、间接或后果性损害不承担责任。"
+            },
+            "termination": {
+                "title": "终止",
+                "content": "如果您违反本条款或从事禁止活动，我们可暂停或终止您的账户。",
+                "effect": "终止后，您对 Azcoin 的访问将停止，但某些条款（例如争议解决）仍有效。",
+                "prohibitedActivities": {
+                    "title": "禁止活动",
+                    "items": {
+                        "multipleAccounts": "创建多个账户以操纵推荐系统",
+                        "hacking": "尝试入侵、中断或破坏平台",
+                        "illegal": "将平台用于非法活动或洗钱",
+                        "misinformation": "传播有关平台的虚假或误导性信息"
+                    }
+                }
+            },
+            "disputeResolution": {
+                "title": "争议解决",
+                "arbitration": "争议将通过在新加坡进行的具有约束力的仲裁解决，遵循新加坡国际仲裁中心（SIAC）规则。",
+                "classAction": "您放弃参与集体诉讼或集体仲裁的权利。",
+                "arbitrationProcess": {
+                    "title": "仲裁流程",
+                    "steps": {
+                        "notice": "必须向 Azcoin 提交书面争议通知",
+                        "negotiation": "30 天的诚信谈判期",
+                        "language": "如未能解决，仲裁将使用英语进行",
+                        "decision": "仲裁员的决定为最终且具有约束力",
+                        "fees": "各方自行承担各自的法律费用和开支"
+                    }
+                }
+            },
+            "changes": {
+                "title": "条款变更",
+                "content": "我们可能定期修改本条款。更新将发布在此，继续使用 Azcoin 表示您接受更新。",
+                "notificationProcess": {
+                    "title": "通知流程",
+                    "description": "当我们对本条款进行重大变更时，我们将通过以下方式通知您：",
+                    "methods": {
+                        "email": "电子邮件通知（如果您提供了电子邮件）",
+                        "website": "网站上的通知",
+                        "inApp": "应用内通知"
+                    }
+                }
+            },
+            "contact": {
+                "title": "联系我们",
+                "content": "如有关于本条款的问题，请联系我们：",
+                "email": "邮箱: hello@azcoin.com",
+                "address": "地址: Azcoin Headquarters, 20 Prince Well Rd, North Yarmouth, Maine(ME)",
+                "response": "响应时间",
+                "responseTime": "我们努力在48小时内回复所有查询，并在14天内解决任何问题。"
+            },
+            "additionalTerms": {
+                "title": "附加条款",
+                "forceMajeure": {
+                    "title": "不可抗力",
+                    "content": "对于因我们合理控制范围之外的情况（包括但不限于自然灾害、战争、恐怖主义、暴乱、禁运、民事或军事当局行为、火灾、洪水、事故、网络基础设施故障、罢工或运输设施、燃料、能源、劳动或材料短缺）导致的任何失败或延误，Azcoin 不承担责任。"
+                },
+                "severability": {
+                    "title": "可分割性",
+                    "content": "如果本条款的任何条款被认为不可执行或无效，该条款将以最小程度限制或删除，以使条款的其余部分继续保持完全有效和可执行。"
+                },
+                "assignment": {
+                    "title": "转让",
+                    "content": "未经 Azcoin 事先书面同意，您不得通过法律或其他方式转让或转移本条款。您尝试在未经同意的情况下转让或转移本条款的行为将无效。Azcoin 可自由转让或转移本条款，不受限制。"
+                },
+                "entireAgreement": {
+                    "title": "完整协议",
+                    "content": "本条款构成您与 Azcoin 之间关于平台使用的完整协议，并取代所有先前和同期的协议、提议或陈述，无论是书面还是口头，涉及其主题。"
+                }
+            },
+            "acceptance": "使用 Azcoin 的服务即表示您已阅读、理解并同意受本服务条款的约束。",
+            "privacyPolicy": "隐私政策",
+            "startStaking": "开始质押"
+        },
+        "PrivacyPolicy": {
+            "backToHome": "返回主页",
+            "legalBadge": "法律",
+            "title": "隐私政策",
+            "lastUpdated": "最后更新：2024年3月9日",
+            "introduction": {
+                "title": "引言",
+                "content": "在 Azcoin，我们重视您的隐私，并致力于保护您的个人信息。本隐私政策解释了我们在您与我们的质押平台及服务互动时，如何收集、使用和保护您的数据。"
+            },
+            "informationCollection": {
+                "title": "我们收集的信息",
+                "personalInfo": {
+                    "title": "个人信息",
+                    "content": "当您注册或使用我们的平台时，我们可能会收集您的姓名、电子邮件地址、钱包地址和其他联系方式。"
+                },
+                "transactionData": {
+                    "title": "交易数据",
+                    "content": "我们会收集有关您质押活动的详细信息，例如代币存款、收益提取和推荐佣金。"
+                },
+                "technicalData": {
+                    "title": "技术数据",
+                    "content": "我们可能会收集您的 IP 地址、浏览器类型、设备信息和使用数据，以增强安全性并改进我们的服务。"
+                }
+            },
+            "informationUsage": {
+                "title": "我们如何使用您的信息",
+                "serviceProvision": {
+                    "title": "提供服务",
+                    "content": "用于管理您的质押、处理交易和提供客户支持。"
+                },
+                "communication": {
+                    "title": "沟通",
+                    "content": "用于向您发送有关 Azcoin 的更新、通知和促销优惠。"
+                },
+                "security": {
+                    "title": "安全",
+                    "content": "用于检测和防止欺诈、未经授权的访问或非法活动。"
+                },
+                "analytics": {
+                    "title": "分析",
+                    "content": "用于研究使用趋势并优化平台性能和用户体验。"
+                }
+            },
+            "dataSharing": {
+                "title": "数据共享与披露",
+                "thirdParty": {
+                    "title": "第三方合作伙伴",
+                    "content": "我们可能会与帮助我们运营平台的受信任服务提供商（例如，支付处理器、分析工具）共享您的数据。"
+                },
+                "legalRequirements": {
+                    "title": "法律要求",
+                    "content": "如果法律要求或为了保护我们的权利和用户的安全，我们可能会披露您的信息。"
+                },
+                "blockchainTransparency": {
+                    "title": "区块链透明性",
+                    "content": "请注意，区块链上的交易是公开的。您的钱包地址和交易详情可能在区块链网络上可见。"
+                }
+            },
+            "dataSecurity": {
+                "title": "数据安全",
+                "content": "我们采用行业标准措施，如加密、安全服务器和定期审计，以保护您的数据。然而，没有系统是 100% 安全的，我们无法保证绝对保护。",
+                "securityMeasures": {
+                    "servers": "定期更新安全性的加密安全服务器",
+                    "encryption": "敏感数据传输的端到端加密",
+                    "audits": "定期安全审计和漏洞评估"
+                }
+            },
+            "userRights": {
+                "title": "您的权利",
+                "access": {
+                    "title": "访问和更正",
+                    "content": "您可以请求访问您的数据或更正任何不准确之处。"
+                },
+                "deletion": {
+                    "title": "删除",
+                    "content": "您可以请求删除数据，但需遵守法律或合同义务。"
+                },
+                "optOut": {
+                    "title": "退出",
+                    "content": "您可以随时取消订阅促销电子邮件。"
+                }
+            },
+            "cookies": {
+                "title": "Cookies 与跟踪",
+                "description": "我们使用 cookies 和类似技术来改善您的体验、分析使用情况并提供定制内容。您可以在浏览器中调整 cookie 设置。",
+                "types": {
+                    "essential": {
+                        "title": "必要 Cookies",
+                        "badge": "必需",
+                        "description": "网站正常运行所必需"
+                    },
+                    "functional": {
+                        "title": "功能 Cookies",
+                        "badge": "可选",
+                        "description": "记住您的偏好和设置"
+                    },
+                    "analytics": {
+                        "title": "分析 Cookies",
+                        "badge": "可选",
+                        "description": "帮助我们了解访问者如何与我们的网站互动"
+                    }
+                }
+            },
+            "policyChanges": {
+                "title": "政策变更",
+                "content": "我们可能会不时更新本隐私政策。变更将发布在此，您继续使用 Azcoin 表示接受更新的政策。",
+                "updateProcess": {
+                    "title": "政策更新流程",
+                    "description": "当我们对此政策进行重大变更时，我们将通过以下方式通知您：",
+                    "methods": [
+                        "电子邮件通知（如果您提供了电子邮件）",
+                        "网站上的通知",
+                        "应用内通知"
+                    ]
+                },
+                "previousVersions": {
+                    "title": "历史版本",
+                    "content": "您可以通过联系我们请求访问我们隐私政策的先前版本。"
+                }
+            },
+            "contact": {
+                "title": "联系我们",
+                "description": "如对本隐私政策有任何疑问或担忧，请通过以下方式联系我们：",
+                "email": "电子邮件：hello@optifund.app",
+                "address": "地址：Azcoin 总部，美国缅因州北亚茅斯王子井路 20 号",
+                "dpo": "数据保护官：John Smith",
+                "responseTime": {
+                    "title": "响应时间",
+                    "content": "我们致力于在 48 小时内回复所有与隐私相关的询问，并在 14 天内解决任何问题。"
+                }
+            },
+            "additionalInfo": {
+                "title": "附加信息",
+                "internationalTransfers": {
+                    "title": "国际数据传输",
+                    "content": "您的信息可能会被传输到您居住国以外的国家进行处理。这些国家的数据保护法律可能不同。在传输您的数据时，我们会采取适当的保护措施，以确保其按照本隐私政策受到保护。"
+                },
+                "dataRetention": {
+                    "title": "数据保留",
+                    "content": "我们会保留您的个人信息，直至完成本隐私政策中概述的目的，除非法律要求或允许更长的保留期限。在确定保留数据的时间时，我们会考虑信息的数量、性质和敏感性、未经授权使用或披露的潜在风险以及适用的法律要求。"
+                },
+                "childrenPrivacy": {
+                    "title": "儿童隐私",
+                    "content": "我们的服务不面向 18 岁以下的个人。我们不会故意收集儿童的个人信息。如果您认为我们无意中收集了儿童的信息，请立即联系我们，我们将采取措施删除该信息。"
+                },
+                "thirdPartyLinks": {
+                    "title": "第三方链接",
+                    "content": "我们的平台可能包含指向第三方网站或服务的链接。我们不对这些第三方的隐私做法或内容负责。我们鼓励您阅读您访问的任何第三方网站的隐私政策。"
+                }
+            },
+            "acknowledgment": "使用 Azcoin 的服务即表示您已阅读并理解本隐私政策。",
+            "termsOfService": "服务条款",
+            "startStaking": "开始质押"
+        },
+        "SwapPage": {
+    "title": "交换代币",
+    "description": "以最佳价格即时买入或卖出代币",
+    "from": "从",
+    "to": "到",
+    "max": "最大",
+    "balance": "余额",
+    "minimumReceived": "最低收到",
+    "router": "路由器",
+    "estimatedFees": "预计费用",
+    "slippageTolerance": "滑点容忍度",
+    "connectWallet": "连接钱包",
+    "insufficientBalance": "余额不足",
+    "enterAmount": "输入金额",
+    "approve": "批准",
+    "approving": "正在批准...",
+    "swap": "交换",
+    "swapping": "正在交换...",
+    "confirmSwap": "确认交换",
+    "settings": "设置",
+    "configureSwapSettings": "配置您的交换设置",
+    "close": "关闭",
+    "transactionDetails": "交易详情",
+    "priceImpact": "价格影响",
+    "amountInUSD": "以美元计的金额",
+    "amountOutUSD": "以美元计的收到金额",
+    "tradingFee": "交易费用（美元）",
+    "warning": "警告",
+    "highPriceImpact": "高价格影响可能导致意外结果。",
+    "success": "成功",
+    "error": "错误",
+    "info": "信息",
+    "sendingTransaction": "正在发送交易...",
+    "swapSent": "交换已发送！等待确认...",
+    "swapSuccessful": "交换成功！",
+    "swapFailed": "交换失败。请重试。",
+    "couldNotPrepareTransaction": "无法准备交易：{error}",
+    "youNeedToConnectWallet": "您需要先连接钱包",
+    "swapSuccessfulTitle": "交换成功",
+    "swapSuccessfulDescription": "您的交换已完成。您可以查看交易详情。"
+},
+"TokenSelector": {
+    "selectToken": "选择代币",
+    "searchByToken": "按代币搜索或粘贴地址",
+    "popularTokens": "热门代币",
+    "token": "代币",
+    "balance": "余额",
+    "loadingTokens": "正在加载代币...",
+    "noTokensFound": "未找到代币。尝试不同的搜索词。",
+    "settings": "设置",
+    "slippageTolerance": "滑点容忍度"
+}
+    }

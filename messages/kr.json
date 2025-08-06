@@ -1,0 +1,1675 @@
+{
+    "CTASection": {
+        "title": "수익을 시작할 준비 되셨나요?",
+        "description": "성공적인 스테이커 커뮤니티에 가입하여 오늘부터 수동적 수익을 창출하세요",
+        "button": "스테이킹 시작"
+    },
+    "HeroSection": {
+        "badge": "월 최대 18% 수익",
+        "title": "AI 기반 수익을 통한",
+        "titleHighlight": "스마트 스테이킹",
+        "description": "지능형 스테이킹 플랫폼을 통해 수동적 수익을 창출하는 수천 명의 사용자와 함께하세요",
+        "startStaking": "스테이킹 시작",
+        "stats": {
+            "TotalStaked": "총 스테이킹 금액",
+            "exchanges": "거래소",
+            "avgReturn": "평균 수익률",
+            "totalUsers": "총 사용자"
+        },
+        "calculator": {
+            "title": "수익 계산기",
+            "description": "스테이킹 금액에 따른 잠재 수익을 계산하세요",
+            "stakeAmount": "스테이킹 금액 ($)",
+            "monthly": "월간 수익",
+            "daily": "일일 수익",
+            "max": "최대 수익",
+            "monthlyAPY": "% 월간",
+            "startEarning": "지금 수익 시작"
+        }
+    },
+    "FeaturesSection": {
+        "title": "왜 우리 플랫폼을 선택해야 하나요?",
+        "description": "AI 기술로 구동되는 안전하고 유연하며 보상적인 스테이킹 경험을 제공합니다",
+        "features": {
+            "monthlyReturns": {
+                "title": "월간 수익",
+                "description": "스테이킹 금액에 따라 최대 18%의 월간 수익률(MPY)을 획득하세요"
+            },
+            "aiPowered": {
+                "title": "AI 기반 트레이딩",
+                "description": "우리의 AI 봇은 수백 개의 암호화폐 거래소에서 자동으로 거래를 수행합니다"
+            },
+            "secure": {
+                "title": "안전한 플랫폼",
+                "description": "다중 서명 지갑과 실시간 모니터링으로 자산의 안전을 보장합니다"
+            },
+            "referral": {
+                "title": "추천 보상",
+                "description": "추천 프로그램을 통해 추가 수익을 창출하세요"
+            }
+        }
+    },
+    "HowItWorksSection": {
+        "title": "작동 방식",
+        "description": "몇 가지 간단한 단계로 보상을 시작하세요",
+        "step": "단계",
+        "steps": {
+            "connectWallet": {
+                "title": "지갑 연결",
+                "description": "암호화폐 지갑을 안전하게 플랫폼에 연결하세요 (Trust Wallet 추천)"
+            },
+            "chooseStake": {
+                "title": "스테이킹 선택",
+                "description": "선호하는 토큰과 스테이킹 금액을 선택하세요"
+            },
+            "startEarning": {
+                "title": "수익 시작",
+                "description": "경쟁력 있는 수익률로 월간 보상을 획득하세요"
+            },
+            "claimRewards": {
+                "title": "보상 청구",
+                "description": "400% 수익에 도달할 때까지 매일 수익을 인출하세요"
+            }
+        }
+    },
+    "StakingPlanSection": {
+        "title": "스테이킹 플랜",
+        "description": "더 높은 스테이킹은 더 나은 보상을 제공합니다 - 자신에게 가장 적합한 플랜을 선택하세요",
+        "plans": {
+            "starter": {
+                "name": "스타터",
+                "min": "최소",
+                "max": "최대",
+                "apy": "APY",
+                "startStaking": "스테이킹 시작"
+            },
+            "bronze": {
+                "name": "브론즈",
+                "min": "최소",
+                "max": "최대",
+                "apy": "APY",
+                "startStaking": "스테이킹 시작"
+            },
+            "silver": {
+                "name": "실버",
+                "min": "최소",
+                "max": "최대",
+                "apy": "APY",
+                "startStaking": "스테이킹 시작"
+            },
+            "gold": {
+                "name": "골드",
+                "min": "최소",
+                "max": "최대",
+                "apy": "APY",
+                "startStaking": "스테이킹 시작"
+            },
+            "diamond": {
+                "name": "다이아몬드",
+                "min": "최소",
+                "max": "최대",
+                "apy": "APY",
+                "startStaking": "스테이킹 시작"
+            }
+        }
+    },
+    "PartnersSection": {
+        "badge": "신뢰받는 파트너",
+        "title": "전략적 파트너",
+        "description": "가장 안전하고 신뢰할 수 있는 스테이킹 경험을 제공하기 위해 업계 리더들과 협력합니다"
+    },
+    "PartnerProgramSection": {
+        "badge": "파트너 프로그램",
+        "title": "3단계 커미션 구조",
+        "description": "포괄적인 파트너십 프로그램을 통해 다중 수익 흐름을 창출하세요",
+        "directCommission": {
+            "title": "직접 추천 커미션",
+            "description": "직접 추천과 그들의 네트워크로부터 즉시 커미션을 획득하세요",
+            "level": "{level} 레벨",
+            "commission": "{level} 추천으로부터 직접 커미션"
+        },
+        "profitSharing": {
+            "title": "수익 공유 커미션",
+            "description": "10단계 네트워크 구조를 통해 플랫폼 수익의 일부를 획득하세요",
+            "requirement": "하위 라인이 보상을 청구할 때마다, 레벨에 따라 그들의 수익의 일정 비율을 받습니다",
+            "level": "레벨"
+        },
+        "leaderBonus": {
+            "title": "리더 성과 보너스",
+            "description": "더 높은 랭크를 달성하고 팀 성과에 따라 추가 보너스를 획득하세요",
+            "ranks": {
+                "silver": "실버 리더",
+                "gold": "골드 리더",
+                "platinum": "플래티넘 리더",
+                "diamond": "다이아몬드 리더",
+                "royal": "로얄 리더"
+            },
+            "f1Volume": "F1 볼륨",
+            "teamVolume": "팀 볼륨",
+            "extraCommission": "추가 커미션"
+        },
+        "network": {
+            "title": "네트워크 구축",
+            "description": "오늘부터 네트워크를 구축하여 포괄적인 파트너십 프로그램을 통해 다중 수익 흐름을 창출하세요",
+            "button": "파트너 되기"
+        }
+    },
+    "TradingActivitySection": {
+        "badge": "실시간 트레이딩",
+        "title": "AI 트레이딩 봇 활동",
+        "description": "여러 거래소에서 AI 봇이 실시간으로 거래를 실행하는 모습을 확인하세요",
+        "stats": {
+            "totalTrades": {
+                "title": "오늘 총 거래",
+                "description": "{count} 거래소에서"
+            },
+            "successRate": {
+                "title": "성공률",
+                "description": "수익성 있는 거래 비율"
+            },
+            "avgProfit": {
+                "title": "평균 수익",
+                "description": "거래당"
+            },
+            "realtimeProfit": {
+                "title": "실시간 수익",
+                "description": "최근 2초"
+            }
+        },
+        "performance": {
+            "title": "트레이딩 성과",
+            "tooltip": {
+                "profit": "수익"
+            }
+        },
+        "recentTrades": {
+            "title": "최근 거래"
+        }
+    },
+    "FAQSection": {
+        "badge": "FAQ",
+        "title": "자주 묻는 질문",
+        "description": "플랫폼에 대한 일반적인 질문에 대한 답변을 찾아보세요",
+        "categories": {
+            "general": {
+                "title": "일반",
+                "questions": {
+                    "aiStaking": {
+                        "question": "AI 기반 스테이킹이란 무엇인가요?",
+                        "answer": "AI 기반 스테이킹 플랫폼은 전통적인 스테이킹과 고급 인공지능 트레이딩 알고리즘을 결합합니다. AI 봇은 24/7 여러 거래소에서 거래를 수행하여 스테이커에게 최적의 수익을 제공합니다."
+                    },
+                    "returns": {
+                        "question": "수익은 어떻게 생성되나요?",
+                        "answer": "수익은 스테이킹 보상과 AI 트레이딩 수익의 조합으로 생성됩니다. 우리 시스템은 엄격한 리스크 관리 프로토콜을 유지하면서 다양한 암호화폐 거래소에서 거래를 자동으로 실행하여 수익을 극대화합니다."
+                    },
+                    "lockup": {
+                        "question": "락업 기간이 있나요?",
+                        "answer": "아니요, 락업 기간은 없습니다. 매일 수익을 인출할 수 있습니다. 하지만 각 스테이킹은 초기 투자의 400%에 도달하면 자동으로 종료됩니다."
+                    }
+                }
+            },
+            "staking": {
+                "title": "스테이킹",
+                "questions": {
+                    "amounts": {
+                        "question": "최소 및 최대 스테이킹 금액은 얼마인가요?",
+                        "answer": "최소 스테이킹 금액은 $100입니다. 최대 금액은 플랜에 따라 다릅니다: 스타터 ($100-$999), 브론즈 ($1,000-$4,999), 실버 ($5,000-$9,999), 골드 ($10,000-$19,999), 다이아몬드 ($20,000+)."
+                    },
+                    "tokens": {
+                        "question": "어떤 토큰을 스테이킹할 수 있나요?",
+                        "answer": "현재 USDT, FIL, LINK, BNB 스테이킹을 지원합니다. 시장 상황과 커뮤니티 수요에 따라 정기적으로 더 많은 토큰을 추가할 수 있습니다."
+                    },
+                    "rewards": {
+                        "question": "보상은 얼마나 자주 청구할 수 있나요?",
+                        "answer": "보상은 매일 청구할 수 있습니다. 월간 MPY는 스테이킹 티어에 따라 9%에서 18%까지이며, 초기 스테이킹의 400%에 도달할 때까지 수익을 계속 얻을 수 있습니다."
+                    }
+                }
+            },
+            "partner": {
+                "title": "파트너 프로그램",
+                "questions": {
+                    "referral": {
+                        "question": "추천 프로그램은 어떻게 작동하나요?",
+                        "answer": "파트너 프로그램은 세 가지 커미션을 제공합니다: 직접 추천 (F1 6%, F2 및 F3 1%), 10단계 수익 공유 (1-10%), 리더 성과 보너스 (최대 3% 추가 커미션)."
+                    },
+                    "requirements": {
+                        "question": "각 리더 랭크의 요구사항은 무엇인가요?",
+                        "answer": "리더 랭크는 팀 볼륨에 따라 결정됩니다: 실버 ($100K), 골드 ($500K), 플래티넘 ($1M), 다이아몬드 ($5M), 로얄 ($10M). 각 랭크는 더 높은 커미션과 혜택을 제공합니다."
+                    },
+                    "commissions": {
+                        "question": "커미션은 어떻게 계산되고 지급되나요?",
+                        "answer": "커미션은 추천인의 스테이킹 금액과 수익을 기반으로 계산됩니다. 원래 스테이킹된 토큰과 동일한 토큰으로 지급되며 매일 청구할 수 있습니다."
+                    }
+                }
+            },
+            "security": {
+                "title": "보안",
+                "questions": {
+                    "platform": {
+                        "question": "플랫폼은 얼마나 안전한가요?",
+                        "answer": "다중 서명 지갑, 실시간 모니터링 시스템, 정기적인 보안 감사 등 여러 보안 조치를 구현합니다. AI 트레이딩 시스템은 사용자 자금을 보호하기 위한 리스크 관리 프로토콜을 포함합니다."
+                    },
+                    "losses": {
+                        "question": "AI 봇이 손실을 내면 어떻게 되나요?",
+                        "answer": "AI 시스템은 엄격한 리스크 관리 프로토콜로 설계되었습니다. 트레이딩에는 내재된 위험이 있지만, 시장 상황에 관계없이 일관된 스테이킹 보상을 보장하기 위해 준비금을 유지합니다."
+                    },
+                    "audits": {
+                        "question": "스마트 컨트랙트는 감사받았나요?",
+                        "answer": "네, 모든 스마트 컨트랙트는 주요 블록체인 보안 회사에 의해 감사받았습니다. 감사 보고서는 공개적으로 제공되며, 정기적으로 보안 평가를 수행합니다."
+                    }
+                }
+            },
+            "smartContract": {
+                "title": "스마트 컨트랙트",
+                "questions": {
+                    "blockchain": {
+                        "question": "플랫폼은 어떤 블록체인을 사용하나요?",
+                        "answer": "우리 플랫폼은 빠른 거래와 낮은 수수료를 제공하는 바이낸스 스마트 체인(BSC)을 사용합니다."
+                    },
+                    "audit": {
+                        "question": "스마트 컨트랙트는 감사받았나요?",
+                        "answer": "네, 스마트 컨트랙트는 CertiK과 PeckShield와 같은 주요 블록체인 보안 회사에 의해 감사받았습니다. 감사 보고서는 웹사이트의 '보안' 섹션에서 공개적으로 확인할 수 있습니다."
+                    },
+                    "rewards": {
+                        "question": "스마트 컨트랙트는 보상 분배를 어떻게 처리하나요?",
+                        "answer": "스마트 컨트랙트는 스테이킹 티어와 기간을 기반으로 보상을 자동으로 계산합니다. 보상은 매일 분배되며 언제든지 청구할 수 있습니다. 공정한 분배를 위해 시간 가중 평균을 사용합니다."
+                    },
+                    "congestion": {
+                        "question": "네트워크 혼잡이 발생하면 어떻게 되나요?",
+                        "answer": "스마트 컨트랙트는 네트워크 혼잡을 효율적으로 처리하도록 설계되었습니다. 네트워크 트래픽이 많을 경우, 컨트랙트는 거래를 큐에 넣고 네트워크가 안정화되면 순차적으로 처리하여 보상이 손실되지 않도록 합니다."
+                    },
+                    "interaction": {
+                        "question": "스마트 컨트랙트와 직접 상호작용할 수 있나요?",
+                        "answer": "네, 고급 사용자는 블록체인 탐색기 또는 지갑 인터페이스를 통해 스마트 컨트랙트와 직접 상호작용할 수 있습니다. 하지만 최상의 경험과 오류 방지를 위해 플랫폼 인터페이스를 사용하는 것을 권장합니다."
+                    },
+                    "address": {
+                        "question": "컨트랙트 주소는 무엇인가요?",
+                        "answer": "주요 스테이킹 컨트랙트 주소는 0xc2d8434B6875394637e5a943c2103639E22D26D5입니다. 사기를 방지하기 위해 항상 공식 웹사이트에서 이 주소를 확인하세요."
+                    }
+                }
+            }
+        }
+    },
+    "StakingPage": {
+        "title": "토큰 스테이킹",
+        "description": "유연한 스테이킹 옵션으로 수동적 수익을 창출하세요",
+        "balance": {
+            "title": "잔액",
+            "loading": "로딩 중..."
+        },
+        "stake": {
+            "title": "토큰 스테이킹",
+            "description": "금액을 입력하고 스테이킹 플랜을 선택하세요",
+            "amount": {
+                "label": "금액",
+                "min": "최소",
+                "placeholder": "0.00"
+            },
+            "plans": {
+                "title": "스테이킹 플랜",
+                "plan": {
+                    "title": "플랜",
+                    "mpy": "MPY",
+                    "investmentRange": "투자 범위",
+                    "description": "설명",
+                    "mpyNote": "* MPY: 월간 수익률",
+                    "earn": "수익",
+                    "mpyUntil": "초기 투자의 400%에 도달할 때까지 MPY",
+                    "names": {
+                        "starter": "스타터",
+                        "bronze": "브론즈",
+                        "silver": "실버",
+                        "gold": "골드",
+                        "diamond": "다이아몬드"
+                    }
+                }
+            }
+        },
+        "rules": {
+            "title": "스테이킹 규칙",
+            "terms": {
+                "title": "스테이킹 조건",
+                "items": {
+                    "0": "거래 수수료를 위해 BNB가 필요합니다",
+                    "1": "스테이킹 보상은 매일 계산되고 분배됩니다",
+                    "2": "스테이킹은 초기 투자의 400%에 도달하면 종료됩니다",
+                    "3": "최소 스테이킹 금액은 $100 상당입니다",
+                    "4": "스테이킹 기간 동안 MPY 비율은 고정됩니다"
+                }
+            },
+            "howItWorks": {
+                "title": "작동 방식",
+                "items": {
+                    "0": "토큰 선택",
+                    "1": "금액 입력 (최소 $100 상당)",
+                    "2": "플랜 및 MPY 비율 자동 선택",
+                    "3": "거래 확인",
+                    "4": "즉시 보상 획득",
+                    "5": "24시간마다 보상 청구 (70% 스테이킹 토큰 + 30% AZC)",
+                    "6": "400% 수익에 도달하면 스테이킹 종료"
+                }
+            }
+        },
+        "summary": {
+            "title": "스테이킹 요약",
+            "token": "토큰",
+            "amount": "금액",
+            "plan": "플랜",
+            "mpy": "MPY",
+            "returnCap": "수익 상한",
+            "sponsor": "스폰서",
+            "upline": "상위 라인",
+            "estimatedReturns": {
+                "title": "예상 수익",
+                "daily": "일일",
+                "monthly": "월간",
+                "yearly": "연간",
+                "total": "총계 (400% 상한)"
+            }
+        },
+        "buttons": {
+            "max": "최대",
+            "start": "시작",
+            "approve": "승인",
+            "stakeNow": "지금 스테이킹",
+            "staking": "스테이킹 중...",
+            "addingUpline": "상위 라인 추가 중...",
+            "approving": "승인 중...",
+            "staked": "스테이킹 성공",
+            "preparing": "스테이킹 준비 중...",
+            "stakeFailed": "스테이킹 실패, 다시 시도하세요"
+        },
+        "errors": {
+            "connectWallet": "지갑을 연결하세요",
+            "insufficientBalance": "{token} 잔액 부족",
+            "maxAmount": "최대 금액은 ${amount}입니다",
+            "fillAllFields": "지갑을 연결하고 모든 필드를 작성하세요"
+        }
+    },
+    "DashboardPage": {
+        "title": "대시보드",
+        "description": "스테이킹 포트폴리오와 수익에 대한 빠른 개요",
+        "stats": {
+            "totalValueStaked": "총 스테이킹 가치",
+            "totalEarnings": "총 수익",
+            "earnedFromStaking": "스테이킹으로 획득한 수익",
+            "maxOut": "최대 한도",
+            "f1Volume": "F1 볼륨"
+        },
+        "quickActions": {
+            "title": "빠른 작업",
+            "description": "스테이킹 및 추천 관리를 수행하세요",
+            "stake": "스테이킹",
+            "referralLink": "추천 링크",
+            "copied": "복사됨",
+            "referralAlert": "추천인의 스테이킹 보상에서 최대 12% 커미션을 획득하세요"
+        },
+        "latestUpdates": {
+            "title": "최신 업데이트",
+            "description": "플랫폼 뉴스와 업데이트를 확인하세요",
+            "news": {
+                "swapFeature": {
+                "title": "교환 기능이 현재 베타 버전으로 제공됩니다",
+                "description": "우리는 교환 기능이 이제 베타 버전으로 제공된다는 소식을 기쁘게 발표합니다! 사용자는 이제 OptiFund 플랫폼에서 직접 경쟁력 있는 환율과 낮은 거래 수수료로 토큰을 교환할 수 있습니다. 이 기능은 KyberSwap의 집계기와 통합되어 여러 DEX에서 최적의 환율을 보장합니다. 사용해 보고 피드백을 공유해 주시면 우리가 경험을 계속 최적화하겠습니다.",
+                "date": "03-05-2025"
+            },
+                "stakingPlans": {
+                    "title": "신규 스테이킹 플랜 출시",
+                    "description": "9%에서 18%까지 향상된 MPY 비율을 제공하는 새로운 스테이킹 티어 시스템을 발표하게 되어 기쁩니다. 장기 스테이커는 수수료 감소, 우선 지원, 신규 기능 독점 액세스 등 추가 보상을 받을 수 있습니다. 새로운 시스템은 커뮤니티의 헌신을 보상하고 지속 가능한 성장을 장려하도록 설계되었습니다.",
+                    "date": "2025-02-12"
+                },
+                "securityUpdate": {
+                    "title": "플랫폼 보안 업데이트",
+                    "description": "최신 보안 업데이트는 다중 서명 지갑, 향상된 암호화 프로토콜, 실시간 모니터링 시스템 등 업계 선도적인 보호 조치를 구현합니다. 또한 주요 블록체인 보안 회사와 협력하여 정기적인 감사와 침투 테스트를 수행하여 자산을 안전하게 보호합니다.",
+                    "date": "2025-02-11"
+                }
+            }
+        }
+    },
+    "MyStakePage": {
+        "title": "내 스테이킹",
+        "description": "활성 스테이킹을 추적하고 관리하세요",
+        "summary": {
+            "totalStakedValue": "총 스테이킹 가치",
+            "totalClaimedValue": "총 청구 가치",
+            "maxOutRemaining": "최대 한도 잔여",
+            "leaderBadge": "리더"
+        },
+        "plans": {
+            "0": "스타터",
+            "1": "브론즈",
+            "2": "실버",
+            "3": "골드",
+            "4": "다이아몬드"
+        },
+        "filters": {
+            "all": "전체",
+            "claimable": "청구 가능",
+            "notClaimable": "청구 불가"
+        },
+        "stakingCard": {
+            "title": "스테이킹",
+            "monthly": "개월",
+            "days": "일",
+            "hours": "시간",
+            "minutes": "분",
+            "rewardDistribution": "보상 분배",
+            "nextReward": "다음 보상 (24시간)",
+            "expectedRewards": "예상 보상",
+            "stakedAmount": "스테이킹 금액",
+            "claimedAmount": "청구 금액",
+            "progressTo400": "400% 진행률",
+            "remaining": "잔여",
+            "remainingMaxout": "최대 한도 잔여",
+            "reservedTime": "예약 시간",
+            "nextClaim": "이 시간은 다음 청구를 위해 저장됩니다",
+            "rewardsNote": "보상은 초기 USD 투자 가치({apy}% 월간)를 기준으로 계산됩니다. 이는 토큰 가격 변동과 관계없이 안정적인 수익을 보장합니다."
+        },
+        "errors": {
+            "loading": "스테이킹 로딩 오류",
+            "connectWallet": "스테이킹을 보려면 지갑을 연결하세요",
+            "loadingError": "스테이킹 데이터 로딩 오류. 나중에 다시 시도하세요.",
+            "noStakes": "아직 활성 스테이킹이 없습니다.",
+            "noMatchingStakes": "선택한 필터와 일치하는 스테이킹이 없습니다."
+        },
+        "buttons": {
+            "claimRewards": "보상 청구",
+            "claiming": "청구 중...",
+            "claimSuccess": "청구 성공"
+        }
+    },
+    "PartnerPage": {
+        "title": "파트너",
+        "description": "파트너십 성과와 하위 네트워크를 추적하세요",
+        "referralLink": {
+            "title": "내 추천 링크",
+            "description": "이 링크를 공유하여 추천으로부터 커미션을 획득하세요",
+            "connectWallet": "추천 링크를 생성하려면 지갑을 연결하세요",
+            "copy": "링크 복사",
+            "copied": "복사됨!"
+        },
+        "upline": {
+            "title": "내 상위 라인",
+            "description": "직접 추천자 정보",
+            "noUpline": "상위 라인 없음",
+            "viewOnBscScan": "BSCScan에서 보기",
+            "addUpline": "상위 라인 추가",
+            "confirming": "확인 중...",
+            "addedSuccess": "추가 성공",
+            "failedToAdd": "추가 실패",
+            "cantSetYourself": "자신을 상위 라인으로 설정할 수 없습니다",
+            "insufficientBNB": "BNB 잔액 부족",
+            "needBNB": "상위 라인 추가를 위해 BNB가 필요합니다"
+        },
+        "maxoutCommission": {
+            "title": "최대 커미션",
+            "description": "제한된 수익 커미션",
+            "unlimited": "무제한",
+            "leader": "리더"
+        },
+        "stats": {
+            "totalCommission": {
+                "title": "총 커미션",
+                "trend": "상승"
+            },
+            "f1Commission": {
+                "title": "F1 커미션",
+                "description": "F1 수: {count}"
+            },
+            "systemVolume": {
+                "title": "시스템 볼륨",
+                "trend": "상승"
+            },
+            "f1Volume": {
+                "title": "F1 볼륨",
+                "trend": "상승"
+            }
+        },
+        "leaderPerformance": {
+            "title": "리더 성과",
+            "description": "현재 달성 레벨과 진행 상황",
+            "nextLevel": "다음 레벨: {level}",
+            "level": "레벨",
+            "bonus": "보상",
+            "f1VolumeProgress": "F1 볼륨 진행",
+            "networkVolumeProgress": "네트워크 볼륨 진행",
+            "reachSilver": "실버 리더 달성을 위해 F1 볼륨 $3,000 및 시스템 볼륨 $30,000에 도달하세요"
+        },
+        "levelDistribution": {
+            "title": "레벨 분포",
+            "description": "레벨별 파트너 분포",
+            "f1Partners": "F1 파트너",
+            "totalNetwork": "총 네트워크",
+            "averageLevel": "평균 레벨"
+        },
+        "downlineNetwork": {
+            "title": "하위 네트워크",
+            "description": "하위 라인 목록과 투자 정보",
+            "searchPlaceholder": "지갑 주소로 검색...",
+            "filters": {
+                "level": {
+                    "title": "레벨별 필터",
+                    "all": "모든 레벨",
+                    "direct": "직접 (F1)",
+                    "f2": "F2",
+                    "f3": "F3"
+                },
+                "staked": {
+                    "title": "스테이킹 여부별 필터",
+                    "all": "전체",
+                    "staked": "스테이킹됨",
+                    "notStaked": "스테이킹되지 않음"
+                }
+            },
+            "table": {
+                "walletAddress": "지갑 주소",
+                "level": "레벨",
+                "staked": "스테이킹",
+                "status": "상태",
+                "joinedAt": "가입일",
+                "actions": "작업",
+                "viewNetwork": "네트워크 보기",
+                "viewTreeNetwork": "트리 네트워크 보기",
+                "loading": "데이터 로딩 중...",
+                "noData": "일치하는 데이터 없음",
+                "pagination": {
+                    "previous": "이전",
+                    "next": "다음",
+                    "page": "페이지 {current} / {total}",
+                    "displaying": "총 {total} 하위 라인 중 {displayed} 표시"
+                }
+            }
+        }
+    },
+    "ReferralTreePage": {
+        "title": "추천 트리",
+        "description": "전체 추천 네트워크 구조를 시각화하세요",
+        "searchPlaceholder": "지갑 주소로 검색...",
+        "filters": {
+            "level": {
+                "title": "레벨별 필터",
+                "all": "모든 레벨",
+                "direct": "직접 (F1)",
+                "f2": "F2",
+                "f3": "F3"
+            }
+        },
+        "nodeInfo": {
+            "title": "노드 정보",
+            "walletAddress": "지갑 주소",
+            "level": "레벨",
+            "totalInvestment": "총 투자",
+            "copy": "복사",
+            "copied": "복사됨!",
+            "viewOnBscScan": "BSCScan에서 보기",
+            "close": "닫기"
+        },
+        "loading": "트리 시각화 로딩 중...",
+        "noData": "데이터 없음",
+        "tip": "팁: 노드를 클릭하여 가지를 확장하거나 축소하세요. 줌 컨트롤을 사용하여 뷰를 조정하세요."
+    },
+    "FAQPage": {
+        "title": "자주 묻는 질문",
+        "description": "플랫폼에 대한 일반적인 질문에 대한 답변을 찾아보세요",
+        "search": {
+            "placeholder": "질문 또는 키워드로 검색..."
+        },
+        "categories": {
+            "all": "모든 FAQ",
+            "general": "일반",
+            "smartContract": "스마트 컨트랙트",
+            "staking": "스테이킹",
+            "security": "보안",
+            "partnerProgram": "파트너 프로그램"
+        },
+        "noResults": {
+            "title": "질문 없음",
+            "description": "검색어를 조정하거나 카테고리를 탐색해 보세요."
+        },
+        "stillNeedHelp": {
+            "title": "아직 질문이 있으신가요?",
+            "description": "궁금한 점에 대한 답변을 찾지 못했다면, 지원 팀에 연락하세요. 24/7 도움을 드립니다.",
+            "contactSupport": "지원팀 연락",
+            "joinTelegram": "텔레그램 채널 가입"
+        },
+        "questions": {
+            "general": {
+                "aiStaking": {
+                    "question": "AI 기반 스테이킹이란 무엇인가요?",
+                    "answer": "AI 기반 스테이킹 플랫폼은 전통적인 스테이킹과 고급 인공지능 트레이딩 알고리즘을 결합합니다. AI 봇은 24/7 여러 거래소에서 거래를 수행하여 스테이커에게 최적의 수익을 제공합니다."
+                },
+                "whatIsAzcoin": {
+                    "question": "Azcoin이란 무엇인가요?",
+                    "answer": "Azcoin은 FIL, BNB 등의 토큰을 스테이킹하여 안정적인 수익을 창출할 수 있는 블록체인 기반 스테이킹 플랫폼으로, 다단계 커미션 시스템과 일일 수익 기회를 제공합니다."
+                },
+                "maxOutLimit": {
+                    "question": "최대 한도란 무엇인가요?",
+                    "answer": "최대 한도는 총 커미션 수익을 투자 금액의 4배로 제한합니다. 예를 들어, $100을 스테이킹하면 추천 및 수익 공유로 얻는 총 커미션은 $400으로 제한됩니다."
+                },
+                "returns": {
+                    "question": "수익은 어떻게 생성되나요?",
+                    "answer": "수익은 스테이킹 보상과 AI 트레이딩 수익의 조합으로 생성됩니다. 우리 시스템은 엄격한 리스크 관리 프로토콜을 유지하면서 다양한 암호화폐 거래소에서 거래를 자동으로 실행하여 수익을 극대화합니다."
+                },
+                "lockup": {
+                    "question": "락업 기간이 있나요?",
+                    "answer": "아니요, 락업 기간은 없습니다. 매일 수익을 인출할 수 있습니다. 하지만 각 스테이킹은 초기 투자의 400%에 도달하면 자동으로 종료됩니다."
+                },
+                "tokens": {
+                    "question": "어떤 토큰을 스테이킹할 수 있나요?",
+                    "answer": "현재 USDT, FIL, LINK, BNB 스테이킹을 지원합니다. 시장 상황과 커뮤니티 수요에 따라 정기적으로 더 많은 토큰을 추가할 수 있습니다."
+                }
+            },
+            "smartContract": {
+                "blockchain": {
+                    "question": "플랫폼은 어떤 블록체인을 사용하나요?",
+                    "answer": "우리 플랫폼은 빠른 거래와 낮은 수수료를 제공하는 바이낸스 스마트 체인(BSC)을 사용합니다."
+                },
+                "audit": {
+                    "question": "스마트 컨트랙트는 감사받았나요?",
+                    "answer": "네, 스마트 컨트랙트는 CertiK과 PeckShield와 같은 주요 블록체인 보안 회사에 의해 감사받았습니다. 감사 보고서는 웹사이트의 '보안' 섹션에서 공개적으로 확인할 수 있습니다."
+                },
+                "rewards": {
+                    "question": "스마트 컨트랙트는 보상 분배를 어떻게 처리하나요?",
+                    "answer": "스마트 컨트랙트는 스테이킹 티어와 기간을 기반으로 보상을 자동으로 계산합니다. 보상은 매일 분배되며 언제든지 청구할 수 있습니다. 공정한 분배를 위해 시간 가중 평균을 사용합니다."
+                },
+                "congestion": {
+                    "question": "네트워크 혼잡이 발생하면 어떻게 되나요?",
+                    "answer": "스마트 컨트랙트는 네트워크 혼잡을 효율적으로 처리하도록 설계되었습니다. 네트워크 트래픽이 많을 경우, 컨트랙트는 거래를 큐에 넣고 네트워크가 안정화되면 순차적으로 처리하여 보상이 손실되지 않도록 합니다."
+                },
+                "interaction": {
+                    "question": "스마트 컨트랙트와 직접 상호작용할 수 있나요?",
+                    "answer": "네, 고급 사용자는 블록체인 탐색기 또는 지갑 인터페이스를 통해 스마트 컨트랙트와 직접 상호작용할 수 있습니다. 하지만 최상의 경험과 오류 방지를 위해 플랫폼 인터페이스를 사용하는 것을 권장합니다."
+                },
+                "address": {
+                    "question": "컨트랙트 주소는 무엇인가요?",
+                    "answer": "주요 스테이킹 컨트랙트 주소는 0xc2d8434B6875394637e5a943c2103639E22D26D5입니다. 사기를 방지하기 위해 항상 공식 웹사이트에서 이 주소를 확인하세요."
+                }
+            },
+            "staking": {
+                "profitDistribution": {
+                    "question": "청구 시 수익은 어떻게 분배되나요?",
+                    "answer": "수익은 70% 원래 스테이킹 토큰과 30% AZC 토큰(1 AZC = 1 USDT, 추후 유동성 추가)으로 지급됩니다. 또한, 추천인은 10단계에 걸쳐 수익 공유 커미션을 받습니다: 20-10-5-5-5-1-1-1-1-1%."
+                },
+                "amounts": {
+                    "question": "최소 및 최대 스테이킹 금액은 얼마인가요?",
+                    "answer": "최소 스테이킹 금액은 $100입니다. 최대 금액은 티어에 따라 다릅니다: 스타터 ($100-$999), 브론즈 ($1,000-$4,999), 실버 ($5,000-$9,999), 골드 ($10,000-$19,999), 다이아몬드 ($20,000+)."
+                },
+                "rewards": {
+                    "question": "보상은 얼마나 자주 청구할 수 있나요?",
+                    "answer": "보상은 매일 청구할 수 있습니다. 월간 APY는 스테이킹 티어에 따라 9%에서 18%까지이며, 초기 스테이킹의 400%에 도달할 때까지 수익을 계속 얻을 수 있습니다."
+                },
+                "maxReturn": {
+                    "question": "400% 수익에 도달하면 어떻게 되나요?",
+                    "answer": "스테이킹이 초기 스테이킹 금액을 포함하여 400% 수익에 도달하면 자동으로 종료됩니다."
+                },
+                "addFunds": {
+                    "question": "기존 스테이킹에 자금을 추가할 수 있나요?",
+                    "answer": "아니요, 각 스테이킹은 자체 MPY 비율과 400% 상한을 가진 별도의 포지션으로 처리됩니다. 더 스테이킹하려면 새 스테이킹 포지션을 만들어야 합니다."
+                },
+                "mpyRates": {
+                    "question": "MPY 비율은 어떻게 결정되나요?",
+                    "answer": "MPY 비율은 스테이킹 금액에 따라 결정되는 스테이킹 티어에 따라 달라집니다. 더 높은 티어는 더 높은 APY 비율을 받습니다: 스타터 (9%), 브론즈 (11%), 실버 (13%), 골드 (15%), 다이아몬드 (18%)."
+                },
+                "missClaim": {
+                    "question": "일일 수익 청구를 놓치면 어떻게 되나요?",
+                    "answer": "24시간 이후 언제든지 수익을 청구할 수 있지만, 사이클당 한 번만 가능합니다. 추가 시간은 다음 청구로 이월됩니다 (예: 30시간 후 청구 시 다음 사이클로 10시간이 계산됩니다)."
+                }
+            },
+            "security": {
+                "platform": {
+                    "question": "플랫폼은 얼마나 안전한가요?",
+                    "answer": "다중 서명 지갑, 실시간 모니터링 시스템, 정기적인 보안 감사 등 여러 보안 조치를 구현합니다. AI 트레이딩 시스템은 사용자 자금을 보호하기 위한 리스크 관리 프로토콜을 포함합니다."
+                },
+                "losses": {
+                    "question": "AI 봇이 손실을 내면 어떻게 되나요?",
+                    "answer": "AI 시스템은 엄격한 리스크 관리 프로토콜로 설계되었습니다. 트레이딩에는 내재된 위험이 있지만, 시장 상황에 관계없이 일관된 스테이킹 보상을 보장하기 위해 준비금을 유지합니다."
+                },
+                "userData": {
+                    "question": "사용자 데이터는 어떻게 보호되나요?",
+                    "answer": "모든 사용자 데이터와 통신에 대해 산업 표준 암호화를 사용합니다. 엄격한 데이터 보호 정책을 준수하며, 동의 없이 제3자와 정보를 공유하지 않습니다."
+                },
+                "twoFactor": {
+                    "question": "2단계 인증(2FA)이 있나요?",
+                    "answer": "아니요, 사용자는 지갑 주소를 사용하여 플랫폼에 연결합니다."
+                }
+            },
+            "partnerProgram": {
+                "referral": {
+                    "question": "추천 프로그램은 어떻게 작동하나요?",
+                    "answer": "파트너 프로그램은 세 가지 커미션을 제공합니다: 직접 추천 (F1 6%, F2 및 F3 1%), 10단계 수익 공유 (1-10%), 리더 성과 보너스 (최대 11% 추가 커미션)."
+                },
+                "requirements": {
+                    "question": "각 리더 랭크의 요구사항은 무엇인가요?",
+                    "answer": "리더 랭크는 팀 볼륨에 따라 결정됩니다: 실버 +3% ($30k 팀 - $3k F1), 골드 +5% ($100k 팀 - $5k F1), 플래티넘 +7% ($200k 팀 - $10k F1), 다이아몬드 +9% ($350k 팀 - $15k F1), 로얄 +11% ($500k 팀 - $20k F1). 각 랭크는 더 높은 커미션과 혜택을 제공합니다."
+                },
+                "commissions": {
+                    "question": "커미션은 어떻게 계산되고 지급되나요?",
+                    "answer": "커미션은 추천인의 스테이킹 금액과 수익을 기반으로 계산됩니다. 원래 스테이킹된 토큰과 동일한 토큰으로 지급되며 매일 청구할 수 있습니다."
+                },
+                "referralLimit": {
+                    "question": "추천할 수 있는 사람 수에 제한이 있나요?",
+                    "answer": "아니요, 직접 추천할 수 있는 사람 수에는 제한이 없습니다. 더 많은 사람을 추천할수록 파트너 프로그램에서 더 높은 잠재 수익을 얻을 수 있습니다."
+                }
+            }
+        }
+    },
+    "TokenPage": {
+        "title": "AZ Coin (AZC)",
+        "description": "탈중앙화 스테이킹과 AI 기반 트레이딩의 미래를 이끌다",
+        "metrics": {
+            "totalSupply": {
+                "title": "총 공급량",
+                "value": "21,000,000",
+                "unit": "AZC 토큰"
+            },
+            "targetPrice": {
+                "title": "목표 가격",
+                "value": "$10 - $15",
+                "unit": "AZC당"
+            },
+            "tokenType": {
+                "title": "토큰 유형",
+                "value": "BEP-20",
+                "unit": "바이낸스 스마트 체인"
+            }
+        },
+        "allocation": {
+            "title": "토큰 할당",
+            "description": "AZC 토큰은 지속 가능한 성장과 생태계 개발을 보장하기 위해 전략적으로 할당됩니다",
+            "totalSupply": "총 공급량: 21,000,000 AZC",
+            "distribution": "분배",
+            "breakdown": "할당 내역",
+            "breakdownDescription": "카테고리별 상세 토큰 분배",
+            "chart": {
+                "pie": "파이",
+                "bar": "바"
+            }
+        },
+        "releaseSchedule": {
+            "title": "토큰 릴리스 스케줄",
+            "description": "지속 가능한 성장과 시장 안정성을 보장하기 위한 전략적 토큰 릴리스",
+            "timeline": "릴리스 타임라인",
+            "timelineDescription": "분기별 토큰 분배 계획",
+            "breakdown": "릴리스 내역",
+            "breakdownDescription": "누적 토큰 릴리스",
+            "released": "릴리스됨"
+        },
+        "utility": {
+            "title": "토큰 유틸리티",
+            "description": "AZC 토큰은 다양한 사용 사례와 혜택으로 생태계를 구동합니다",
+            "features": {
+                "stakingrewards": {
+                    "title": "스테이킹 보상",
+                    "description": "경쟁력 있는 APY 비율로 AZC 토큰을 스테이킹하여 수동적 수익을 창출하세요"
+                },
+                "platformgovernance": {
+                    "title": "플랫폼 거버넌스",
+                    "description": "주요 플랫폼 결정에 투표하고 생태계의 미래를 형성하세요"
+                },
+                "transactionfeediscounts": {
+                    "title": "거래 수수료 할인",
+                    "description": "플랫폼 거래에 AZC를 사용할 때 수수료 할인을 받으세요"
+                },
+                "gamingrewards": {
+                    "title": "게이밍 보상",
+                    "description": "통합 게이밍 생태계에서 AZC 토큰을 획득하고 사용하세요"
+                },
+                "exclusiveaccess": {
+                    "title": "독점 액세스",
+                    "description": "프리미엄 기능과 신규 플랫폼 기능에 대한 조기 액세스를 잠금 해제하세요"
+                },
+                "globalpayments": {
+                    "title": "글로벌 결제",
+                    "description": "파트너 네트워크에서 빠르고 안전한 거래를 위해 AZC를 사용하세요"
+                }
+            }
+        },
+        "details": {
+            "title": "토큰 세부 정보",
+            "description": "기술 사양 및 컨트랙트 정보",
+            "name": "토큰 이름",
+            "symbol": "심볼",
+            "totalSupply": "총 공급량",
+            "targetPrice": "목표 가격",
+            "blockchain": "블록체인",
+            "tokenType": "토큰 유형",
+            "contractAddress": "컨트랙트 주소",
+            "copySuccess": "컨트랙트 주소 복사됨"
+        },
+        "burn": {
+            "title": "AZC 연속 태우기 일정",
+            "desc": "매주 일요일, {date}부터 {amount} AZC가 2년간 연속으로 태워집니다. 이 일정은 건강하고 지속 가능한 토큰 경제를 지원하기 위해 설계되었습니다.",
+            "card": {
+                "totalWeeks": "총 주",
+                "totalToBurn": "총 태울 양",
+                "startDate": "시작 날짜",
+                "weeklyAmount": "주간 태우기 양",
+                "alreadyBurned": "이미 태워짐"
+            },
+            "purpose": "AZC 토큰 태우기는 순환 공급을 줄이고 투자자의 가치를 높이며 생태계의 지속 가능한 개발을 보장하기 위해 설계되었습니다."
+        },
+        "getToken": {
+            "title": "AZC 획득 방법",
+            "description": "AZ Coin을 획득하고 생태계에 참여하는 다양한 방법",
+            "exchanges": {
+                "title": "거래소에서 구매",
+                "description": "파트너 거래소에서 경쟁력 있는 가격으로 AZC 토큰을 구매하세요",
+                "button": "곧 출시"
+            },
+            "staking": {
+                "title": "스테이킹 보상",
+                "description": "지원되는 다른 암호화폐를 스테이킹하여 AZC 토큰을 보상으로 획득하세요",
+                "button": "스테이킹 시작"
+            },
+            "referral": {
+                "title": "추천 프로그램",
+                "description": "새로운 사용자를 플랫폼에 추천하여 AZC 토큰 커미션을 획득하세요",
+                "button": "파트너 프로그램 가입"
+            }
+        },
+        "cta": {
+            "title": "AZC 생태계에 참여할 준비 되셨나요?",
+            "description": "AZ Coin으로 여정을 시작하고 탈중앙화 금융의 미래를 열어보세요",
+            "staking": "스테이킹 시작",
+            "roadmap": "로드맵 보기"
+        }
+    },
+    "AboutPage": {
+        "hero": {
+            "badge": "회사 소개",
+            "title": "AI로 금융 혁신",
+            "description": "인공지능과 블록체인 기술로 탈중앙화 금융의 미래를 구축합니다",
+            "content": {
+                "paragraph1": "AZ Coin (AZC)은 인공지능과 블록체인 기술의 융합을 선도합니다. 우리의 사명은 이전에는 기관 투자자만 이용할 수 있었던 정교한 트레이딩 전략과 금융 도구를 민주화하는 것입니다.",
+                "paragraph2": "다중 체인 스테이킹, AI 기반 트레이딩, 인터랙티브 게이밍으로 구성된 혁신적인 생태계를 통해 사용자가 디지털 자산을 성장시키고 활기찬 커뮤니티에 기여할 수 있는 새로운 기회를 창출합니다.",
+                "buttons": {
+                    "explore": "AZC 탐색",
+                    "roadmap": "로드맵 보기"
+                }
+            }
+        },
+        "mission": {
+            "title": "사명과 비전",
+            "description": "명확한 원칙과 야심찬 목표로 이끌어갑니다",
+            "mission": {
+                "title": "우리의 사명",
+                "content": "인공지능과 블록체인 기술을 결합하여 정교한 금융 도구에 대한 접근을 민주화하고, 모두가 금융의 미래에 참여할 기회를 창출합니다.",
+                "points": {
+                    "1": "모두에게 AI 기반 트레이딩을 제공",
+                    "2": "다중 블록체인에서 지속 가능한 수익 기회 창출",
+                    "3": "혁신적인 게이밍과 소셜 기능을 통해 활발한 커뮤니티 구축"
+                }
+            },
+            "vision": {
+                "title": "우리의 비전",
+                "content": "인공지능과 블록체인이 융합된 선도적인 플랫폼이 되어 금융 포용, 부의 창출, 기술 혁신의 새로운 패러다임을 구축합니다.",
+                "points": {
+                    "1": "탈중앙화 금융에서 고급 AI 모델 통합을 선도",
+                    "2": "2026년까지 생태계 내 100만 명의 활성 사용자 달성",
+                    "3": "AI-블록체인 공간에서 AZC를 선도적인 유틸리티 토큰으로 확립"
+                }
+            }
+        },
+        "ecosystem": {
+            "badge": "생태계",
+            "title": "AZC 생태계",
+            "description": "AZC 토큰으로 구동되는 상호 연결된 제품 및 서비스의 종합적인 스위트",
+            "components": {
+                "multichainStaking": {
+                    "title": "다중 체인 스테이킹",
+                    "description": "이더리움, BSC, 솔라나 등 다중 블록체인에서 스테이킹하고 AZC 토큰으로 통합 보상을 받으세요."
+                },
+                "aiTrading": {
+                    "title": "AI 기반 트레이딩",
+                    "description": "주요 거래소에서 시장 패턴을 분석하여 수익성 있는 거래를 자동으로 실행하는 고급 AI 모델."
+                },
+                "telegramGaming": {
+                    "title": "텔레그램 게이밍",
+                    "description": "텔레그램을 통해 직접 액세스 가능한 플레이-투-언 게임으로, AZC 토큰 보상과 소셜 기능을 제공합니다."
+                },
+                "crossExchange": {
+                    "title": "교차 거래소 차익 거래",
+                    "description": "Hyperliquid, Binance, Bybit 등 거래소 간 가격 차이를 식별하고 활용하는 자동화 시스템."
+                },
+                "aiBots": {
+                    "title": "AI 트레이딩 봇",
+                    "description": "AZC 토큰 보유자에게 제공되는 독점 AI 모델로 구동되는 맞춤형 트레이딩 봇."
+                },
+                "wallet": {
+                    "title": "탈중앙화 지갑",
+                    "description": "스테이킹, 트레이딩, 게이밍 기능을 통합한 안전한 다중 체인 지갑으로 원활한 경험을 제공합니다."
+                }
+            },
+            "growth": {
+                "title": "생태계 성장",
+                "description": "시간에 따른 사용자 채택",
+                "activeUsers": "활성 사용자"
+            },
+            "distribution": {
+                "title": "생태계 분포",
+                "description": "플랫폼 활동 내역",
+                "activity": "활동"
+            }
+        },
+        "aiTechnology": {
+            "badge": "기술",
+            "title": "우리의 AI 기술",
+            "description": "트레이딩 시스템을 구동하는 최첨단 인공지능",
+            "features": {
+                "multiModel": {
+                    "title": "다중 모델 통합",
+                    "description": "다양한 시장 조건과 트레이딩 전략에 최적화된 여러 특화된 AI 모델을 결합한 시스템."
+                },
+                "patternRecognition": {
+                    "title": "실시간 패턴 인식",
+                    "description": "인간 트레이더가 놓칠 수 있는 복잡한 패턴을 여러 시간대에 걸쳐 식별하는 고급 신경망."
+                },
+                "sentimentAnalysis": {
+                    "title": "감정 분석",
+                    "description": "뉴스, 소셜 미디어, 시장 감정을 분석하여 가격 움직임을 예측하는 자연어 처리 모델."
+                },
+                "riskManagement": {
+                    "title": "리스크 관리 알고리즘",
+                    "description": "시장 변동성과 리스크 평가에 따라 포지션 크기와 레버리지를 동적으로 조정하는 정교한 알고리즘."
+                },
+                "crossExchange": {
+                    "title": "교차 거래소 최적화",
+                    "description": "유동성과 오더북을 모니터링하여 최적의 가격과 최소 슬리피지로 거래를 실행하는 AI 시스템."
+                },
+                "continuousLearning": {
+                    "title": "지속적 학습",
+                    "description": "강화 학습을 통해 모델이 지속적으로 개선되며 변화하는 시장 조건에 적응합니다."
+                }
+            },
+            "power": {
+                "title": "AI 통합의 힘",
+                "description": "독점 시스템은 특정 시장 조건과 트레이딩 전략에 대해 훈련된 여러 특화된 AI 모델을 결합합니다. 이러한 모델을 통합하고 성능을 지속적으로 최적화함으로써 Hyperliquid, Binance, Bybit 같은 주요 거래소에서 전례 없는 정확도로 수익성 있는 트레이딩 기회를 식별할 수 있습니다."
+            }
+        },
+        "team": {
+            "badge": "우리 팀",
+            "title": "팀 만나기",
+            "description": "AI, 블록체인, 금융 시장 전문가들이 미래를 구축하기 위해 함께 노력합니다",
+            "testimonials": {
+                "passa": {
+                    "quote": "MIT 금융 졸업. 금융 12년, 블록체인 6년 경력. Goldman Sachs 및 Coinbase 임원 출신. DeFi 개척자.",
+                    "name": "파사 로드리게스",
+                    "designation": "CEO"
+                },
+                "dmitri": {
+                    "quote": "컴퓨터 과학 박사. 이더리움 재단 기여자. $3B+ TVL의 DeFi 프로젝트 구축. 스마트 컨트랙트 전문가.",
+                    "name": "드미트리 볼코프",
+                    "designation": "InnovateSphere CTO"
+                },
+                "jessica": {
+                    "quote": "Binance에서 경험 있는 마케팅 전략가. 1천만 명 이상의 사용자를 대상으로 캠페인 주도. 2017년부터 블록체인 옹호자.",
+                    "name": "제시카 왕",
+                    "designation": "CMO"
+                },
+                "james": {
+                    "quote": "Google 출신 사이버 보안 전문가. 윤리적 해커. $5억 이상의 DeFi 프로토콜 보안.",
+                    "name": "제임스 김",
+                    "designation": "최고 보안 책임자"
+                },
+                "michael": {
+                    "quote": "Aave 운영 책임자 출신. 20개 이상 시장 런칭. Wharton MBA. 플랫폼 효율성 최적화.",
+                    "name": "마이클 로드리게스",
+                    "designation": "COO"
+                }
+            }
+        },
+        "cta": {
+            "title": "AZC 혁명에 동참하세요",
+            "description": "AI와 블록체인이 융합되어 전례 없는 기회를 창출하는 미래의 일부가 되세요",
+            "buttons": {
+                "staking": "스테이킹 시작",
+                "token": "AZC 토큰에 대해 알아보기"
+            }
+        }
+    },
+    "RoadmapPage": {
+        "hero": {
+            "badge": "우리의 여정",
+            "title": "프로젝트 로드맵",
+            "description": "컨셉부터 글로벌 채택까지의 야심찬 여정을 주요 마일스톤과 성취와 함께 탐색하세요."
+        },
+        "filters": {
+            "all": "모든 단계",
+            "completed": "완료됨",
+            "inProgress": "진행 중",
+            "upcoming": "예정"
+        },
+        "emptyState": {
+            "title": "단계 없음",
+            "description": "현재 필터와 일치하는 로드맵 단계가 없습니다. 다른 필터 옵션을 선택해 보세요.",
+            "viewAll": "모든 단계 보기"
+        },
+        "phases": {
+            "phase1": {
+                "phase": "단계 1",
+                "title": "프로젝트 런칭",
+                "date": "2025년 1분기",
+                "status": "완료됨",
+                "description": "기반 구축 및 초기 시장 진출",
+                "details": "OptiFund 스테이킹 플랫폼 공식 런칭, 추천 시스템 확장, 마케팅 및 커뮤니티 성장, GameFi 개발, 초기 스테이킹 프로그램.",
+                "achievements": {
+                    "staking": "스테이킹 출시",
+                    "team": "핵심 팀 구성",
+                    "funding": "초기 자금 확보",
+                    "community": "커뮤니티 채널 설립"
+                }
+            },
+            "phase2": {
+                "phase": "단계 2",
+                "title": "플랫폼 개발",
+                "date": "2025년 2분기",
+                "status": "진행 중",
+                "description": "스마트 컨트랙트 개발과 여러 보안 감사를 통해 안전한 기반을 구축하고, 직관적인 사용자 경험을 설계하는 데 집중했습니다.",
+                "details": "보안 감사 완료, UI/UX 디자인 최종화, 핵심 사용자와 알파 테스트",
+                "achievements": {
+                    "swap": "토큰 스왑",
+                    "security": "보안 감사 완료",
+                    "design": "UI/UX 디자인 최종화",
+                    "testing": "핵심 사용자와 알파 테스트"
+                }
+            },
+            "phase3": {
+                "phase": "단계 3",
+                "title": "프로젝트 홍보",
+                "date": "2025년 3-4분기",
+                "status": "진행 중",
+                "description": "현재 토큰 런칭, 전략적 거래소 상장, 타겟 마케팅을 통해 사용자 기반을 확장하며 플랫폼을 시장에 선보이는 데 집중하고 있습니다.",
+                "details": "목표 가격은 $10-$15입니다",
+                "achievements": {
+                    "listings": "상장 (DEX, CEX)",
+                    "audit": "스마트 컨트랙트 감사",
+                    "generation": "OptiFund 생성 이벤트",
+                    "marketing": "마케팅 캠페인 시작"
+                }
+            },
+            "phase4": {
+                "phase": "단계 4",
+                "title": "생태계 확장",
+                "date": "2026년 1-2분기",
+                "status": "진행 중",
+                "description": "모바일 애플리케이션, 전략적 파트너십, 커뮤니티 회원 보상을 위한 스테이킹 프로그램 도입으로 생태계를 확장하고 있습니다.",
+                "achievements": {
+                    "mobile": "모바일 앱 개발",
+                    "gamefi": "텔레그램 GameFi",
+                    "partnerships": "파트너십 발표",
+                    "governance": "커뮤니티 거버넌스 구현"
+                }
+            },
+            "phase5": {
+                "phase": "단계 5",
+                "title": "고급 기능",
+                "date": "2026년 3-4분기",
+                "status": "예정",
+                "description": "크로스체인 기능, AI 기반 분석, 기관 사용자를 위한 특화 도구 등 최첨단 기능을 로드맵에 포함합니다.",
+                "achievements": {
+                    "crossChain": "크로스체인 통합",
+                    "trading": "고급 트레이딩 기능",
+                    "analytics": "AI 기반 분석",
+                    "institutional": "기관 파트너십"
+                }
+            },
+            "phase6": {
+                "phase": "단계 6",
+                "title": "글로벌 확장",
+                "date": "2027년",
+                "status": "예정",
+                "description": "현재 로드맵의 마지막 단계는 글로벌 확장, 관할 지역의 규제 준수, 보조금 프로그램을 통한 지속 가능한 생태계 구축에 초점을 맞춥니다.",
+                "achievements": {
+                    "marketing": "국제 마케팅 캠페인",
+                    "compliance": "규제 준수 확장",
+                    "enterprise": "엔터프라이즈 솔루션 런칭",
+                    "grants": "생태계 보조금 프로그램"
+                }
+            },
+            "phase7": {
+                "phase": "단계 7",
+                "title": "미래",
+                "date": "2028년+",
+                "status": "예정",
+                "description": "온체인 대출 및 차입 플랫폼, Web3 데빗 카드 및 상인 통합",
+                "achievements": {
+                    "defi": "OptiFund DeFi 은행",
+                    "cards": "Web3 데빗 카드"
+                }
+            }
+        },
+        "status": {
+            "completed": "완료됨",
+            "inProgress": "진행 중",
+            "upcoming": "예정",
+            "currentlyInDevelopment": "현재 개발 중",
+            "comingSoon": "곧 출시"
+        },
+        "cta": {
+            "title": "우리의 여정에 동참하세요",
+            "description": "산업을 혁신하는 흥미로운 로드맵의 일부가 되세요. 최신 개발 및 발표를 업데이트받으세요.",
+            "button": "커뮤니티 가입"
+        }
+    },
+    "MediaResourcePage": {
+        "title": "미디어 리소스",
+        "description": "로고, 배너, 프레젠테이션 등을 다운로드하세요",
+        "intro": {
+            "title": "Azcoin 미디어 센터에 오신 것을 환영합니다",
+            "description": "공식 Azcoin 브랜딩 자료, 마케팅 자산, 다국어 프레젠테이션을 액세스하고 다운로드하세요. 모든 마케팅 활동에서 일관된 브랜딩을 보장하기 위해 이 리소스를 사용하세요.",
+            "downloadAll": "모든 자산 다운로드",
+            "categories": {
+                "brandAssets": "브랜드 자산",
+                "presentations": "프레젠테이션",
+                "marketing": "마케팅",
+                "multiLanguage": "다국어"
+            }
+        },
+        "collections": {
+            "title": "인기 컬렉션",
+            "brandKit": {
+                "title": "브랜드 키트",
+                "subtitle": "완전한 브랜딩 패키지",
+                "description": "로고, 색상 팔레트, 타이포그래피 가이드라인 등을 포함한 완전한 브랜드 키트를 다운로드하세요.",
+                "download": "브랜드 키트 다운로드"
+            },
+            "multiLanguage": {
+                "title": "다국어 팩",
+                "subtitle": "모든 언어의 리소스",
+                "description": "글로벌 마케팅 캠페인을 위해 모든 지원 언어로 된 프레젠테이션과 문서를 액세스하세요."
+            },
+            "presentation": {
+                "title": "프레젠테이션 번들",
+                "subtitle": "모든 프레젠테이션 자료",
+                "description": "모든 프레젠테이션 슬라이드, 발표자 노트, 지원 자료를 한 번에 편리하게 받으세요.",
+                "download": "프레젠테이션 다운로드"
+            }
+        },
+        "customMaterials": {
+            "title": "맞춤 자료가 필요하시나요?",
+            "description": "맞춤 마케팅 자료나 특정 요구사항이 필요하다면, 디자인 팀이 도와드립니다. 필요 사항을 알려주시면 마케팅 캠페인에 맞춘 맞춤 리소스를 제작합니다.",
+            "contactSupport": "지원팀 연락"
+        }
+    },
+    "Navbar": {
+        "routes": {
+            "home": "홈",
+            "dashboard": "대시보드",
+            "staking": "스테이킹",
+            "swap": "스왑",
+            "mystake": "내 스테이킹",
+            "partner": "파트너",
+            "token": "토큰노믹스",
+            "about": "소개",
+            "roadmap": "로드맵",
+            "mediaResource": "리소스",
+            "faqs": "FAQ"
+        },
+        "menu": {
+            "about": "소개",
+            "more": "더 보기",
+            "manager": "매니저"
+        },
+        "descriptions": {
+            "tokenomics": "AZCoin의 토큰노믹스 분배 및 경제",
+            "about": "OptiFund 프로젝트와 팀에 대해 자세히 알아보기",
+            "roadmap": "AZCoin의 개발 로드맵과 미래 계획",
+            "swap": "AZCoin으로 토큰을 빠르고 쉽게 스왑",
+            "resource": "미디어 리소스 및 언론 자료",
+            "faqs": "AZCoin에 대한 자주 묻는 질문",
+            "dashboard": "OptiFund 통계 및 분석 보기",
+            "mystake": "스테이킹된 OptiFund 토큰 관리",
+            "partner": "OptiFund 파트너십 정보"
+        },
+        "connect": {
+            "title": "AZCoin에 로그인",
+            "connecting": "연결 중...",
+            "connect": "연결"
+        }
+    },
+    "SuccessModal": {
+        "title": "스테이킹 성공!",
+        "description": "토큰이 성공적으로 스테이킹되었습니다",
+        "details": {
+            "amountStaked": "스테이킹 금액:",
+            "value": "가치:",
+            "estimatedMPY": "예상 MPY:",
+            "month": "개월"
+        },
+        "buttons": {
+            "close": "닫기",
+            "viewStakes": "내 스테이킹 보기"
+        }
+    },
+    "MobileBottom": {
+        "routes": {
+            "home": "홈",
+            "stake": "스테이킹",
+            "dashboard": "대시보드",
+            "mystake": "내 스테이킹",
+            "partner": "파트너",
+            "about": "소개",
+            "faqs": "FAQ",
+            "more": "더 보기",
+            "token": "토큰",
+            "roadmap": "로드맵",
+            "swap": "스왑",
+            "resource": "리소스",
+            "theme": "테마"
+        }
+    },
+    "WalletConnect": {
+        "title": "지갑 세부 정보",
+        "description": "지갑 잔액을 확인하고 암호화폐 자산을 관리하세요.",
+        "tokenBalances": "토큰 잔액",
+        "showLess": "간략히 보기",
+        "showAll": "모두 보기",
+        "disconnect": "연결 해제",
+        "copy": {
+            "success": "지갑 주소 복사됨"
+        }
+    },
+    "Footer": {
+        "slogan": "AI 기반 수익으로 스마트 스테이킹",
+        "sections": {
+            "products": {
+                "title": "제품",
+                "items": {
+                    "staking": "스테이킹",
+                    "swap": "스왑"
+                }
+            },
+            "azcToken": {
+                "title": "AZC 토큰",
+                "items": {
+                    "tokenomics": "토큰노믹스",
+                    "roadmap": "로드맵",
+                    "mediaResource": "미디어 리소스"
+                }
+            },
+            "company": {
+                "title": "회사",
+                "items": {
+                    "about": "회사 소개",
+                    "faqs": "FAQ",
+                    "privacyPolicy": "개인정보 처리방침",
+                    "termsOfService": "서비스 약관"
+                }
+            },
+            "connect": {
+                "title": "연락처",
+                "items": {
+                    "email": "hello@optifund.app",
+                    "support": "지원팀과 채팅"
+                },
+                "social": {
+                    "telegram": "텔레그램",
+                    "twitter": "X.com",
+                    "youtube": "유튜브"
+                }
+            }
+        },
+        "copyright": "© 2025 optifund.app | 모든 권리 보유."
+    },
+    
+        "TermsOfService": {
+            "backToHome": "홈으로 돌아가기",
+            "legalBadge": "법적 정보",
+            "title": "서비스 이용약관",
+            "lastUpdated": "최종 업데이트: 2024년 3월 9일",
+            "introduction": {
+                "title": "소개",
+                "content": "Azcoin에 오신 것을 환영합니다! 본 서비스 이용약관('약관')은 당사의 스테이킹 플랫폼 및 서비스 이용을 규정합니다. Azcoin에 접속함으로써 귀하는 본 약관에 동의하는 것입니다. 동의하지 않을 경우, 당사 플랫폼을 이용하지 말아 주세요."
+            },
+            "eligibility": {
+                "title": "이용 자격",
+                "items": {
+                    "age": "Azcoin을 이용하려면 최소 18세 이상이며 계약을 체결할 법적 능력이 있어야 합니다.",
+                    "laws": "귀하는 귀하의 관할 지역에서 적용되는 모든 법률을 준수할 책임이 있습니다."
+                }
+            },
+            "account": {
+                "title": "계정 등록",
+                "items": {
+                    "register": "Azcoin을 이용하려면 정확하고 완전한 정보를 제공하여 계정을 등록해야 합니다.",
+                    "responsibility": "귀하는 계정 인증 정보의 기밀성을 유지하고 귀하의 계정에서 이루어지는 모든 행동에 대한 책임을 집니다."
+                }
+            },
+            "staking": {
+                "title": "스테이킹 및 수익",
+                "mechanism": {
+                    "title": "스테이킹 메커니즘",
+                    "content": "토큰을 스테이킹함으로써 귀하는 당사의 스테이킹 계약(예: 개발, 마케팅, 리더, 풀에 대한 할당)에 명시된 자동 자금 분배에 동의합니다."
+                },
+                "profitClaims": {
+                    "title": "수익 청구",
+                    "content": "귀하는 24시간마다 수익을 청구할 수 있으며, 스테이킹 금액의 최대 400%(USDT 기준)까지 가능합니다."
+                },
+                "maxOutLimit": {
+                    "title": "최대 한도",
+                    "content": "총 커미션 수익은 초기 투자 금액의 4배로 제한됩니다."
+                }
+            },
+            "referral": {
+                "title": "추천 프로그램",
+                "content": "Azcoin은 다단계 추천 시스템을 제공합니다. 커미션은 회원 계약에 정의된 업라인 구조에 따라 달라집니다.",
+                "details": "추천 및 수익 분배에 대한 자세한 내용은 FAQ 및 스테이킹 문서에서 확인할 수 있습니다.",
+                "commissionStructure": {
+                    "title": "커미션 구조",
+                    "f1": "직접 추천 (F1)",
+                    "f2": "레벨 2 (F2)",
+                    "f3": "레벨 3 (F3)",
+                    "f1Rate": "6%",
+                    "f2Rate": "1%",
+                    "f3Rate": "1%"
+                }
+            },
+            "tokenUsage": {
+                "title": "토큰 사용 및 AZC 토큰",
+                "swap": "스테이킹된 토큰은 수익 계산을 위해 Uniswap을 통해 USDT로 전환됩니다.",
+                "distribution": "수익은 원래 토큰으로 70%, AZC 토큰으로 30% 분배되며, AZC 토큰의 가치는 1 USDT로 설정됩니다.",
+                "profitDistribution": {
+                    "title": "수익 분배",
+                    "originalToken": "원래 토큰",
+                    "azcToken": "AZC 토큰",
+                    "originalTokenRate": "70%",
+                    "azcTokenRate": "30%"
+                }
+            },
+            "responsibilities": {
+                "title": "사용자 책임",
+                "items": {
+                    "taxes": "귀하는 스테이킹 및 수익과 관련된 모든 세금 또는 법적 의무를 부담합니다.",
+                    "fraud": "추천 조작이나 플랫폼 취약점 악용과 같은 사기 행위에 가담해서는 안 됩니다."
+                }
+            },
+            "intellectualProperty": {
+                "title": "지적 재산권",
+                "content": "Azcoin의 모든 콘텐츠, 로고, 자료는 Azcoin 또는 그 라이선스 제공자에게 귀속되며 지적 재산권법에 의해 보호됩니다.",
+                "permission": "서면 허가 없이 당사의 콘텐츠를 사용하거나 복제할 수 없습니다."
+            },
+            "liability": {
+                "title": "책임 제한",
+                "warranty": "Azcoin은 '있는 그대로' 제공되며 어떠한 보증도 제공하지 않습니다. 중단 없는 접근, 정확성, 완전한 보안을 보장하지 않습니다.",
+                "damages": "당사는 귀하의 플랫폼 이용으로 인해 발생한 직간접적 또는 결과적 손해에 대해 책임지지 않습니다."
+            },
+            "termination": {
+                "title": "종료",
+                "content": "본 약관을 위반하거나 금지된 활동에 참여할 경우, 당사는 귀하의 계정을 일시 중지하거나 종료할 수 있습니다.",
+                "effect": "종료 시 Azcoin에 대한 접근이 종료되지만, 일부 조항(예: 분쟁 해결)은 여전히 유효합니다.",
+                "prohibitedActivities": {
+                    "title": "금지된 활동",
+                    "items": {
+                        "multipleAccounts": "추천 시스템을 조작하기 위해 여러 계정을 만드는 행위",
+                        "hacking": "플랫폼 해킹, 중단, 또는 손상을 시도하는 행위",
+                        "illegal": "플랫폼을 불법 활동 또는 자금 세탁에 사용하는 행위",
+                        "misinformation": "플랫폼에 대한 허위 또는 오해의 소지가 있는 정보를 공유하는 행위"
+                    }
+                }
+            },
+            "disputeResolution": {
+                "title": "분쟁 해결",
+                "arbitration": "분쟁은 싱가포르 국제중재센터(SIAC) 규칙에 따라 싱가포르에서 구속력 있는 중재를 통해 해결됩니다.",
+                "classAction": "귀하는 집단 소송 또는 집단 중재에 참여할 권리를 포기합니다.",
+                "arbitrationProcess": {
+                    "title": "중재 절차",
+                    "steps": {
+                        "notice": "분쟁에 대한 서면 통지를 Azcoin에 제출해야 합니다",
+                        "negotiation": "30일간의 선의의 협상 기간",
+                        "language": "해결되지 않을 경우, 중재는 영어로 진행됩니다",
+                        "decision": "중재인의 결정은 최종적이며 구속력이 있습니다",
+                        "fees": "각 당사자는 각자의 법적 비용과 경비를 부담합니다"
+                    }
+                }
+            },
+            "changes": {
+                "title": "약관 변경",
+                "content": "당사는 본 약관을 주기적으로 수정할 수 있습니다. 업데이트는 여기에 게시되며, Azcoin을 계속 사용하면 동의한 것으로 간주됩니다.",
+                "notificationProcess": {
+                    "title": "통지 절차",
+                    "description": "본 약관에 중대한 변경이 있을 경우, 다음을 통해 귀하에게 통지합니다:",
+                    "methods": {
+                        "email": "이메일 알림(이메일을 제공한 경우)",
+                        "website": "웹사이트 공지",
+                        "inApp": "앱 내 알림"
+                    }
+                }
+            },
+            "contact": {
+                "title": "연락처",
+                "content": "이 약관에 대한 질문은 다음으로 연락해 주세요:",
+                "email": "이메일: hello@azcoin.com",
+                "address": "주소: Azcoin Headquarters, 20 Prince Well Rd, North Yarmouth, Maine(ME)",
+                "response": "응답 시간",
+                "responseTime": "모든 문의에 대해 48시간 이내에 답변하고, 14일 이내에 문제를 해결하기 위해 노력합니다."
+            },
+            "additionalTerms": {
+                "title": "추가 약관",
+                "forceMajeure": {
+                    "title": "불가항력",
+                    "content": "Azcoin은 천재지변, 전쟁, 테러, 폭동, 금수 조치, 민간 또는 군사 당국의 행위, 화재, 홍수, 사고, 네트워크 인프라 장애, 파업, 또는 운송 시설, 연료, 에너지, 노동, 자재 부족 등 당사의 합리적 통제를 벗어나는 상황으로 인해 발생한 이행 실패 또는 지연에 대해 책임지지 않습니다."
+                },
+                "severability": {
+                    "title": "분리 가능성",
+                    "content": "본 약관의 조항이 집행 불가능하거나 무효로 판결될 경우, 해당 조항은 필요한 최소한의 범위로 제한되거나 삭제되며, 나머지 약관은 완전한 효력과 집행 가능성을 유지합니다."
+                },
+                "assignment": {
+                    "title": "양도",
+                    "content": "Azcoin의 사전 서면 동의 없이 법률 또는 기타 방식으로 본 약관을 양도하거나 이전할 수 없습니다. 그러한 동의 없이 양도 또는 이전을 시도할 경우 무효입니다. Azcoin은 제한 없이 본 약관을 자유롭게 양도하거나 이전할 수 있습니다."
+                },
+                "entireAgreement": {
+                    "title": "전체 합의",
+                    "content": "본 약관은 플랫폼 이용에 관한 귀하와 Azcoin 간의 전체 합의를 구성하며, 서면 또는 구두로 이루어진 모든 이전 및 동시 합의, 제안, 또는 진술을 대체합니다."
+                }
+            },
+            "acceptance": "Azcoin의 서비스를 이용함으로써 귀하는 본 서비스 이용약관을 읽고 이해했으며 이에 구속되는 데 동의했음을 인정합니다.",
+            "privacyPolicy": "개인정보 처리방침",
+            "startStaking": "스테이킹 시작"
+        },
+        "PrivacyPolicy": {
+            "backToHome": "홈으로 돌아가기",
+            "legalBadge": "법적 정보",
+            "title": "개인정보 처리방침",
+            "lastUpdated": "최종 업데이트: 2024년 3월 9일",
+            "introduction": {
+                "title": "소개",
+                "content": "Azcoin은 귀하의 개인정보를 소중히 여기며 개인정보 보호에 최선을 다하고 있습니다. 본 개인정보 처리방침은 당사의 스테이킹 플랫폼 및 서비스와 상호작용할 때 귀하의 데이터를 어떻게 수집, 사용, 보호하는지 설명합니다."
+            },
+            "informationCollection": {
+                "title": "수집하는 정보",
+                "personalInfo": {
+                    "title": "개인정보",
+                    "content": "플랫폼에 가입하거나 이용할 때 귀하의 이름, 이메일 주소, 지갑 주소, 기타 연락처 정보를 수집할 수 있습니다."
+                },
+                "transactionData": {
+                    "title": "거래 데이터",
+                    "content": "토큰 입금, 수익 청구, 추천 커미션 등 스테이킹 활동에 대한 세부 정보를 수집합니다."
+                },
+                "technicalData": {
+                    "title": "기술 데이터",
+                    "content": "보안 강화 및 서비스 개선을 위해 IP 주소, 브라우저 유형, 디바이스 정보, 사용 데이터를 수집할 수 있습니다."
+                }
+            },
+            "informationUsage": {
+                "title": "정보 사용 방법",
+                "serviceProvision": {
+                    "title": "서비스 제공",
+                    "content": "스테이킹 관리, 거래 처리, 고객 지원 제공을 위해 사용됩니다."
+                },
+                "communication": {
+                    "title": "커뮤니케이션",
+                    "content": "Azcoin에 대한 업데이트, 알림, 프로모션 제안을 보내기 위해 사용됩니다."
+                },
+                "security": {
+                    "title": "보안",
+                    "content": "사기, 무단 접근, 불법 활동 탐지 및 방지를 위해 사용됩니다."
+                },
+                "analytics": {
+                    "title": "분석",
+                    "content": "사용 추세를 연구하고 플랫폼 성능 및 사용자 경험을 최적화하기 위해 사용됩니다."
+                }
+            },
+            "dataSharing": {
+                "title": "데이터 공유 및 공개",
+                "thirdParty": {
+                    "title": "제3자 파트너",
+                    "content": "플랫폼 운영을 지원하는 신뢰할 수 있는 서비스 제공자(예: 결제 처리업체, 분석 도구)와 데이터를 공유할 수 있습니다."
+                },
+                "legalRequirements": {
+                    "title": "법적 요구사항",
+                    "content": "법률에 의해 요구되거나 당사의 권리와 사용자 안전을 보호하기 위해 정보를 공개할 수 있습니다."
+                },
+                "blockchainTransparency": {
+                    "title": "블록체인 투명성",
+                    "content": "블록체인 거래는 공개적입니다. 귀하의 지갑 주소와 거래 세부 정보는 블록체인 네트워크에서 볼 수 있습니다."
+                }
+            },
+            "dataSecurity": {
+                "title": "데이터 보안",
+                "content": "암호화, 보안 서버, 정기 감사 등 업계 표준 조치를 통해 데이터를 보호합니다. 그러나 어떤 시스템도 100% 안전하지 않으며, 절대적인 보호를 보장할 수 없습니다.",
+                "securityMeasures": {
+                    "servers": "정기적인 보안 업데이트가 이루어지는 암호화된 보안 서버",
+                    "encryption": "민감한 데이터 전송을 위한 종단 간 암호화",
+                    "audits": "정기적인 보안 감사 및 취약점 평가"
+                }
+            },
+            "userRights": {
+                "title": "사용자 권리",
+                "access": {
+                    "title": "접근 및 수정",
+                    "content": "귀하는 데이터에 접근하거나 부정확한 정보를 수정할 수 있습니다."
+                },
+                "deletion": {
+                    "title": "삭제",
+                    "content": "법적 또는 계약상의 의무에 따라 데이터 삭제를 요청할 수 있습니다."
+                },
+                "optOut": {
+                    "title": "수신 거부",
+                    "content": "언제든지 프로모션 이메일 수신을 취소할 수 있습니다."
+                }
+            },
+            "cookies": {
+                "title": "쿠키 및 추적",
+                "description": "쿠키 및 유사 기술을 사용하여 사용자 경험을 개선하고, 사용을 분석하며, 맞춤형 콘텐츠를 제공합니다. 브라우저에서 쿠키 설정을 조정할 수 있습니다.",
+                "types": {
+                    "essential": {
+                        "title": "필수 쿠키",
+                        "badge": "필수",
+                        "description": "웹사이트가 정상적으로 작동하는 데 필요"
+                    },
+                    "functional": {
+                        "title": "기능 쿠키",
+                        "badge": "선택",
+                        "description": "사용자의 선호도 및 설정을 기억"
+                    },
+                    "analytics": {
+                        "title": "분석 쿠키",
+                        "badge": "선택",
+                        "description": "방문자가 웹사이트와 상호작용하는 방식을 이해하는 데 도움"
+                    }
+                }
+            },
+            "policyChanges": {
+                "title": "정책 변경",
+                "content": "당사는 본 개인정보 처리방침을 수시로 업데이트할 수 있습니다. 변경 사항은 여기에 게시되며, Azcoin을 계속 사용하면 업데이트된 정책에 동의한 것으로 간주됩니다.",
+                "updateProcess": {
+                    "title": "정책 업데이트 절차",
+                    "description": "본 정책에 중대한 변경이 있을 경우, 다음을 통해 귀하에게 통지합니다:",
+                    "methods": [
+                        "이메일 알림(이메일을 제공한 경우)",
+                        "웹사이트 공지",
+                        "앱 내 알림"
+                    ]
+                },
+                "previousVersions": {
+                    "title": "이전 버전",
+                    "content": "당사에 연락하여 개인정보 처리방침의 이전 버전에 접근할 수 있습니다."
+                }
+            },
+            "contact": {
+                "title": "문의하기",
+                "description": "본 개인정보 처리방침에 대한 질문이나 우려가 있을 경우, 다음으로 연락 주세요:",
+                "email": "이메일: hello@optifund.app",
+                "address": "주소: Azcoin 본사, 미국 메인주 노스 야머스, 프린스 웰 로드 20번지",
+                "dpo": "데이터 보호 책임자: 존 스미스",
+                "responseTime": {
+                    "title": "응답 시간",
+                    "content": "개인정보 관련 모든 문의에 48시간 이내에 답변하고, 14일 이내에 문제를 해결하기 위해 노력합니다."
+                }
+            },
+            "additionalInfo": {
+                "title": "추가 정보",
+                "internationalTransfers": {
+                    "title": "국제 데이터 전송",
+                    "content": "귀하의 정보는 귀하가 거주하는 국가 외의 국가로 전송되어 처리될 수 있습니다. 이러한 국가에서는 데이터 보호법이 다를 수 있습니다. 데이터를 전송할 때 본 개인정보 처리방침에 따라 보호되도록 적절한 조치를 취합니다."
+                },
+                "dataRetention": {
+                    "title": "데이터 보존",
+                    "content": "본 개인정보 처리방침에 명시된 목적을 달성하는 데 필요한 기간 동안 개인정보를 보존합니다. 단, 법률에 의해 더 긴 보존 기간이 요구되거나 허용되는 경우는 예외입니다. 데이터 보존 기간을 결정할 때 정보의 양, 성격, 민감도, 무단 사용 또는 공개로 인한 잠재적 위험, 적용 가능한 법적 요구사항을 고려합니다."
+                },
+                "childrenPrivacy": {
+                    "title": "아동 개인정보",
+                    "content": "당사의 서비스는 18세 미만의 개인을 대상으로 하지 않습니다. 아동의 개인정보를 고의로 수집하지 않습니다. 실수로 아동의 정보를 수집했다고 생각되면 즉시 연락 주시면 해당 정보를 삭제하는 조치를 취하겠습니다."
+                },
+                "thirdPartyLinks": {
+                    "title": "제3자 링크",
+                    "content": "당사 플랫폼에는 제3자 웹사이트 또는 서비스로 연결되는 링크가 포함될 수 있습니다. 당사는 이러한 제3자의 개인정보 처리 관행이나 콘텐츠에 대해 책임지지 않습니다. 방문하는 제3자 웹사이트의 개인정보 처리방침을 확인할 것을 권장합니다."
+                }
+            },
+            "acknowledgment": "Azcoin의 서비스를 이용함으로써 귀하는 본 개인정보 처리방침을 읽고 이해했음을 인정합니다.",
+            "termsOfService": "서비스 이용약관",
+            "startStaking": "스테이킹 시작"
+        },
+        "SwapPage": {
+    "title": "토큰 교환",
+    "description": "최적의 가격으로 즉시 토큰을 구매하거나 판매하세요",
+    "from": "에서",
+    "to": "로",
+    "max": "최대",
+    "balance": "잔액",
+    "minimumReceived": "최소 수령액",
+    "router": "라우터",
+    "estimatedFees": "예상 수수료",
+    "slippageTolerance": "슬리피지 허용 범위",
+    "connectWallet": "지갑 연결",
+    "insufficientBalance": "잔액 부족",
+    "enterAmount": "금액 입력",
+    "approve": "승인",
+    "approving": "승인 중...",
+    "swap": "교환",
+    "swapping": "교환 중...",
+    "confirmSwap": "교환 확인",
+    "settings": "설정",
+    "configureSwapSettings": "교환 설정 구성",
+    "close": "닫기",
+    "transactionDetails": "거래 세부 정보",
+    "priceImpact": "가격 영향",
+    "amountInUSD": "USD 금액",
+    "amountOutUSD": "USD 수령 금액",
+    "tradingFee": "거래 수수료 (USD)",
+    "warning": "경고",
+    "highPriceImpact": "높은 가격 영향은 예기치 않은 결과를 초래할 수 있습니다.",
+    "success": "성공",
+    "error": "오류",
+    "info": "정보",
+    "sendingTransaction": "거래 전송 중...",
+    "swapSent": "교환 전송 완료! 확인 대기 중...",
+    "swapSuccessful": "교환 성공!",
+    "swapFailed": "교환 실패. 다시 시도해 주세요.",
+    "couldNotPrepareTransaction": "거래를 준비할 수 없습니다: {error}",
+    "youNeedToConnectWallet": "먼저 지갑을 연결해야 합니다",
+    "swapSuccessfulTitle": "교환 성공",
+    "swapSuccessfulDescription": "교환이 성공적으로 완료되었습니다. 이제 아래에 거래 세부 정보를 확인할 수 있습니다."
+},
+"TokenSelector": {
+    "selectToken": "토큰 선택",
+    "searchByToken": "토큰으로 검색하거나 주소를 붙여넣기",
+    "popularTokens": "인기 토큰",
+    "token": "토큰",
+    "balance": "잔액",
+    "loadingTokens": "토큰 로드 중...",
+    "noTokensFound": "토큰을 찾을 수 없습니다. 다른 검색어를 시도해 보세요.",
+    "settings": "설정",
+    "slippageTolerance": "슬리피지 허용 범위"
+}
+    }
