@@ -345,7 +345,7 @@
                     "2": "Plan and MPY rate auto-selected",
                     "3": "Confirm transaction",
                     "4": "Earn rewards immediately",
-                    "5": "Claim rewards every 24 hours(70% Token Staked + 30% AZC)",
+                    "5": "Claim rewards every 24 hours(70% Token Staked + 10% OFUND)",
                     "6": "Staking stops at 400% return"
                 }
             }
