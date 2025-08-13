@@ -658,168 +658,257 @@ export default function TokenStaking() {
   }, [selectedToken]);
 
   return (
-    <div className="min-h-screen  transition-colors duration-300">
-      <div className="container mx-auto px-4 py-8 max-w-8xl">
-        <div className="flex justify-between items-center mb-8">
-          <div className="text-left">
-            <h1 className="text-3xl font-bold mb-2 bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 via-emerald-400/90 to-cyan-300">
-              {t("title")}
-            </h1>
-            <p className="text-muted-foreground">{t("description")}</p>
+    <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50/30 to-purple-50/30 dark:from-slate-900 dark:via-blue-950/30 dark:to-purple-950/30 transition-colors duration-300">
+      {/* Decorative Background Elements */}
+      <div className="absolute inset-0 overflow-hidden pointer-events-none">
+        <div className="absolute top-20 left-10 w-72 h-72 bg-gradient-to-r from-blue-400/10 to-purple-400/10 rounded-full blur-3xl animate-pulse" />
+        <div className="absolute bottom-20 right-10 w-96 h-96 bg-gradient-to-r from-purple-400/10 to-pink-400/10 rounded-full blur-3xl animate-pulse delay-1000" />
+        <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-64 h-64 bg-gradient-to-r from-green-400/5 to-emerald-400/5 rounded-full blur-2xl animate-pulse delay-500" />
+      </div>
+
+      <div className="container mx-auto px-4 py-12 max-w-8xl relative z-10">
+        {/* Enhanced Header Section */}
+        <div className="text-center mb-16">
+          <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-gradient-to-r from-blue-100 to-purple-100 dark:from-blue-900/30 dark:to-purple-900/30 border border-blue-200 dark:border-blue-700/50 mb-6">
+            <Lock className="h-4 w-4 text-blue-600 dark:text-blue-400" />
+            <span className="text-sm font-medium text-blue-700 dark:text-blue-300">Secure Staking Platform</span>
+          </div>
+          <h1 className="text-5xl sm:text-6xl font-bold mb-6 bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 dark:from-blue-400 dark:via-purple-400 dark:to-pink-400 bg-clip-text text-transparent">
+            {t("title")}
+          </h1>
+          <p className="text-xl text-slate-600 dark:text-slate-300 leading-relaxed max-w-3xl mx-auto">
+            {t("description")}
+          </p>
+          
+          {/* Stats Cards */}
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 mt-12 max-w-4xl mx-auto">
+            <div className="p-6 rounded-2xl bg-white/60 dark:bg-slate-800/60 backdrop-blur-sm border border-white/20 dark:border-slate-700/50 hover:bg-white/80 dark:hover:bg-slate-800/80 transition-all duration-300">
+              <div className="text-3xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">15.9%</div>
+              <div className="text-sm text-slate-600 dark:text-slate-400 mt-1">Average APY</div>
+            </div>
+            <div className="p-6 rounded-2xl bg-white/60 dark:bg-slate-800/60 backdrop-blur-sm border border-white/20 dark:border-slate-700/50 hover:bg-white/80 dark:hover:bg-slate-800/80 transition-all duration-300">
+              <div className="text-3xl font-bold bg-gradient-to-r from-green-600 to-emerald-600 bg-clip-text text-transparent">4.5K+</div>
+              <div className="text-sm text-slate-600 dark:text-slate-400 mt-1">Active Users</div>
+            </div>
+            <div className="p-6 rounded-2xl bg-white/60 dark:bg-slate-800/60 backdrop-blur-sm border border-white/20 dark:border-slate-700/50 hover:bg-white/80 dark:hover:bg-slate-800/80 transition-all duration-300">
+              <div className="text-3xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">$60.1M</div>
+              <div className="text-sm text-slate-600 dark:text-slate-400 mt-1">Total Staked</div>
+            </div>
           </div>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-12 gap-2 md:gap-6">
           <div className="md:col-span-8 order-2 md:order-1">
-            <Card className="mb-6 order-1">
-              <CardHeader>
-                <CardTitle className="flex items-center gap-2">
-                  <Wallet className="h-5 w-5" />
+            <Card className="mb-6 order-1 bg-white/80 dark:bg-slate-900/80 backdrop-blur-xl border-0 shadow-xl">
+              <CardHeader className="pb-4">
+                <CardTitle className="flex items-center gap-3 text-xl">
+                  <div className="p-2 rounded-xl bg-gradient-to-r from-blue-500 to-purple-500">
+                    <Wallet className="h-5 w-5 text-white" />
+                  </div>
                   {t("balance.title")}
                 </CardTitle>
+                <p className="text-slate-600 dark:text-slate-300">
+                  Choose your preferred token to stake
+                </p>
               </CardHeader>
               <CardContent>
-                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                  {tokenTypes.map((token) => (
-                    <div
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                  {tokenTypes.map((token, index) => (
+                    <motion.div
                       key={token.id}
-                      className={`relative flex items-center justify-between p-3 rounded-lg border bg-card transition-colors cursor-pointer ${
-                        (token as TokenType).comingSoon
-                          ? "opacity-50 hover:opacity-60 border-dashed"
-                          : selectedToken === token.id
-                          ? "border-primary dark:border-green-900/90 shadow-sm dark:shadow-green-900/50 hover:bg-accent/10"
-                          : "hover:bg-accent/10"
-                      }`}
+                      initial={{ opacity: 0, y: 20 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      transition={{ delay: index * 0.1 }}
+                      className={`relative group cursor-pointer`}
                       onClick={() => {
                         setSelectedToken(token.id);
                       }}
                     >
-                      {selectedToken === token.id && (
-                        <motion.div
-                          className="absolute -top-2 -left-2 w-6 h-6 bg-primary dark:bg-green-900 rounded-full flex items-center justify-center"
-                          layoutId="checkIcon"
-                          initial={{ scale: 0 }}
-                          animate={{ scale: 1 }}
-                          transition={{ duration: 0.5 }}
-                        >
-                          <motion.svg
-                            xmlns="http://www.w3.org/2000/svg"
-                            viewBox="0 0 24 24"
-                            fill="none"
-                            stroke="currentColor"
-                            strokeWidth="2"
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
-                            className="h-4 w-4 text-white dark:text-green-400"
+                      <div
+                        className={`relative p-6 rounded-2xl border-2 transition-all duration-300 transform hover:scale-105 hover:shadow-2xl ${
+                          selectedToken === token.id
+                            ? "border-blue-500 bg-gradient-to-br from-blue-50 to-purple-50 dark:from-blue-950/50 dark:to-purple-950/50 shadow-xl"
+                            : "border-slate-200 dark:border-slate-700 bg-white/60 dark:bg-slate-800/60 hover:border-blue-300 dark:hover:border-blue-600"
+                        }`}
+                      >
+                        {/* Selected indicator */}
+                        {selectedToken === token.id && (
+                          <motion.div
+                            className="absolute -top-3 -right-3 w-8 h-8 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full flex items-center justify-center shadow-lg"
+                            layoutId="selectedBadge"
+                            initial={{ scale: 0 }}
+                            animate={{ scale: 1 }}
+                            transition={{ duration: 0.3 }}
                           >
-                            <motion.path
-                              d="M5 13l4 4L19 7"
-                              initial={{ pathLength: 0 }}
-                              animate={{ pathLength: 1 }}
-                              transition={{ duration: 0.5 }}
-                            />
-                          </motion.svg>
-                        </motion.div>
-                      )}
-                      <div className="flex items-center gap-3">
-                        <div className="flex items-center justify-center w-10 h-10 rounded-full bg-primary/10">
-                          <Image
-                            src={token.icon}
-                            alt={token.name}
-                            className="w-6 h-6 object-contain"
-                            width={24}
-                            height={24}
-                          />
-                        </div>
-                        <div>
-                          <p className="font-medium">{token.symbol}</p>
-                          <p className="text-sm text-muted-foreground">
-                            {token.name}
-                          </p>
-                        </div>
-                      </div>
-                      <div className="text-right">
-                        {(token as TokenType).comingSoon ? (
-                          <div className="flex flex-col items-end">
-                            <p className="font-bold text-muted-foreground">0.0000</p>
-                            <Badge variant="outline" className="text-xs mt-1">
-                              Coming Soon
-                            </Badge>
-                          </div>
-                        ) : (token.id === "bnb" && BNBBalanceLoading) ||
-                          (token.id === "fil" && FILBalanceLoading) ||
-                          (token.id === "link" && LINKBalanceLoading) ||
-                          (token.id === "usdt" && USDTBalanceLoading) ? (
-                          <Skeleton className="w-[50px] h-[20px]" />
-                        ) : (
-                          <p className="font-bold">
-                            {Number(getTokenBalance(token.id))
-                              .toFixed(4)
-                              .toString()}
-                          </p>
+                            <motion.svg
+                              xmlns="http://www.w3.org/2000/svg"
+                              viewBox="0 0 24 24"
+                              fill="none"
+                              stroke="currentColor"
+                              strokeWidth="3"
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                              className="h-4 w-4 text-white"
+                            >
+                              <motion.path
+                                d="M5 13l4 4L19 7"
+                                initial={{ pathLength: 0 }}
+                                animate={{ pathLength: 1 }}
+                                transition={{ duration: 0.5 }}
+                              />
+                            </motion.svg>
+                          </motion.div>
                         )}
+
+                        <div className="flex items-center justify-between">
+                          <div className="flex items-center gap-4">
+                            {/* Enhanced token icon */}
+                            <div className={`relative p-3 rounded-2xl transition-all duration-300 ${
+                              selectedToken === token.id 
+                                ? "bg-gradient-to-br from-blue-100 to-purple-100 dark:from-blue-900/50 dark:to-purple-900/50" 
+                                : "bg-slate-100 dark:bg-slate-800 group-hover:bg-blue-50 dark:group-hover:bg-blue-950/30"
+                            }`}>
+                              <Image
+                                src={token.icon}
+                                alt={token.name}
+                                className="w-8 h-8 object-contain"
+                                width={32}
+                                height={32}
+                              />
+                            </div>
+                            <div>
+                              <p className="font-bold text-lg text-slate-900 dark:text-white">{token.symbol}</p>
+                              <p className="text-sm text-slate-600 dark:text-slate-400">
+                                {token.name}
+                              </p>
+                            </div>
+                          </div>
+                          
+                          {/* Balance display */}
+                          <div className="text-right">
+                            {(token.id === "bnb" && BNBBalanceLoading) ||
+                              (token.id === "fil" && FILBalanceLoading) ||
+                              (token.id === "link" && LINKBalanceLoading) ||
+                              (token.id === "usdt" && USDTBalanceLoading) ? (
+                              <Skeleton className="w-[60px] h-[24px] rounded-lg" />
+                            ) : (
+                              <div className="space-y-1">
+                                <p className="font-bold text-lg text-slate-900 dark:text-white">
+                                  {Number(getTokenBalance(token.id))
+                                    .toFixed(4)
+                                    .toString()}
+                                </p>
+                                <p className="text-xs text-slate-500 dark:text-slate-400">
+                                  Available
+                                </p>
+                              </div>
+                            )}
+                          </div>
+                        </div>
+
+                        {/* Hover overlay */}
+                        <div className="absolute inset-0 rounded-2xl bg-gradient-to-r from-blue-500/0 to-purple-500/0 group-hover:from-blue-500/5 group-hover:to-purple-500/5 transition-all duration-300" />
                       </div>
-                    </div>
+                    </motion.div>
                   ))}
                 </div>
               </CardContent>
             </Card>
 
-            <Card className="mb-6 order-3 md:order-2">
-              <CardHeader>
-                <CardTitle className="flex items-center gap-2">
-                  <Lock className="h-5 w-5" />
+            <Card className="mb-6 order-3 md:order-2 bg-white/80 dark:bg-slate-900/80 backdrop-blur-xl border-0 shadow-xl">
+              <CardHeader className="pb-6">
+                <CardTitle className="flex items-center gap-3 text-xl">
+                  <div className="p-2 rounded-xl bg-gradient-to-r from-green-500 to-emerald-500">
+                    <Lock className="h-5 w-5 text-white" />
+                  </div>
                   {t("stake.title")}
                 </CardTitle>
-                <CardDescription>{t("stake.description")}</CardDescription>
+                <CardDescription className="text-slate-600 dark:text-slate-300 text-base">
+                  {t("stake.description")}
+                </CardDescription>
               </CardHeader>
-              <CardContent className="space-y-6">
-                <div>
-                  <div className="flex justify-between">
-                    <label className="text-sm font-medium">
+              <CardContent className="space-y-8">
+                {/* Enhanced Amount Input Section */}
+                <div className="space-y-4">
+                  <div className="flex justify-between items-center">
+                    <label className="text-lg font-semibold text-slate-900 dark:text-white flex items-center gap-2">
+                      <DollarSign className="h-5 w-5 text-blue-600 dark:text-blue-400" />
                       {t("stake.amount.label")}
                     </label>
-                    <span className="text-sm text-muted-foreground">
-                      {t("stake.amount.min")}: $
-                      {stakingPlans[0].minAmount.toLocaleString()} ≈{" "}
-                      {selectedToken === "usdt"
-                        ? (stakingPlans[0].minAmount / tokenPrice).toFixed(2)
-                        : (stakingPlans[0].minAmount / tokenPrice).toFixed(
-                            4
-                          )}{" "}
-                      {selectedToken.toUpperCase()}
-                    </span>
-                  </div>
-                  <div className="flex gap-2 mt-1.5">
-                    <div className="relative flex-1">
-                      <Input
-                        type="number"
-                        placeholder={t("stake.amount.placeholder")}
-                        value={amount}
-                        onChange={(e) => setAmount(e.target.value)}
-                        onKeyDown={(e) => {
-                          if (e.key === "-" || e.key === "e") {
-                            e.preventDefault();
-                          }
-                        }}
-                        className="pr-16 [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none"
-                      />
-                      <div className="absolute inset-y-0 right-3 flex items-center text-sm font-medium text-muted-foreground">
+                    <div className="text-right">
+                      <p className="text-sm text-slate-600 dark:text-slate-400">
+                        {t("stake.amount.min")}: ${stakingPlans[0].minAmount.toLocaleString()}
+                      </p>
+                      <p className="text-xs text-slate-500 dark:text-slate-500">
+                        ≈{" "}
+                        {selectedToken === "usdt"
+                          ? (stakingPlans[0].minAmount / tokenPrice).toFixed(2)
+                          : (stakingPlans[0].minAmount / tokenPrice).toFixed(4)}{" "}
                         {selectedToken.toUpperCase()}
-                      </div>
+                      </p>
                     </div>
-                    <Button
-                      className="cursor-pointer"
-                      variant="outline"
-                      onClick={handleMaxAmount}
-                    >
-                      {t("buttons.max")}
-                    </Button>
+                  </div>
+                  
+                  <div className="relative">
+                    <div className="relative flex gap-3">
+                      {/* Enhanced Input */}
+                      <div className="relative flex-1">
+                        <Input
+                          type="number"
+                          placeholder={t("stake.amount.placeholder")}
+                          value={amount}
+                          onChange={(e) => setAmount(e.target.value)}
+                          onKeyDown={(e) => {
+                            if (e.key === "-" || e.key === "e") {
+                              e.preventDefault();
+                            }
+                          }}
+                          className="h-14 pr-20 text-lg font-semibold bg-slate-50 dark:bg-slate-800/50 border-2 border-slate-200 dark:border-slate-700 focus:border-blue-500 rounded-xl transition-all duration-300 [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none"
+                        />
+                        <div className="absolute inset-y-0 right-4 flex items-center">
+                          <div className="flex items-center gap-2 px-3 py-1 rounded-lg bg-blue-100 dark:bg-blue-900/30">
+                            <Image
+                              src={token?.icon || "/images/tokens/usdt.webp"}
+                              alt={token?.symbol || "Token"}
+                              width={20}
+                              height={20}
+                              className="rounded-full"
+                            />
+                            <span className="text-sm font-medium text-blue-700 dark:text-blue-300">
+                              {selectedToken.toUpperCase()}
+                            </span>
+                          </div>
+                        </div>
+                      </div>
+                      
+                      {/* Enhanced Max Button */}
+                      <Button
+                        variant="outline"
+                        onClick={handleMaxAmount}
+                        className="h-14 px-6 bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white border-0 font-semibold rounded-xl transition-all duration-300 transform hover:scale-105"
+                      >
+                        {t("buttons.max")}
+                      </Button>
+                    </div>
+                    
+                    {/* Amount in USD display */}
+                    {amount && tokenPrice > 0 && (
+                      <div className="mt-3 p-3 rounded-xl bg-slate-100 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700">
+                        <div className="flex justify-between items-center">
+                          <span className="text-sm text-slate-600 dark:text-slate-400">Value in USD:</span>
+                          <span className="text-lg font-bold text-green-600 dark:text-green-400">
+                            ${(parseFloat(amount || "0") * tokenPrice).toFixed(2)}
+                          </span>
+                        </div>
+                      </div>
+                    )}
                   </div>
                 </div>
 
-                <div className="space-y-2">
-                  <label className="text-sm font-medium">
+                {/* Enhanced Staking Plans Section */}
+                <div className="space-y-6">
+                  <label className="text-lg font-semibold text-slate-900 dark:text-white flex items-center gap-2">
+                    <Percent className="h-5 w-5 text-purple-600 dark:text-purple-400" />
                     {t("stake.plans.title")}
                   </label>
                   <Tabs
@@ -839,62 +928,83 @@ export default function TokenStaking() {
                     }}
                     className="w-full"
                   >
-                    <TabsList className="grid grid-cols-5 mb-4 mt-2">
-                      {stakingPlans.map((plan) => (
+                    <TabsList className="grid grid-cols-5 mb-6 p-1 bg-slate-100 dark:bg-slate-800 rounded-xl h-auto">
+                      {stakingPlans.map((plan, index) => (
                         <TabsTrigger
                           key={plan.id}
                           value={plan.id}
-                          className="lg:text-base text-sm cursor-pointer"
+                          className="relative data-[state=active]:bg-white dark:data-[state=active]:bg-slate-700 data-[state=active]:shadow-lg rounded-lg py-3 px-2 text-sm lg:text-base font-medium cursor-pointer transition-all duration-300 hover:bg-white/50 dark:hover:bg-slate-700/50"
                         >
-                          {t(
-                            `stake.plans.plan.names.${plan.name.toLowerCase()}`
-                          )}
+                          <div className="text-center">
+                            <div className="font-bold">
+                              {t(`stake.plans.plan.names.${plan.name.toLowerCase()}`)}
+                            </div>
+                            <div className="text-xs text-slate-600 dark:text-slate-400 mt-1">
+                              {plan.apy}% APY
+                            </div>
+                          </div>
                         </TabsTrigger>
                       ))}
                     </TabsList>
                     {stakingPlans.map((plan) => (
                       <TabsContent key={plan.id} value={plan.id}>
-                        <Card className="bg-accent/50">
-                          <CardHeader className="pb-2">
-                            <div className="flex justify-between items-center">
-                              <CardTitle>
-                                {t("stake.plans.plan.title")}{" "}
-                                {t(
-                                  `stake.plans.plan.names.${plan.name.toLowerCase()}`
-                                )}{" "}
-                              </CardTitle>
-                              <Badge
-                                variant="outline"
-                                className="bg-primary/10 text-primary text-xl"
-                              >
+                        <Card className="bg-gradient-to-br from-blue-50 to-purple-50 dark:from-blue-950/30 dark:to-purple-950/30 border-2 border-blue-200 dark:border-blue-800/50 shadow-lg">
+                          <CardHeader className="pb-4">
+                            <div className="flex justify-between items-start">
+                              <div>
+                                <CardTitle className="text-xl text-slate-900 dark:text-white">
+                                  {t("stake.plans.plan.title")}{" "}
+                                  {t(`stake.plans.plan.names.${plan.name.toLowerCase()}`)}
+                                </CardTitle>
+                                <p className="text-slate-600 dark:text-slate-300 mt-1">
+                                  Perfect for {plan.name.toLowerCase()} investors
+                                </p>
+                              </div>
+                              <Badge className="bg-gradient-to-r from-blue-500 to-purple-500 text-white text-lg px-4 py-2 font-bold">
                                 {plan.apy}% {t("stake.plans.plan.mpy")}
                               </Badge>
                             </div>
                           </CardHeader>
-                          <CardContent className="space-y-4">
-                            <div>
-                              <div className="flex items-center gap-2">
-                                <DollarSign className="h-4 w-4 text-muted-foreground" />
-                                <div>
-                                  <p className="text-sm font-medium">
-                                    {t("stake.plans.plan.investmentRange")}
-                                  </p>
-                                  <p className="text-sm text-muted-foreground">
-                                    ${plan.minAmount.toLocaleString()} -{" "}
-                                    {plan.maxAmount === Infinity
-                                      ? "∞"
-                                      : `$${plan.maxAmount.toLocaleString()}`}
-                                  </p>
+                          <CardContent className="space-y-6">
+                            {/* Investment Range */}
+                            <div className="p-4 rounded-xl bg-white/60 dark:bg-slate-800/60 border border-white/20 dark:border-slate-700/50">
+                              <div className="flex items-center gap-3 mb-2">
+                                <div className="p-2 rounded-lg bg-green-100 dark:bg-green-900/30">
+                                  <DollarSign className="h-4 w-4 text-green-600 dark:text-green-400" />
                                 </div>
+                                <p className="font-semibold text-slate-900 dark:text-white">
+                                  {t("stake.plans.plan.investmentRange")}
+                                </p>
+                              </div>
+                              <p className="text-lg font-bold text-green-600 dark:text-green-400">
+                                ${plan.minAmount.toLocaleString()} -{" "}
+                                {plan.maxAmount === Infinity
+                                  ? "∞"
+                                  : `$${plan.maxAmount.toLocaleString()}`}
+                              </p>
+                            </div>
+
+                            {/* Features */}
+                            <div className="space-y-3">
+                              <div className="flex items-start gap-3 p-3 rounded-lg bg-blue-50 dark:bg-blue-950/30">
+                                <div className="w-2 h-2 rounded-full bg-blue-500 mt-2" />
+                                <p className="text-slate-700 dark:text-slate-300">
+                                  {t("stake.plans.plan.earn")} <span className="font-bold text-blue-600 dark:text-blue-400">{plan.apy}%</span> {t("stake.plans.plan.mpyUntil")}
+                                </p>
+                              </div>
+                              <div className="flex items-start gap-3 p-3 rounded-lg bg-purple-50 dark:bg-purple-950/30">
+                                <div className="w-2 h-2 rounded-full bg-purple-500 mt-2" />
+                                <p className="text-slate-700 dark:text-slate-300">
+                                  {t("stake.plans.plan.mpyNote")}
+                                </p>
+                              </div>
+                              <div className="flex items-start gap-3 p-3 rounded-lg bg-green-50 dark:bg-green-950/30">
+                                <div className="w-2 h-2 rounded-full bg-green-500 mt-2" />
+                                <p className="text-slate-700 dark:text-slate-300">
+                                  Maximum return: <span className="font-bold text-green-600 dark:text-green-400">400%</span> of initial investment
+                                </p>
                               </div>
                             </div>
-                            <p className="text-sm">
-                              {t("stake.plans.plan.earn")} {plan.apy}%{" "}
-                              {t("stake.plans.plan.mpyUntil")}
-                            </p>
-                            <p className="text-sm text-muted-foreground">
-                              {t("stake.plans.plan.mpyNote")}
-                            </p>
                           </CardContent>
                         </Card>
                       </TabsContent>
@@ -945,62 +1055,97 @@ export default function TokenStaking() {
           </div>
 
           <div className="md:col-span-4 order-2 md:order-3">
-            <Card className="sticky top-20">
-              <CardHeader>
-                <CardTitle className="flex items-center gap-2">
-                  <Calculator className="h-5 w-5" />
+            <Card className="sticky top-20 bg-white/90 dark:bg-slate-900/90 backdrop-blur-xl border-0 shadow-2xl">
+              <CardHeader className="pb-6">
+                <CardTitle className="flex items-center gap-3 text-xl">
+                  <div className="p-2 rounded-xl bg-gradient-to-r from-amber-500 to-orange-500">
+                    <Calculator className="h-5 w-5 text-white" />
+                  </div>
                   {t("summary.title")}
                 </CardTitle>
+                <p className="text-slate-600 dark:text-slate-300">
+                  Review your staking details
+                </p>
               </CardHeader>
-              <CardContent className="space-y-4">
-                <div className="space-y-2">
-                  <div className="flex justify-between">
-                    <span className="text-sm text-muted-foreground">
-                      {t("summary.token")}
-                    </span>
-                    <span className="font-medium">{token?.name}</span>
-                  </div>
-                  <div className="flex justify-between">
-                    <span className="text-sm text-muted-foreground">
-                      {t("summary.amount")}
-                    </span>
-                    <div className="flex flex-col text-right">
-                      <span className="font-medium">
-                        {selectedToken === "usdt"
-                          ? Number(
-                              parseFloat(amount || "0").toFixed(2)
-                            ).toString()
-                          : Number(
-                              parseFloat(amount || "0").toFixed(4)
-                            ).toString()}{" "}
-                        {selectedToken.toUpperCase()}
-                      </span>
-                      <span className="text-sm text-muted-foreground">
-                        ${amountToken.toFixed(2)}
-                      </span>
+              <CardContent className="space-y-6">
+                {/* Enhanced Summary Items */}
+                <div className="space-y-4">
+                  {/* Token Info */}
+                  <div className="p-4 rounded-xl bg-gradient-to-r from-blue-50 to-purple-50 dark:from-blue-950/30 dark:to-purple-950/30 border border-blue-200/50 dark:border-blue-700/30">
+                    <div className="flex items-center justify-between">
+                      <div className="flex items-center gap-3">
+                        <Image
+                          src={token?.icon || "/images/tokens/usdt.webp"}
+                          alt={token?.symbol || "Token"}
+                          width={24}
+                          height={24}
+                          className="rounded-full"
+                        />
+                        <div>
+                          <p className="font-semibold text-slate-900 dark:text-white">
+                            {token?.name}
+                          </p>
+                          <p className="text-xs text-slate-600 dark:text-slate-400">
+                            {t("summary.token")}
+                          </p>
+                        </div>
+                      </div>
+                      <div className="text-right">
+                        <p className="font-bold text-lg text-slate-900 dark:text-white">
+                          {selectedToken === "usdt"
+                            ? Number(parseFloat(amount || "0").toFixed(2)).toString()
+                            : Number(parseFloat(amount || "0").toFixed(4)).toString()}{" "}
+                          {selectedToken.toUpperCase()}
+                        </p>
+                        <p className="text-sm text-green-600 dark:text-green-400 font-semibold">
+                          ${amountToken.toFixed(2)}
+                        </p>
+                      </div>
                     </div>
                   </div>
-                  <div className="flex justify-between">
-                    <span className="text-sm text-muted-foreground">
-                      {t("summary.plan")}
-                    </span>
-                    <span className="font-medium">
-                      {t(`stake.plans.plan.names.${plan?.name.toLowerCase()}`)}
-                    </span>
+
+                  {/* Plan & APY */}
+                  <div className="p-4 rounded-xl bg-gradient-to-r from-purple-50 to-pink-50 dark:from-purple-950/30 dark:to-pink-950/30 border border-purple-200/50 dark:border-purple-700/30">
+                    <div className="flex justify-between items-center">
+                      <div>
+                        <p className="font-semibold text-slate-900 dark:text-white">
+                          {t(`stake.plans.plan.names.${plan?.name.toLowerCase()}`)} Plan
+                        </p>
+                        <p className="text-xs text-slate-600 dark:text-slate-400">
+                          {t("summary.plan")}
+                        </p>
+                      </div>
+                      <div className="text-right">
+                        <p className="text-2xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
+                          {plan?.apy}%
+                        </p>
+                        <p className="text-xs text-slate-600 dark:text-slate-400">
+                          {t("summary.mpy")}
+                        </p>
+                      </div>
+                    </div>
                   </div>
-                  <div className="flex justify-between">
-                    <span className="text-sm text-muted-foreground">
-                      {t("summary.mpy")}
-                    </span>
-                    <span className="font-medium text-primary">
-                      {plan?.apy}%
-                    </span>
-                  </div>
-                  <div className="flex justify-between">
-                    <span className="text-sm text-muted-foreground">
-                      {t("summary.returnCap")}
-                    </span>
-                    <span className="font-medium">400%</span>
+
+                  {/* Return Cap */}
+                  <div className="p-4 rounded-xl bg-gradient-to-r from-green-50 to-emerald-50 dark:from-green-950/30 dark:to-emerald-950/30 border border-green-200/50 dark:border-green-700/30">
+                    <div className="flex justify-between items-center">
+                      <div>
+                        <p className="font-semibold text-slate-900 dark:text-white">
+                          Maximum Return
+                        </p>
+                        <p className="text-xs text-slate-600 dark:text-slate-400">
+                          {t("summary.returnCap")}
+                        </p>
+                      </div>
+                      <div className="text-right">
+                        <p className="text-2xl font-bold text-green-600 dark:text-green-400">
+                          400%
+                        </p>
+                        <p className="text-xs text-slate-600 dark:text-slate-400">
+                          Of investment
+                        </p>
+                      </div>
+                    </div>
                   </div>
                   {referrer &&
                     partnerData ===
@@ -1039,88 +1184,109 @@ export default function TokenStaking() {
 
                 <Separator />
 
-                <div className="space-y-2">
-                  <h3 className="text-sm font-medium flex items-center gap-1">
-                    <Percent className="h-4 w-4" />
-                    {t("summary.estimatedReturns.title")}
-                  </h3>
-                  <div className="rounded-lg p-3 bg-accent/50 space-y-2">
-                    <div className="flex justify-between">
-                      <span className="text-sm text-muted-foreground">
-                        {t("summary.estimatedReturns.daily")}
-                      </span>
-                      <span className="font-medium">
+                {/* Enhanced Estimated Returns */}
+                <div className="space-y-4">
+                  <div className="flex items-center gap-2 mb-4">
+                    <div className="p-2 rounded-lg bg-gradient-to-r from-indigo-500 to-purple-500">
+                      <Percent className="h-4 w-4 text-white" />
+                    </div>
+                    <h3 className="text-lg font-semibold text-slate-900 dark:text-white">
+                      {t("summary.estimatedReturns.title")}
+                    </h3>
+                  </div>
+                  
+                  <div className="p-6 rounded-2xl bg-gradient-to-br from-indigo-50 to-purple-50 dark:from-indigo-950/30 dark:to-purple-950/30 border border-indigo-200/50 dark:border-indigo-700/30 space-y-4">
+                    {/* Daily Returns */}
+                    <div className="flex justify-between items-center p-3 rounded-xl bg-white/60 dark:bg-slate-800/60">
+                      <div className="flex items-center gap-2">
+                        <div className="w-3 h-3 rounded-full bg-blue-500" />
+                        <span className="text-sm font-medium text-slate-700 dark:text-slate-300">
+                          {t("summary.estimatedReturns.daily")}
+                        </span>
+                      </div>
+                      <span className="font-bold text-blue-600 dark:text-blue-400">
                         {selectedToken === "usdt"
                           ? Number(estimatedReturns.daily.toFixed(2)).toString()
-                          : Number(
-                              estimatedReturns.daily.toFixed(6)
-                            ).toString()}{" "}
+                          : Number(estimatedReturns.daily.toFixed(6)).toString()}{" "}
                         {selectedToken.toUpperCase()}
                       </span>
                     </div>
-                    <div className="flex justify-between">
-                      <span className="text-sm text-muted-foreground">
-                        {t("summary.estimatedReturns.monthly")}
-                      </span>
-                      <span className="font-medium">
-                        {selectedToken === "usdt"
-                          ? Number(
-                              estimatedReturns.monthly.toFixed(2)
-                            ).toString()
-                          : Number(
-                              estimatedReturns.monthly.toFixed(6)
-                            ).toString()}{" "}
-                        {selectedToken.toUpperCase()}
-                      </span>
-                    </div>
-                    <div className="flex justify-between">
-                      <span className="text-sm text-muted-foreground">
-                        {t("summary.estimatedReturns.yearly")}
-                      </span>
-                      <span className="font-medium">
-                        {selectedToken === "usdt"
-                          ? Number(
-                              estimatedReturns.yearly.toFixed(2)
-                            ).toString()
-                          : Number(
-                              estimatedReturns.yearly.toFixed(6)
-                            ).toString()}{" "}
-                        {selectedToken.toUpperCase()}
-                      </span>
-                    </div>
-                    <div className="flex justify-between pt-1 border-t">
-                      <span className="text-sm text-muted-foreground">
-                        {t("summary.estimatedReturns.total")}
-                      </span>
-                      <div className="flex flex-col text-right">
-                        <span className="font-medium text-primary">
-                          {selectedToken === "usdt"
-                            ? Number(
-                                estimatedReturns.total.toFixed(2)
-                              ).toString()
-                            : Number(
-                                estimatedReturns.total.toFixed(6)
-                              ).toString()}{" "}
-                          {selectedToken.toUpperCase()}
+
+                    {/* Monthly Returns */}
+                    <div className="flex justify-between items-center p-3 rounded-xl bg-white/60 dark:bg-slate-800/60">
+                      <div className="flex items-center gap-2">
+                        <div className="w-3 h-3 rounded-full bg-purple-500" />
+                        <span className="text-sm font-medium text-slate-700 dark:text-slate-300">
+                          {t("summary.estimatedReturns.monthly")}
                         </span>
-                        <span className="text-sm text-muted-foreground">
-                          ${totalCap400.toFixed(2)}
+                      </div>
+                      <span className="font-bold text-purple-600 dark:text-purple-400">
+                        {selectedToken === "usdt"
+                          ? Number(estimatedReturns.monthly.toFixed(2)).toString()
+                          : Number(estimatedReturns.monthly.toFixed(6)).toString()}{" "}
+                        {selectedToken.toUpperCase()}
+                      </span>
+                    </div>
+
+                    {/* Yearly Returns */}
+                    <div className="flex justify-between items-center p-3 rounded-xl bg-white/60 dark:bg-slate-800/60">
+                      <div className="flex items-center gap-2">
+                        <div className="w-3 h-3 rounded-full bg-green-500" />
+                        <span className="text-sm font-medium text-slate-700 dark:text-slate-300">
+                          {t("summary.estimatedReturns.yearly")}
                         </span>
+                      </div>
+                      <span className="font-bold text-green-600 dark:text-green-400">
+                        {selectedToken === "usdt"
+                          ? Number(estimatedReturns.yearly.toFixed(2)).toString()
+                          : Number(estimatedReturns.yearly.toFixed(6)).toString()}{" "}
+                        {selectedToken.toUpperCase()}
+                      </span>
+                    </div>
+
+                    {/* Total Returns - Highlighted */}
+                    <div className="p-4 rounded-xl bg-gradient-to-r from-amber-100 to-orange-100 dark:from-amber-900/30 dark:to-orange-900/30 border-2 border-amber-200 dark:border-amber-700/50">
+                      <div className="flex justify-between items-center">
+                        <div className="flex items-center gap-2">
+                          <div className="w-4 h-4 rounded-full bg-gradient-to-r from-amber-500 to-orange-500" />
+                          <span className="font-semibold text-slate-900 dark:text-white">
+                            {t("summary.estimatedReturns.total")}
+                          </span>
+                        </div>
+                        <div className="text-right">
+                          <p className="text-xl font-bold bg-gradient-to-r from-amber-600 to-orange-600 bg-clip-text text-transparent">
+                            {selectedToken === "usdt"
+                              ? Number(estimatedReturns.total.toFixed(2)).toString()
+                              : Number(estimatedReturns.total.toFixed(6)).toString()}{" "}
+                            {selectedToken.toUpperCase()}
+                          </p>
+                          <p className="text-sm text-amber-600 dark:text-amber-400 font-semibold">
+                            ${totalCap400.toFixed(2)}
+                          </p>
+                        </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </CardContent>
-              <CardFooter>
-                {/* ================ STAKE BUTTON ================ */}
-                <RainbowButton
-                  onClick={handleAction}
-                  disabled={isStakeButtonDisabled}
-                  className="w-full cursor-pointer"
-                >
-                  {getButtonText()}
-                </RainbowButton>
-                {/* ================ STAKE BUTTON ================ */}
+              <CardFooter className="pt-6">
+                {/* ================ ENHANCED STAKE BUTTON ================ */}
+                <div className="w-full space-y-4">
+                  <RainbowButton
+                    onClick={handleAction}
+                    disabled={isStakeButtonDisabled}
+                    className="w-full h-16 text-lg font-bold cursor-pointer shadow-2xl hover:shadow-3xl transition-all duration-300 transform hover:scale-[1.02]"
+                  >
+                    {getButtonText()}
+                  </RainbowButton>
+                  
+                  {/* Additional Info */}
+                  <div className="text-center text-xs text-slate-500 dark:text-slate-400 space-y-1">
+                    <p>🔒 Your funds are secured by smart contracts</p>
+                    <p>⚡ Instant rewards distribution</p>
+                  </div>
+                </div>
+                {/* ================ ENHANCED STAKE BUTTON ================ */}
               </CardFooter>
             </Card>
           </div>
